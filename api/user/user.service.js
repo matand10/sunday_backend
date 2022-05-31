@@ -19,7 +19,6 @@ async function query(filterBy = {}) {
         var users = await collection.find(criteria).toArray()
         users = users.map(user => {
             delete user.password
-            user.isHappy = true
             user.createdAt = ObjectId(user._id).getTimestamp()
             // Returning fake fresh data
             // user.createdAt = Date.now() - (1000 * 60 * 60 * 24 * 3) // 3 days ago
@@ -46,8 +45,7 @@ async function getById(userId) {
 async function getByUsername(username, password) {
     try {
         const collection = await dbService.getCollection('user')
-        const user = await collection.find({ username, password })
-        console.log(user)
+        const user = await collection.findOne({ username })
         return user
     } catch (err) {
         logger.error(`while finding user ${username}`, err)
