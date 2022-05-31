@@ -4,7 +4,6 @@ const logger = require('../../services/logger.service')
 async function login(req, res) {
     const { username, password } = req.body
     try {
-
         const user = await authService.login(username, password)
         const loginToken = authService.getLoginToken(user)
         logger.info('User login: ', user)
@@ -22,13 +21,11 @@ async function signup(req, res) {
         const { username, password, fullname } = req.body
         // Never log passwords
         // logger.debug(fullname + ', ' + username + ', ' + password)
-        const account = await authService.signup(username, password, fullname)
-        logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
-        const user = await authService.login(username, password)
+        // logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
+        const user = await authService.signup(username, password, fullname)
         const loginToken = authService.getLoginToken(user)
         logger.info('User login: ', user)
         res.cookie('loginToken', loginToken)
-
         res.json(user)
     } catch (err) {
         logger.error('Failed to signup ' + err)

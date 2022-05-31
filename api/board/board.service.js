@@ -2,11 +2,11 @@ const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
 const ObjectId = require('mongodb').ObjectId
 
-async function query() {
+async function query(filterBy) {
     try {
-        // const criteria = _buildCriteria(filterBy)
+        const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('board')
-        var boards = await collection.find({}).toArray()
+        var boards = await collection.find(criteria).toArray()
         return boards
     } catch (err) {
         logger.error('cannot find boards', err)
@@ -18,7 +18,6 @@ async function getById(boardId) {
     try {
         const collection = await dbService.getCollection('board')
         const board = collection.findOne({ _id: ObjectId(boardId) })
-        console.log(board)
         return board
     } catch (err) {
         logger.error(`while finding board ${boardId}`, err)
@@ -62,22 +61,15 @@ async function update(board) {
     }
 }
 
-// function _buildCriteria({ filterBy }) {
-//     let criteria = {}
-//     filterBy = JSON.parse(filterBy)
-//     if (filterBy.name) {
-//         const regex = new RegExp(filterBy.name, 'i')
-//         criteria.name = regex
-//     }
-//     if (filterBy.status) {
-//         if (filterBy.status === 'all') criteria = { ...criteria }
-//         if (filterBy.status === 'inStock') criteria.inStock = true
-//     }
-//     if (filterBy.labels.length) {
-//         criteria.labels = { $all: filterBy.labels }
-//     }
-//     return criteria
-// }
+function _buildCriteria(filterBy) {
+    let criteria = {}
+
+
+    // if (filterBy.userId) {
+    //     criteria.members = { _id: filterBy.userId }
+    // }
+    return criteria
+}
 
 module.exports = {
     remove,
