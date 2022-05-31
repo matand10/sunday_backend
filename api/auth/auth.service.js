@@ -8,7 +8,7 @@ const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
 
 async function login(username, password) {
     logger.debug(`auth.service - login with username: ${username}`)
-
+    console.log('from service: ', username, password);
     const user = await userService.getByUsername(username)
     if (!user) return Promise.reject('Invalid username or password')
     // TODO: un-comment for real login
