@@ -6,8 +6,7 @@ async function query(filterBy) {
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('board')
-        var boards = await collection.find(criteria).toArray()
-        return boards
+        return collection.find(criteria).toArray()
     } catch (err) {
         logger.error('cannot find boards', err)
         throw err
@@ -41,6 +40,8 @@ async function add(board) {
         // board.createdAt = Date.now()
         const collection = await dbService.getCollection('board')
         const addedBoard = await collection.insertOne(board)
+        console.log('add');
+        console.log(addedBoard);
         return addedBoard.insertedId
     } catch (err) {
         logger.error('cannot insert board', err)
@@ -54,6 +55,8 @@ async function update(board) {
         delete board._id
         const collection = await dbService.getCollection('board')
         await collection.updateOne({ _id: id }, { $set: { ...board } })
+        console.log('update');
+
         return board
     } catch (err) {
         logger.error(`cannot update board ${board._id}`, err)
@@ -64,10 +67,11 @@ async function update(board) {
 function _buildCriteria(filterBy) {
     let criteria = {}
 
+    // if (filterBy.boardIds) criteria = { _id: filterBy.boardIds }
 
-    // if (filterBy.userId) {
-    //     criteria.members = { _id: filterBy.userId }
-    // }
+    criteria = { members: { $elemMatch: { _id: filterBy.userId } } }
+    // criteria = { members: { $elemMatch: { username: filterBy.username } } }
+
     return criteria
 }
 
