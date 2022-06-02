@@ -63050,3 +63050,112 @@
 01/06/2022, 16:39:26 - INFO - Req was made
 01/06/2022, 16:39:27 - DEBUG - Getting Boards
 >>>>>>> 7e862f443d24ab5320cdfe01757700d929dd1096
+2.6.2022, 11:13:03 - INFO - Server is running on port: 3030
+2.6.2022, 11:16:30 - DEBUG - auth.service - signup with username: israel-israely@gmail.com, fullname: Israel Israely
+2.6.2022, 11:16:30 - INFO - User login:  | {"username":"israel-israely@gmail.com","password":"$2b$10$rVwmW7jmOc/3UVnszt9I.euTaylHvLaTW6Jp6mMDMYeR7yihDVoFK","fullname":"Israel Israely","isAdmin":false,"_id":"629871debcf4b2f17e578408"}
+2.6.2022, 11:16:37 - DEBUG - auth.service - login with username: israel-israely@gmail.com
+2.6.2022, 11:16:37 - INFO - User login:  | {"_id":"629871debcf4b2f17e578408","username":"israel-israely@gmail.com","fullname":"Israel Israely","isAdmin":false}
+2.6.2022, 11:16:38 - INFO - Req was made
+2.6.2022, 11:16:38 - INFO - Req was made
+2.6.2022, 11:16:38 - DEBUG - Getting Boards
+2.6.2022, 11:16:38 - INFO - Req was made
+2.6.2022, 11:16:38 - INFO - Req was made
+2.6.2022, 11:16:38 - DEBUG - Getting Boards
+2.6.2022, 11:16:54 - INFO - Req was made
+2.6.2022, 11:21:13 - INFO - Req was made
+2.6.2022, 11:21:13 - INFO - Req was made
+2.6.2022, 11:21:13 - DEBUG - Getting Boards
+2.6.2022, 11:21:14 - INFO - Req was made
+2.6.2022, 11:21:14 - INFO - Req was made
+2.6.2022, 11:21:14 - DEBUG - Getting Boards
+2.6.2022, 11:21:56 - INFO - Req was made
+2.6.2022, 11:21:56 - INFO - Req was made
+2.6.2022, 11:21:56 - DEBUG - Getting Boards
+2.6.2022, 11:21:56 - INFO - Req was made
+2.6.2022, 11:21:56 - INFO - Req was made
+2.6.2022, 11:21:56 - DEBUG - Getting Boards
+2.6.2022, 11:22:22 - DEBUG - auth.service - signup with username: israel-israely@gmail.com, fullname: Israel Israely
+2.6.2022, 11:22:22 - INFO - User login:  | {"username":"israel-israely@gmail.com","password":"$2b$10$uxlV2rxAjvneWGEukuqxrencI5TLAssEBQWmYjymPykfJY8OVbhka","fullname":"Israel Israely","isAdmin":false,"_id":"6298733ebcf4b2f17e57840c"}
+2.6.2022, 11:22:28 - DEBUG - auth.service - login with username: israel-israely@gmail.com
+2.6.2022, 11:22:28 - INFO - User login:  | {"_id":"6298733ebcf4b2f17e57840c","username":"israel-israely@gmail.com","fullname":"Israel Israely","isAdmin":false}
+2.6.2022, 11:22:29 - INFO - Req was made
+2.6.2022, 11:22:29 - INFO - Req was made
+2.6.2022, 11:22:29 - DEBUG - Getting Boards
+2.6.2022, 11:22:29 - INFO - Req was made
+2.6.2022, 11:22:29 - INFO - Req was made
+2.6.2022, 11:22:29 - DEBUG - Getting Boards
+2.6.2022, 11:22:47 - INFO - Req was made
+2.6.2022, 11:22:47 - INFO - Req was made
+2.6.2022, 11:22:47 - DEBUG - Getting Boards
+2.6.2022, 11:22:48 - INFO - Req was made
+2.6.2022, 11:22:48 - INFO - Req was made
+2.6.2022, 11:22:48 - DEBUG - Getting Boards
+2.6.2022, 11:22:59 - INFO - Req was made
+2.6.2022, 11:22:59 - INFO - Req was made
+2.6.2022, 11:22:59 - DEBUG - Getting Boards
+2.6.2022, 11:23:00 - INFO - Req was made
+2.6.2022, 11:23:00 - INFO - Req was made
+2.6.2022, 11:23:00 - DEBUG - Getting Boards
+2.6.2022, 11:23:36 - INFO - Req was made
+2.6.2022, 11:23:36 - INFO - Req was made
+2.6.2022, 11:23:36 - DEBUG - Getting Boards
+2.6.2022, 11:23:36 - INFO - Req was made
+2.6.2022, 11:23:36 - INFO - Req was made
+2.6.2022, 11:23:36 - DEBUG - Getting Boards
+2.6.2022, 11:25:00 - INFO - Req was made
+2.6.2022, 11:25:00 - INFO - Req was made
+2.6.2022, 11:25:00 - DEBUG - Getting Boards
+2.6.2022, 11:25:00 - INFO - Req was made
+2.6.2022, 11:25:00 - INFO - Req was made
+2.6.2022, 11:25:00 - DEBUG - Getting Boards
+2.6.2022, 11:26:49 - INFO - Req was made
+2.6.2022, 11:26:49 - INFO - Req was made
+2.6.2022, 11:26:49 - DEBUG - Getting Boards
+2.6.2022, 11:26:49 - INFO - Req was made
+2.6.2022, 11:26:49 - INFO - Req was made
+2.6.2022, 11:26:49 - DEBUG - Getting Boards
+2.6.2022, 11:32:46 - INFO - Req was made
+2.6.2022, 11:32:46 - INFO - Req was made
+2.6.2022, 11:32:46 - DEBUG - Getting Boards
+2.6.2022, 11:32:47 - INFO - Req was made
+2.6.2022, 11:32:47 - INFO - Req was made
+2.6.2022, 11:32:47 - DEBUG - Getting Boards
+2.6.2022, 11:34:58 - INFO - Req was made
+2.6.2022, 11:34:58 - INFO - Req was made
+2.6.2022, 11:34:58 - DEBUG - Getting Boards
+2.6.2022, 11:34:58 - INFO - Req was made
+2.6.2022, 11:34:58 - INFO - Req was made
+2.6.2022, 11:34:58 - DEBUG - Getting Boards
+2.6.2022, 11:59:49 - DEBUG - auth.service - login with username: israel-israely@gmail.com
+2.6.2022, 11:59:49 - ERROR - Failed to Login Invalid username or password
+2.6.2022, 11:59:52 - DEBUG - auth.service - login with username: israel-israely@gmail.com
+2.6.2022, 11:59:53 - INFO - User login:  | {"_id":"6298733ebcf4b2f17e57840c","username":"israel-israely@gmail.com","fullname":"Israel Israely","isAdmin":false}
+2.6.2022, 11:59:54 - INFO - Req was made
+2.6.2022, 11:59:54 - INFO - Req was made
+2.6.2022, 11:59:54 - DEBUG - Getting Boards
+2.6.2022, 11:59:54 - INFO - Req was made
+2.6.2022, 11:59:54 - INFO - Req was made
+2.6.2022, 11:59:54 - DEBUG - Getting Boards
+2.6.2022, 12:00:28 - DEBUG - auth.service - signup with username: israel-israely@gmail.com, fullname: Israel Israely
+2.6.2022, 12:00:28 - INFO - User login:  | {"username":"israel-israely@gmail.com","password":"$2b$10$my7YbgfaURiI03MYAXvTk./E2t1u9tOuCokryRbdvUk8ak./sTyCe","fullname":"Israel Israely","isAdmin":false,"_id":"62987c2cbcf4b2f17e57840e"}
+2.6.2022, 12:00:32 - DEBUG - auth.service - login with username: israel-israely@gmail.com
+2.6.2022, 12:00:32 - INFO - User login:  | {"_id":"62987c2cbcf4b2f17e57840e","username":"israel-israely@gmail.com","fullname":"Israel Israely","isAdmin":false}
+2.6.2022, 12:00:33 - INFO - Req was made
+2.6.2022, 12:00:33 - INFO - Req was made
+2.6.2022, 12:00:33 - DEBUG - Getting Boards
+2.6.2022, 12:00:33 - INFO - Req was made
+2.6.2022, 12:00:33 - INFO - Req was made
+2.6.2022, 12:00:33 - DEBUG - Getting Boards
+2.6.2022, 12:39:09 - INFO - Req was made
+2.6.2022, 12:39:09 - INFO - Req was made
+2.6.2022, 12:39:09 - DEBUG - Getting Boards
+2.6.2022, 12:39:09 - INFO - Req was made
+2.6.2022, 12:39:09 - INFO - Req was made
+2.6.2022, 12:39:09 - DEBUG - Getting Boards
+2.6.2022, 12:41:55 - INFO - Req was made
+2.6.2022, 15:39:24 - INFO - Server is running on port: 3030
+2.6.2022, 15:39:31 - INFO - Server is running on port: 3030
+2.6.2022, 17:41:09 - INFO - Server is running on port: 3030
+2.6.2022, 17:41:24 - INFO - Server is running on port: 3030
+2.6.2022, 17:51:41 - DEBUG - auth.service - login with username: guest@guest
+2.6.2022, 17:51:41 - ERROR - Failed to Login Invalid username or password
