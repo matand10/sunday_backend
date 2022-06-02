@@ -8,9 +8,7 @@ const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
 
 async function login(username, password) {
     logger.debug(`auth.service - login with username: ${username}`)
-    console.log('from service: ', username, password);
     const user = await userService.getByUsername(username)
-    console.log('user', user)
     if (!user) return Promise.reject('Invalid username or password')
     // TODO: un-comment for real login
     const match = await bcrypt.compare(password, user.password)
@@ -26,7 +24,8 @@ async function signup(username, password, fullname) {
     if (!username || !password || !fullname) return Promise.reject('fullname, username and password are required!')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ username, password: hash, fullname, isAdmin: false })
+    let userToAdd = await userService.add({ username, password: hash, fullname, isAdmin: false })
+    return userToAdd
 }
 
 function getLoginToken(user) {
