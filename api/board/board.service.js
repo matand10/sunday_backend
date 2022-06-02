@@ -68,6 +68,7 @@ function _buildCriteria(filterBy) {
     // if (filterBy.userId) {
     //     criteria.members = { _id: filterBy.userId }
     // }
+
     return criteria
 }
 
