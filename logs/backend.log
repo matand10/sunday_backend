@@ -60375,3 +60375,1497 @@
 01/06/2022, 16:39:26 - DEBUG - Getting Boards
 01/06/2022, 16:39:26 - INFO - Req was made
 01/06/2022, 16:39:27 - DEBUG - Getting Boards
+01/06/2022, 16:43:46 - INFO - Server is running on port: 3030
+01/06/2022, 16:47:07 - DEBUG - auth.service - login with username: tamir@gmail
+01/06/2022, 16:47:07 - INFO - User login:  | {"_id":"629767fca79a9c0f010a7195","username":"tamir@gmail","fullname":"tamir","isAdmin":false,"boardIds":["6297691ba79a9c0f010a7199"]}
+01/06/2022, 16:47:09 - INFO - Req was made
+01/06/2022, 16:47:09 - DEBUG - Getting Boards
+01/06/2022, 16:47:09 - INFO - Req was made
+01/06/2022, 16:47:09 - DEBUG - Getting Boards
+01/06/2022, 16:47:30 - DEBUG - auth.service - login with username: matan@gmail
+01/06/2022, 16:47:30 - INFO - User login:  | {"_id":"6297683da79a9c0f010a7197","username":"matan@gmail","fullname":"matna","isAdmin":false}
+01/06/2022, 16:47:31 - INFO - Req was made
+01/06/2022, 16:47:31 - DEBUG - Getting Boards
+01/06/2022, 16:47:31 - INFO - Req was made
+01/06/2022, 16:47:31 - DEBUG - Getting Boards
+01/06/2022, 16:53:43 - INFO - Req was made
+01/06/2022, 16:53:43 - DEBUG - Getting Boards
+01/06/2022, 16:53:43 - INFO - Req was made
+01/06/2022, 16:53:43 - DEBUG - Getting Boards
+01/06/2022, 16:54:54 - INFO - Req was made
+01/06/2022, 16:54:54 - DEBUG - Getting Boards
+01/06/2022, 16:54:54 - INFO - Req was made
+01/06/2022, 16:54:54 - DEBUG - Getting Boards
+01/06/2022, 16:59:51 - INFO - Req was made
+01/06/2022, 16:59:51 - DEBUG - Getting Boards
+01/06/2022, 16:59:51 - INFO - Req was made
+01/06/2022, 16:59:51 - DEBUG - Getting Boards
+01/06/2022, 17:12:09 - INFO - Req was made
+01/06/2022, 17:12:09 - DEBUG - Getting Boards
+01/06/2022, 17:12:09 - INFO - Req was made
+01/06/2022, 17:12:09 - DEBUG - Getting Boards
+01/06/2022, 17:15:59 - INFO - Req was made
+01/06/2022, 17:15:59 - DEBUG - Getting Boards
+01/06/2022, 17:16:00 - INFO - Req was made
+01/06/2022, 17:16:00 - DEBUG - Getting Boards
+01/06/2022, 17:16:55 - INFO - Req was made
+01/06/2022, 17:16:55 - DEBUG - Getting Boards
+01/06/2022, 17:16:56 - INFO - Req was made
+01/06/2022, 17:16:56 - DEBUG - Getting Boards
+01/06/2022, 17:20:03 - INFO - Req was made
+01/06/2022, 17:20:03 - DEBUG - Getting Boards
+01/06/2022, 17:20:04 - INFO - Req was made
+01/06/2022, 17:20:04 - DEBUG - Getting Boards
+01/06/2022, 17:31:02 - DEBUG - auth.service - login with username: tamir@gmail
+01/06/2022, 17:31:02 - INFO - User login:  | {"_id":"629767fca79a9c0f010a7195","username":"tamir@gmail","fullname":"tamir","isAdmin":false,"boardIds":["6297691ba79a9c0f010a7199"]}
+01/06/2022, 17:31:04 - INFO - Req was made
+01/06/2022, 17:31:04 - DEBUG - Getting Boards
+01/06/2022, 17:31:04 - INFO - Req was made
+01/06/2022, 17:31:04 - DEBUG - Getting Boards
+01/06/2022, 17:31:19 - INFO - Req was made
+01/06/2022, 17:31:19 - DEBUG - Getting Boards
+01/06/2022, 17:31:19 - INFO - Req was made
+01/06/2022, 17:31:19 - DEBUG - Getting Boards
+01/06/2022, 17:31:28 - INFO - Req was made
+01/06/2022, 17:31:28 - DEBUG - Getting Boards
+01/06/2022, 17:31:29 - INFO - Req was made
+01/06/2022, 17:31:29 - DEBUG - Getting Boards
+01/06/2022, 17:37:55 - INFO - Req was made
+01/06/2022, 17:37:55 - DEBUG - Getting Boards
+01/06/2022, 17:37:56 - INFO - Req was made
+01/06/2022, 17:37:56 - DEBUG - Getting Boards
+01/06/2022, 17:41:29 - INFO - Req was made
+01/06/2022, 17:41:29 - DEBUG - Getting Boards
+01/06/2022, 17:41:29 - INFO - Req was made
+01/06/2022, 17:41:29 - DEBUG - Getting Boards
+01/06/2022, 17:51:09 - INFO - Req was made
+01/06/2022, 17:51:09 - DEBUG - Getting Boards
+01/06/2022, 17:51:09 - INFO - Req was made
+01/06/2022, 17:51:09 - DEBUG - Getting Boards
+01/06/2022, 18:00:32 - INFO - Req was made
+01/06/2022, 18:00:32 - DEBUG - Getting Boards
+01/06/2022, 18:00:33 - INFO - Req was made
+01/06/2022, 18:00:33 - DEBUG - Getting Boards
+01/06/2022, 18:04:23 - INFO - Req was made
+01/06/2022, 18:04:23 - DEBUG - Getting Boards
+01/06/2022, 18:04:23 - INFO - Req was made
+01/06/2022, 18:04:23 - DEBUG - Getting Boards
+01/06/2022, 18:09:56 - INFO - Req was made
+01/06/2022, 18:09:56 - DEBUG - Getting Boards
+01/06/2022, 18:09:56 - INFO - Req was made
+01/06/2022, 18:09:56 - DEBUG - Getting Boards
+01/06/2022, 18:10:06 - INFO - Req was made
+01/06/2022, 18:10:06 - DEBUG - Getting Boards
+01/06/2022, 18:10:06 - INFO - Req was made
+01/06/2022, 18:10:06 - DEBUG - Getting Boards
+01/06/2022, 19:26:42 - INFO - Req was made
+01/06/2022, 19:26:42 - DEBUG - Getting Boards
+01/06/2022, 19:27:09 - INFO - Req was made
+01/06/2022, 19:27:09 - DEBUG - Getting Boards
+01/06/2022, 19:27:10 - INFO - Req was made
+01/06/2022, 19:27:10 - DEBUG - Getting Boards
+01/06/2022, 19:29:15 - INFO - Req was made
+01/06/2022, 19:29:15 - DEBUG - Getting Boards
+01/06/2022, 19:31:28 - INFO - Req was made
+01/06/2022, 19:31:28 - DEBUG - Getting Boards
+01/06/2022, 19:31:28 - INFO - Req was made
+01/06/2022, 19:31:28 - DEBUG - Getting Boards
+01/06/2022, 19:40:04 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+01/06/2022, 19:40:04 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$ztW6hyBv1l2Qgu590mnCFe/k6l/SlAfnvMCYUhwfW62O8s0b3X0VO","fullname":"Guest","isAdmin":false,"_id":"62979664c5f4e7cc9f128a97"}
+01/06/2022, 19:40:21 - DEBUG - auth.service - login with username: guest@guest
+01/06/2022, 19:40:21 - INFO - User login:  | {"_id":"62979664c5f4e7cc9f128a97","username":"guest@guest","fullname":"Guest","isAdmin":false}
+01/06/2022, 19:40:24 - INFO - Req was made
+01/06/2022, 19:40:24 - DEBUG - Getting Boards
+01/06/2022, 19:40:25 - INFO - Req was made
+01/06/2022, 19:40:25 - DEBUG - Getting Boards
+01/06/2022, 19:42:27 - INFO - Req was made
+01/06/2022, 19:42:27 - DEBUG - Getting Boards
+01/06/2022, 19:43:06 - INFO - Req was made
+01/06/2022, 19:43:06 - DEBUG - Getting Boards
+01/06/2022, 19:43:06 - INFO - Req was made
+01/06/2022, 19:43:06 - DEBUG - Getting Boards
+01/06/2022, 19:45:14 - INFO - Req was made
+01/06/2022, 19:45:14 - DEBUG - Getting Boards
+01/06/2022, 19:45:24 - INFO - Req was made
+01/06/2022, 19:45:24 - DEBUG - Getting Boards
+01/06/2022, 19:45:24 - INFO - Req was made
+01/06/2022, 19:45:24 - DEBUG - Getting Boards
+01/06/2022, 19:46:32 - INFO - Req was made
+01/06/2022, 19:46:32 - DEBUG - Getting Boards
+01/06/2022, 19:46:35 - INFO - Req was made
+01/06/2022, 19:46:35 - DEBUG - Getting Boards
+01/06/2022, 19:46:36 - INFO - Req was made
+01/06/2022, 19:46:36 - DEBUG - Getting Boards
+01/06/2022, 19:47:17 - INFO - Req was made
+01/06/2022, 19:47:17 - DEBUG - Getting Boards
+01/06/2022, 19:47:22 - INFO - Req was made
+01/06/2022, 19:47:22 - DEBUG - Getting Boards
+01/06/2022, 19:47:22 - INFO - Req was made
+01/06/2022, 19:47:22 - DEBUG - Getting Boards
+01/06/2022, 20:04:20 - INFO - Req was made
+01/06/2022, 20:04:20 - DEBUG - Getting Boards
+01/06/2022, 20:04:20 - INFO - Req was made
+01/06/2022, 20:04:20 - DEBUG - Getting Boards
+01/06/2022, 20:06:09 - INFO - Req was made
+01/06/2022, 20:06:09 - DEBUG - Getting Boards
+01/06/2022, 20:06:16 - INFO - Req was made
+01/06/2022, 20:06:16 - DEBUG - Getting Boards
+01/06/2022, 20:06:16 - INFO - Req was made
+01/06/2022, 20:06:16 - DEBUG - Getting Boards
+01/06/2022, 20:06:31 - INFO - Req was made
+01/06/2022, 20:06:31 - DEBUG - Getting Boards
+01/06/2022, 20:06:34 - INFO - Req was made
+01/06/2022, 20:06:34 - DEBUG - Getting Boards
+01/06/2022, 20:06:34 - INFO - Req was made
+01/06/2022, 20:06:34 - DEBUG - Getting Boards
+01/06/2022, 20:07:41 - INFO - Req was made
+01/06/2022, 20:07:41 - DEBUG - Getting Boards
+01/06/2022, 20:28:29 - INFO - Req was made
+01/06/2022, 20:28:29 - DEBUG - Getting Boards
+01/06/2022, 20:28:29 - INFO - Req was made
+01/06/2022, 20:28:29 - DEBUG - Getting Boards
+01/06/2022, 20:31:10 - INFO - Req was made
+01/06/2022, 20:31:10 - DEBUG - Getting Boards
+01/06/2022, 20:31:11 - INFO - Req was made
+01/06/2022, 20:31:11 - DEBUG - Getting Boards
+01/06/2022, 20:31:42 - INFO - Req was made
+01/06/2022, 20:31:42 - DEBUG - Getting Boards
+01/06/2022, 20:31:42 - INFO - Req was made
+01/06/2022, 20:31:42 - DEBUG - Getting Boards
+01/06/2022, 20:33:04 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+01/06/2022, 20:33:04 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$hFLuI6QronY9rCPcVMxBq.CVXKZ5zOpBHsPgpvtVHveVMyUmsJqTW","fullname":"Guest","isAdmin":false,"_id":"6297a2d0c5f4e7cc9f128a99"}
+01/06/2022, 20:33:39 - INFO - Req was made
+01/06/2022, 20:33:39 - DEBUG - Getting Boards
+01/06/2022, 20:33:39 - INFO - Req was made
+01/06/2022, 20:33:39 - DEBUG - Getting Boards
+01/06/2022, 20:34:12 - INFO - Req was made
+01/06/2022, 20:34:12 - DEBUG - Getting Boards
+01/06/2022, 20:34:13 - INFO - Req was made
+01/06/2022, 20:34:13 - DEBUG - Getting Boards
+01/06/2022, 20:34:18 - INFO - Req was made
+01/06/2022, 20:34:18 - DEBUG - Getting Boards
+01/06/2022, 20:34:18 - INFO - Req was made
+01/06/2022, 20:34:18 - DEBUG - Getting Boards
+01/06/2022, 20:35:00 - INFO - Req was made
+01/06/2022, 20:35:00 - DEBUG - Getting Boards
+01/06/2022, 20:35:00 - INFO - Req was made
+01/06/2022, 20:35:00 - DEBUG - Getting Boards
+01/06/2022, 20:35:27 - INFO - Req was made
+01/06/2022, 20:35:27 - DEBUG - Getting Boards
+01/06/2022, 20:35:27 - INFO - Req was made
+01/06/2022, 20:35:27 - DEBUG - Getting Boards
+01/06/2022, 20:42:28 - DEBUG - auth.service - login with username: guest@guest
+01/06/2022, 20:42:29 - INFO - User login:  | {"_id":"6297a2d0c5f4e7cc9f128a99","username":"guest@guest","fullname":"Guest","isAdmin":false}
+01/06/2022, 20:42:52 - DEBUG - auth.service - login with username: guest@guest
+01/06/2022, 20:42:52 - INFO - User login:  | {"_id":"6297a2d0c5f4e7cc9f128a99","username":"guest@guest","fullname":"Guest","isAdmin":false}
+01/06/2022, 20:42:54 - INFO - Req was made
+01/06/2022, 20:42:54 - DEBUG - Getting Boards
+01/06/2022, 20:42:54 - INFO - Req was made
+01/06/2022, 20:42:54 - DEBUG - Getting Boards
+01/06/2022, 20:55:02 - DEBUG - auth.service - login with username: guest@guest
+01/06/2022, 20:55:02 - INFO - User login:  | {"_id":"6297a2d0c5f4e7cc9f128a99","username":"guest@guest","fullname":"Guest","isAdmin":false}
+01/06/2022, 20:55:03 - INFO - Req was made
+01/06/2022, 20:55:03 - DEBUG - Getting Boards
+01/06/2022, 20:55:03 - INFO - Req was made
+01/06/2022, 20:55:03 - DEBUG - Getting Boards
+01/06/2022, 20:56:17 - DEBUG - auth.service - login with username: guest@guest
+01/06/2022, 20:56:17 - INFO - User login:  | {"_id":"6297a2d0c5f4e7cc9f128a99","username":"guest@guest","fullname":"Guest","isAdmin":false}
+01/06/2022, 20:56:19 - INFO - Req was made
+01/06/2022, 20:56:19 - DEBUG - Getting Boards
+01/06/2022, 20:56:20 - INFO - Req was made
+01/06/2022, 20:56:20 - DEBUG - Getting Boards
+01/06/2022, 21:01:02 - INFO - Req was made
+01/06/2022, 21:01:02 - DEBUG - Getting Boards
+01/06/2022, 21:01:12 - INFO - Req was made
+01/06/2022, 21:01:12 - DEBUG - Getting Boards
+01/06/2022, 21:01:12 - INFO - Req was made
+01/06/2022, 21:01:12 - DEBUG - Getting Boards
+01/06/2022, 21:03:26 - INFO - Req was made
+01/06/2022, 21:03:26 - DEBUG - Getting Boards
+01/06/2022, 21:03:34 - INFO - Req was made
+01/06/2022, 21:03:34 - DEBUG - Getting Boards
+01/06/2022, 21:03:35 - INFO - Req was made
+01/06/2022, 21:03:35 - DEBUG - Getting Boards
+01/06/2022, 21:03:37 - INFO - Req was made
+01/06/2022, 21:03:37 - DEBUG - Getting Boards
+01/06/2022, 21:03:52 - INFO - Req was made
+01/06/2022, 21:03:52 - DEBUG - Getting Boards
+01/06/2022, 21:03:52 - INFO - Req was made
+01/06/2022, 21:03:52 - DEBUG - Getting Boards
+01/06/2022, 21:03:59 - INFO - Req was made
+01/06/2022, 21:03:59 - DEBUG - Getting Boards
+01/06/2022, 21:03:59 - INFO - Req was made
+01/06/2022, 21:03:59 - DEBUG - Getting Boards
+01/06/2022, 21:04:10 - INFO - Req was made
+01/06/2022, 21:04:10 - DEBUG - Getting Boards
+01/06/2022, 21:04:11 - INFO - Req was made
+01/06/2022, 21:04:11 - DEBUG - Getting Boards
+01/06/2022, 21:04:12 - INFO - Req was made
+01/06/2022, 21:04:12 - DEBUG - Getting Boards
+01/06/2022, 21:05:13 - INFO - Req was made
+01/06/2022, 21:05:13 - DEBUG - Getting Boards
+01/06/2022, 21:05:13 - INFO - Req was made
+01/06/2022, 21:05:13 - DEBUG - Getting Boards
+01/06/2022, 21:05:16 - INFO - Req was made
+01/06/2022, 21:05:16 - DEBUG - Getting Boards
+01/06/2022, 21:05:48 - INFO - Req was made
+01/06/2022, 21:05:48 - DEBUG - Getting Boards
+01/06/2022, 21:05:48 - INFO - Req was made
+01/06/2022, 21:05:48 - DEBUG - Getting Boards
+01/06/2022, 21:05:56 - INFO - Req was made
+01/06/2022, 21:05:56 - DEBUG - Getting Boards
+01/06/2022, 21:05:57 - INFO - Req was made
+01/06/2022, 21:05:57 - DEBUG - Getting Boards
+01/06/2022, 21:05:59 - INFO - Req was made
+01/06/2022, 21:05:59 - DEBUG - Getting Boards
+01/06/2022, 21:12:33 - INFO - Req was made
+01/06/2022, 21:12:33 - DEBUG - Getting Boards
+01/06/2022, 21:12:33 - INFO - Req was made
+01/06/2022, 21:12:33 - DEBUG - Getting Boards
+01/06/2022, 21:12:37 - INFO - Req was made
+01/06/2022, 21:12:37 - DEBUG - Getting Boards
+01/06/2022, 21:12:38 - INFO - Req was made
+01/06/2022, 21:12:38 - DEBUG - Getting Boards
+01/06/2022, 21:12:38 - INFO - Req was made
+01/06/2022, 21:12:38 - DEBUG - Getting Boards
+01/06/2022, 21:13:13 - INFO - Req was made
+01/06/2022, 21:13:13 - DEBUG - Getting Boards
+01/06/2022, 21:13:13 - INFO - Req was made
+01/06/2022, 21:13:13 - DEBUG - Getting Boards
+01/06/2022, 21:13:14 - INFO - Req was made
+01/06/2022, 21:13:14 - DEBUG - Getting Boards
+01/06/2022, 21:13:26 - INFO - Req was made
+01/06/2022, 21:13:26 - DEBUG - Getting Boards
+01/06/2022, 21:13:26 - INFO - Req was made
+01/06/2022, 21:13:26 - DEBUG - Getting Boards
+01/06/2022, 21:13:27 - INFO - Req was made
+01/06/2022, 21:13:27 - DEBUG - Getting Boards
+01/06/2022, 21:13:50 - INFO - Req was made
+01/06/2022, 21:13:50 - DEBUG - Getting Boards
+01/06/2022, 21:13:50 - INFO - Req was made
+01/06/2022, 21:13:50 - DEBUG - Getting Boards
+01/06/2022, 21:13:52 - INFO - Req was made
+01/06/2022, 21:13:52 - DEBUG - Getting Boards
+01/06/2022, 21:15:22 - INFO - Req was made
+01/06/2022, 21:15:22 - DEBUG - Getting Boards
+01/06/2022, 21:15:25 - INFO - Req was made
+01/06/2022, 21:15:25 - DEBUG - Getting Boards
+01/06/2022, 21:15:25 - INFO - Req was made
+01/06/2022, 21:15:25 - DEBUG - Getting Boards
+01/06/2022, 21:18:58 - INFO - Req was made
+01/06/2022, 21:18:58 - DEBUG - Getting Boards
+01/06/2022, 21:19:50 - INFO - Req was made
+01/06/2022, 21:19:50 - DEBUG - Getting Boards
+01/06/2022, 21:19:50 - INFO - Req was made
+01/06/2022, 21:19:50 - DEBUG - Getting Boards
+01/06/2022, 21:25:45 - INFO - Req was made
+01/06/2022, 21:25:45 - DEBUG - Getting Boards
+01/06/2022, 21:25:45 - INFO - Req was made
+01/06/2022, 21:25:45 - DEBUG - Getting Boards
+01/06/2022, 21:28:44 - INFO - Req was made
+01/06/2022, 21:28:44 - DEBUG - Getting Boards
+01/06/2022, 21:28:44 - INFO - Req was made
+01/06/2022, 21:28:44 - DEBUG - Getting Boards
+01/06/2022, 21:30:42 - INFO - Req was made
+01/06/2022, 21:30:42 - DEBUG - Getting Boards
+01/06/2022, 21:30:48 - INFO - Req was made
+01/06/2022, 21:30:48 - DEBUG - Getting Boards
+01/06/2022, 21:30:48 - INFO - Req was made
+01/06/2022, 21:30:48 - DEBUG - Getting Boards
+01/06/2022, 21:31:00 - INFO - Req was made
+01/06/2022, 21:31:00 - DEBUG - Getting Boards
+01/06/2022, 21:31:27 - INFO - Req was made
+01/06/2022, 21:31:27 - DEBUG - Getting Boards
+01/06/2022, 21:31:33 - INFO - Req was made
+01/06/2022, 21:31:33 - DEBUG - Getting Boards
+01/06/2022, 21:31:33 - INFO - Req was made
+01/06/2022, 21:31:33 - DEBUG - Getting Boards
+01/06/2022, 21:31:41 - INFO - Req was made
+01/06/2022, 21:31:41 - DEBUG - Getting Boards
+01/06/2022, 23:51:09 - INFO - Req was made
+01/06/2022, 23:51:09 - DEBUG - Getting Boards
+01/06/2022, 23:51:09 - INFO - Req was made
+01/06/2022, 23:51:09 - DEBUG - Getting Boards
+01/06/2022, 23:51:16 - INFO - Req was made
+01/06/2022, 23:51:16 - DEBUG - Getting Boards
+01/06/2022, 23:51:16 - INFO - Req was made
+01/06/2022, 23:51:16 - DEBUG - Getting Boards
+01/06/2022, 23:52:06 - INFO - Req was made
+01/06/2022, 23:52:06 - DEBUG - Getting Boards
+01/06/2022, 23:52:06 - INFO - Req was made
+01/06/2022, 23:52:06 - DEBUG - Getting Boards
+01/06/2022, 23:54:37 - INFO - Req was made
+01/06/2022, 23:54:37 - DEBUG - Getting Boards
+01/06/2022, 23:57:17 - INFO - Req was made
+01/06/2022, 23:57:17 - DEBUG - Getting Boards
+01/06/2022, 23:57:17 - INFO - Req was made
+01/06/2022, 23:57:17 - DEBUG - Getting Boards
+01/06/2022, 23:57:33 - INFO - Req was made
+01/06/2022, 23:57:33 - DEBUG - Getting Boards
+01/06/2022, 23:58:05 - INFO - Req was made
+01/06/2022, 23:58:05 - DEBUG - Getting Boards
+01/06/2022, 23:58:05 - INFO - Req was made
+01/06/2022, 23:58:05 - DEBUG - Getting Boards
+01/06/2022, 23:58:16 - INFO - Req was made
+01/06/2022, 23:58:16 - DEBUG - Getting Boards
+01/06/2022, 23:58:17 - INFO - Req was made
+01/06/2022, 23:58:17 - DEBUG - Getting Boards
+01/06/2022, 23:59:00 - INFO - Req was made
+01/06/2022, 23:59:00 - DEBUG - Getting Boards
+01/06/2022, 23:59:06 - INFO - Req was made
+01/06/2022, 23:59:06 - DEBUG - Getting Boards
+01/06/2022, 23:59:06 - INFO - Req was made
+01/06/2022, 23:59:06 - DEBUG - Getting Boards
+01/06/2022, 23:59:38 - INFO - Req was made
+01/06/2022, 23:59:38 - DEBUG - Getting Boards
+01/06/2022, 23:59:40 - INFO - Req was made
+01/06/2022, 23:59:40 - DEBUG - Getting Boards
+02/06/2022, 0:00:11 - INFO - Req was made
+02/06/2022, 0:00:11 - DEBUG - Getting Boards
+02/06/2022, 0:00:18 - INFO - Req was made
+02/06/2022, 0:00:18 - DEBUG - Getting Boards
+02/06/2022, 0:00:19 - INFO - Req was made
+02/06/2022, 0:00:19 - DEBUG - Getting Boards
+02/06/2022, 0:00:30 - INFO - Req was made
+02/06/2022, 0:00:30 - DEBUG - Getting Boards
+02/06/2022, 0:01:00 - INFO - Req was made
+02/06/2022, 0:01:00 - DEBUG - Getting Boards
+02/06/2022, 0:01:00 - INFO - Req was made
+02/06/2022, 0:01:00 - DEBUG - Getting Boards
+02/06/2022, 0:01:09 - INFO - Req was made
+02/06/2022, 0:01:09 - DEBUG - Getting Boards
+02/06/2022, 0:01:23 - INFO - Req was made
+02/06/2022, 0:01:23 - DEBUG - Getting Boards
+02/06/2022, 0:01:27 - INFO - Req was made
+02/06/2022, 0:01:27 - DEBUG - Getting Boards
+02/06/2022, 0:01:28 - INFO - Req was made
+02/06/2022, 0:01:28 - DEBUG - Getting Boards
+02/06/2022, 0:01:42 - INFO - Req was made
+02/06/2022, 0:01:42 - DEBUG - Getting Boards
+02/06/2022, 0:02:07 - INFO - Req was made
+02/06/2022, 0:02:07 - DEBUG - Getting Boards
+02/06/2022, 0:02:11 - INFO - Req was made
+02/06/2022, 0:02:11 - DEBUG - Getting Boards
+02/06/2022, 0:02:12 - INFO - Req was made
+02/06/2022, 0:02:12 - DEBUG - Getting Boards
+02/06/2022, 0:02:20 - INFO - Req was made
+02/06/2022, 0:02:20 - DEBUG - Getting Boards
+02/06/2022, 0:03:07 - INFO - Req was made
+02/06/2022, 0:03:07 - DEBUG - Getting Boards
+02/06/2022, 0:03:11 - INFO - Req was made
+02/06/2022, 0:03:11 - DEBUG - Getting Boards
+02/06/2022, 0:03:11 - INFO - Req was made
+02/06/2022, 0:03:11 - DEBUG - Getting Boards
+02/06/2022, 0:03:19 - INFO - Req was made
+02/06/2022, 0:03:19 - DEBUG - Getting Boards
+02/06/2022, 0:03:20 - INFO - Req was made
+02/06/2022, 0:03:20 - DEBUG - Getting Boards
+02/06/2022, 0:03:44 - INFO - Req was made
+02/06/2022, 0:03:44 - DEBUG - Getting Boards
+02/06/2022, 0:03:48 - INFO - Req was made
+02/06/2022, 0:03:48 - DEBUG - Getting Boards
+02/06/2022, 0:03:48 - INFO - Req was made
+02/06/2022, 0:03:48 - DEBUG - Getting Boards
+02/06/2022, 0:03:49 - INFO - Req was made
+02/06/2022, 0:03:49 - DEBUG - Getting Boards
+02/06/2022, 0:03:54 - INFO - Req was made
+02/06/2022, 0:03:54 - DEBUG - Getting Boards
+02/06/2022, 0:03:54 - INFO - Req was made
+02/06/2022, 0:03:54 - DEBUG - Getting Boards
+02/06/2022, 0:04:01 - INFO - Req was made
+02/06/2022, 0:04:01 - DEBUG - Getting Boards
+02/06/2022, 0:04:01 - INFO - Req was made
+02/06/2022, 0:04:01 - DEBUG - Getting Boards
+02/06/2022, 0:04:23 - INFO - Req was made
+02/06/2022, 0:04:23 - DEBUG - Getting Boards
+02/06/2022, 0:04:27 - INFO - Req was made
+02/06/2022, 0:04:27 - DEBUG - Getting Boards
+02/06/2022, 0:04:28 - INFO - Req was made
+02/06/2022, 0:04:28 - DEBUG - Getting Boards
+02/06/2022, 0:04:28 - INFO - Req was made
+02/06/2022, 0:04:28 - DEBUG - Getting Boards
+02/06/2022, 0:04:36 - INFO - Req was made
+02/06/2022, 0:04:36 - DEBUG - Getting Boards
+02/06/2022, 0:04:40 - INFO - Req was made
+02/06/2022, 0:04:40 - DEBUG - Getting Boards
+02/06/2022, 0:04:40 - INFO - Req was made
+02/06/2022, 0:04:40 - DEBUG - Getting Boards
+02/06/2022, 0:04:46 - INFO - Req was made
+02/06/2022, 0:04:46 - DEBUG - Getting Boards
+02/06/2022, 0:06:49 - INFO - Req was made
+02/06/2022, 0:06:49 - DEBUG - Getting Boards
+02/06/2022, 0:06:54 - INFO - Req was made
+02/06/2022, 0:06:54 - DEBUG - Getting Boards
+02/06/2022, 0:06:54 - INFO - Req was made
+02/06/2022, 0:06:54 - DEBUG - Getting Boards
+02/06/2022, 0:07:05 - INFO - Req was made
+02/06/2022, 0:07:05 - DEBUG - Getting Boards
+02/06/2022, 0:07:31 - INFO - Req was made
+02/06/2022, 0:07:31 - DEBUG - Getting Boards
+02/06/2022, 0:07:36 - INFO - Req was made
+02/06/2022, 0:07:36 - DEBUG - Getting Boards
+02/06/2022, 0:07:36 - INFO - Req was made
+02/06/2022, 0:07:36 - DEBUG - Getting Boards
+02/06/2022, 0:07:46 - INFO - Req was made
+02/06/2022, 0:07:46 - DEBUG - Getting Boards
+02/06/2022, 0:08:37 - INFO - Req was made
+02/06/2022, 0:08:37 - DEBUG - Getting Boards
+02/06/2022, 0:08:42 - INFO - Req was made
+02/06/2022, 0:08:42 - DEBUG - Getting Boards
+02/06/2022, 0:08:43 - INFO - Req was made
+02/06/2022, 0:08:43 - DEBUG - Getting Boards
+02/06/2022, 0:09:05 - INFO - Req was made
+02/06/2022, 0:09:05 - DEBUG - Getting Boards
+02/06/2022, 0:09:29 - INFO - Req was made
+02/06/2022, 0:09:29 - DEBUG - Getting Boards
+02/06/2022, 0:09:34 - INFO - Req was made
+02/06/2022, 0:09:34 - DEBUG - Getting Boards
+02/06/2022, 0:09:35 - INFO - Req was made
+02/06/2022, 0:09:35 - DEBUG - Getting Boards
+02/06/2022, 0:10:31 - INFO - Req was made
+02/06/2022, 0:10:31 - DEBUG - Getting Boards
+02/06/2022, 0:11:35 - INFO - Req was made
+02/06/2022, 0:11:35 - DEBUG - Getting Boards
+02/06/2022, 0:11:38 - INFO - Req was made
+02/06/2022, 0:11:38 - DEBUG - Getting Boards
+02/06/2022, 0:11:39 - INFO - Req was made
+02/06/2022, 0:11:39 - DEBUG - Getting Boards
+02/06/2022, 0:11:48 - INFO - Req was made
+02/06/2022, 0:11:48 - DEBUG - Getting Boards
+02/06/2022, 0:12:01 - INFO - Req was made
+02/06/2022, 0:12:01 - DEBUG - Getting Boards
+02/06/2022, 0:12:01 - INFO - Req was made
+02/06/2022, 0:12:01 - DEBUG - Getting Boards
+02/06/2022, 0:12:34 - INFO - Req was made
+02/06/2022, 0:12:34 - DEBUG - Getting Boards
+02/06/2022, 0:12:41 - INFO - Req was made
+02/06/2022, 0:12:41 - DEBUG - Getting Boards
+02/06/2022, 0:12:41 - INFO - Req was made
+02/06/2022, 0:12:41 - DEBUG - Getting Boards
+02/06/2022, 0:12:48 - INFO - Req was made
+02/06/2022, 0:12:48 - DEBUG - Getting Boards
+02/06/2022, 0:13:01 - INFO - Req was made
+02/06/2022, 0:13:01 - DEBUG - Getting Boards
+02/06/2022, 0:13:10 - INFO - Req was made
+02/06/2022, 0:13:10 - DEBUG - Getting Boards
+02/06/2022, 0:13:11 - INFO - Req was made
+02/06/2022, 0:13:11 - DEBUG - Getting Boards
+02/06/2022, 0:13:20 - INFO - Req was made
+02/06/2022, 0:13:20 - DEBUG - Getting Boards
+02/06/2022, 0:13:51 - INFO - Req was made
+02/06/2022, 0:13:51 - DEBUG - Getting Boards
+02/06/2022, 0:13:56 - INFO - Req was made
+02/06/2022, 0:13:56 - DEBUG - Getting Boards
+02/06/2022, 0:13:57 - INFO - Req was made
+02/06/2022, 0:13:57 - DEBUG - Getting Boards
+02/06/2022, 0:14:05 - INFO - Req was made
+02/06/2022, 0:14:05 - DEBUG - Getting Boards
+02/06/2022, 0:15:06 - INFO - Req was made
+02/06/2022, 0:15:06 - DEBUG - Getting Boards
+02/06/2022, 0:15:15 - INFO - Req was made
+02/06/2022, 0:15:15 - DEBUG - Getting Boards
+02/06/2022, 0:15:16 - INFO - Req was made
+02/06/2022, 0:15:16 - DEBUG - Getting Boards
+02/06/2022, 0:15:22 - INFO - Req was made
+02/06/2022, 0:15:22 - DEBUG - Getting Boards
+02/06/2022, 0:15:46 - INFO - Req was made
+02/06/2022, 0:15:46 - DEBUG - Getting Boards
+02/06/2022, 0:15:51 - INFO - Req was made
+02/06/2022, 0:15:51 - DEBUG - Getting Boards
+02/06/2022, 0:15:51 - INFO - Req was made
+02/06/2022, 0:15:51 - DEBUG - Getting Boards
+02/06/2022, 0:16:00 - INFO - Req was made
+02/06/2022, 0:16:00 - DEBUG - Getting Boards
+02/06/2022, 0:16:22 - INFO - Req was made
+02/06/2022, 0:16:22 - DEBUG - Getting Boards
+02/06/2022, 0:16:28 - INFO - Req was made
+02/06/2022, 0:16:28 - DEBUG - Getting Boards
+02/06/2022, 0:16:29 - INFO - Req was made
+02/06/2022, 0:16:29 - DEBUG - Getting Boards
+02/06/2022, 0:16:30 - INFO - Req was made
+02/06/2022, 0:16:30 - DEBUG - Getting Boards
+02/06/2022, 0:16:49 - INFO - Req was made
+02/06/2022, 0:16:49 - DEBUG - Getting Boards
+02/06/2022, 0:16:53 - INFO - Req was made
+02/06/2022, 0:16:53 - DEBUG - Getting Boards
+02/06/2022, 0:16:53 - INFO - Req was made
+02/06/2022, 0:16:53 - DEBUG - Getting Boards
+02/06/2022, 0:17:27 - INFO - Req was made
+02/06/2022, 0:17:27 - DEBUG - Getting Boards
+02/06/2022, 0:17:31 - INFO - Req was made
+02/06/2022, 0:17:31 - DEBUG - Getting Boards
+02/06/2022, 0:17:32 - INFO - Req was made
+02/06/2022, 0:17:32 - DEBUG - Getting Boards
+02/06/2022, 0:17:40 - INFO - Req was made
+02/06/2022, 0:17:40 - DEBUG - Getting Boards
+02/06/2022, 0:19:14 - INFO - Req was made
+02/06/2022, 0:19:14 - DEBUG - Getting Boards
+02/06/2022, 0:19:14 - INFO - Req was made
+02/06/2022, 0:19:14 - DEBUG - Getting Boards
+02/06/2022, 0:19:24 - INFO - Req was made
+02/06/2022, 0:19:24 - DEBUG - Getting Boards
+02/06/2022, 0:19:29 - INFO - Req was made
+02/06/2022, 0:19:29 - DEBUG - Getting Boards
+02/06/2022, 0:19:29 - INFO - Req was made
+02/06/2022, 0:19:29 - DEBUG - Getting Boards
+02/06/2022, 0:19:52 - INFO - Req was made
+02/06/2022, 0:19:52 - DEBUG - Getting Boards
+02/06/2022, 0:20:34 - INFO - Req was made
+02/06/2022, 0:20:34 - DEBUG - Getting Boards
+02/06/2022, 0:20:34 - INFO - Req was made
+02/06/2022, 0:20:34 - DEBUG - Getting Boards
+02/06/2022, 0:20:39 - INFO - Req was made
+02/06/2022, 0:20:39 - DEBUG - Getting Boards
+02/06/2022, 0:20:39 - INFO - Req was made
+02/06/2022, 0:20:39 - DEBUG - Getting Boards
+02/06/2022, 0:20:51 - INFO - Req was made
+02/06/2022, 0:20:51 - DEBUG - Getting Boards
+02/06/2022, 0:21:01 - INFO - Req was made
+02/06/2022, 0:21:01 - DEBUG - Getting Boards
+02/06/2022, 0:21:02 - INFO - Req was made
+02/06/2022, 0:21:02 - DEBUG - Getting Boards
+02/06/2022, 0:21:15 - INFO - Req was made
+02/06/2022, 0:21:15 - DEBUG - Getting Boards
+02/06/2022, 0:21:58 - INFO - Req was made
+02/06/2022, 0:21:58 - DEBUG - Getting Boards
+02/06/2022, 0:22:02 - INFO - Req was made
+02/06/2022, 0:22:02 - DEBUG - Getting Boards
+02/06/2022, 0:22:02 - INFO - Req was made
+02/06/2022, 0:22:02 - DEBUG - Getting Boards
+02/06/2022, 0:22:11 - INFO - Req was made
+02/06/2022, 0:22:11 - DEBUG - Getting Boards
+02/06/2022, 0:22:47 - INFO - Req was made
+02/06/2022, 0:22:47 - DEBUG - Getting Boards
+02/06/2022, 0:22:47 - INFO - Req was made
+02/06/2022, 0:22:47 - DEBUG - Getting Boards
+02/06/2022, 0:22:51 - INFO - Req was made
+02/06/2022, 0:22:51 - DEBUG - Getting Boards
+02/06/2022, 0:22:52 - INFO - Req was made
+02/06/2022, 0:22:52 - DEBUG - Getting Boards
+02/06/2022, 0:22:54 - INFO - Req was made
+02/06/2022, 0:22:54 - DEBUG - Getting Boards
+02/06/2022, 0:22:54 - INFO - Req was made
+02/06/2022, 0:22:54 - DEBUG - Getting Boards
+02/06/2022, 0:23:01 - INFO - Req was made
+02/06/2022, 0:23:01 - DEBUG - Getting Boards
+02/06/2022, 0:23:01 - INFO - Req was made
+02/06/2022, 0:23:01 - DEBUG - Getting Boards
+02/06/2022, 0:23:15 - INFO - Req was made
+02/06/2022, 0:23:15 - DEBUG - Getting Boards
+02/06/2022, 0:23:15 - INFO - Req was made
+02/06/2022, 0:23:15 - DEBUG - Getting Boards
+02/06/2022, 0:23:56 - INFO - Req was made
+02/06/2022, 0:23:56 - DEBUG - Getting Boards
+02/06/2022, 0:23:57 - INFO - Req was made
+02/06/2022, 0:23:57 - DEBUG - Getting Boards
+02/06/2022, 0:24:03 - INFO - Req was made
+02/06/2022, 0:24:03 - DEBUG - Getting Boards
+02/06/2022, 0:24:04 - INFO - Req was made
+02/06/2022, 0:24:04 - DEBUG - Getting Boards
+02/06/2022, 0:24:04 - INFO - Req was made
+02/06/2022, 0:24:04 - DEBUG - Getting Boards
+02/06/2022, 0:24:06 - INFO - Req was made
+02/06/2022, 0:24:06 - DEBUG - Getting Boards
+02/06/2022, 0:24:06 - INFO - Req was made
+02/06/2022, 0:24:06 - DEBUG - Getting Boards
+02/06/2022, 0:24:13 - INFO - Req was made
+02/06/2022, 0:24:13 - DEBUG - Getting Boards
+02/06/2022, 0:24:13 - INFO - Req was made
+02/06/2022, 0:24:13 - DEBUG - Getting Boards
+02/06/2022, 0:24:38 - INFO - Req was made
+02/06/2022, 0:24:38 - DEBUG - Getting Boards
+02/06/2022, 0:24:38 - INFO - Req was made
+02/06/2022, 0:24:38 - DEBUG - Getting Boards
+02/06/2022, 0:24:42 - INFO - Req was made
+02/06/2022, 0:24:42 - DEBUG - Getting Boards
+02/06/2022, 0:24:43 - INFO - Req was made
+02/06/2022, 0:24:43 - DEBUG - Getting Boards
+02/06/2022, 0:24:45 - INFO - Req was made
+02/06/2022, 0:24:45 - DEBUG - Getting Boards
+02/06/2022, 0:24:45 - INFO - Req was made
+02/06/2022, 0:24:45 - DEBUG - Getting Boards
+02/06/2022, 0:24:52 - INFO - Req was made
+02/06/2022, 0:24:52 - DEBUG - Getting Boards
+02/06/2022, 0:24:52 - INFO - Req was made
+02/06/2022, 0:24:52 - DEBUG - Getting Boards
+02/06/2022, 0:25:17 - INFO - Req was made
+02/06/2022, 0:25:17 - DEBUG - Getting Boards
+02/06/2022, 0:25:40 - INFO - Req was made
+02/06/2022, 0:25:40 - DEBUG - Getting Boards
+02/06/2022, 0:25:41 - INFO - Req was made
+02/06/2022, 0:25:41 - DEBUG - Getting Boards
+02/06/2022, 0:25:41 - INFO - Req was made
+02/06/2022, 0:25:41 - DEBUG - Getting Boards
+02/06/2022, 0:25:41 - INFO - Req was made
+02/06/2022, 0:25:41 - DEBUG - Getting Boards
+02/06/2022, 0:25:47 - INFO - Req was made
+02/06/2022, 0:25:47 - DEBUG - Getting Boards
+02/06/2022, 0:25:48 - INFO - Req was made
+02/06/2022, 0:25:48 - DEBUG - Getting Boards
+02/06/2022, 0:25:50 - INFO - Req was made
+02/06/2022, 0:25:50 - DEBUG - Getting Boards
+02/06/2022, 0:25:50 - INFO - Req was made
+02/06/2022, 0:25:50 - DEBUG - Getting Boards
+02/06/2022, 0:25:50 - INFO - Req was made
+02/06/2022, 0:25:50 - DEBUG - Getting Boards
+02/06/2022, 0:29:43 - INFO - Req was made
+02/06/2022, 0:29:43 - DEBUG - Getting Boards
+02/06/2022, 0:29:43 - INFO - Req was made
+02/06/2022, 0:29:43 - DEBUG - Getting Boards
+02/06/2022, 0:29:52 - INFO - Req was made
+02/06/2022, 0:29:52 - DEBUG - Getting Boards
+02/06/2022, 0:29:52 - INFO - Req was made
+02/06/2022, 0:29:52 - DEBUG - Getting Boards
+02/06/2022, 0:30:20 - INFO - Req was made
+02/06/2022, 0:30:20 - DEBUG - Getting Boards
+02/06/2022, 0:30:21 - INFO - Req was made
+02/06/2022, 0:30:21 - DEBUG - Getting Boards
+02/06/2022, 0:30:24 - INFO - Req was made
+02/06/2022, 0:30:24 - DEBUG - Getting Boards
+02/06/2022, 0:30:24 - INFO - Req was made
+02/06/2022, 0:30:24 - DEBUG - Getting Boards
+02/06/2022, 0:31:26 - INFO - Req was made
+02/06/2022, 0:31:26 - DEBUG - Getting Boards
+02/06/2022, 0:31:27 - INFO - Req was made
+02/06/2022, 0:31:27 - DEBUG - Getting Boards
+02/06/2022, 0:31:31 - INFO - Req was made
+02/06/2022, 0:31:31 - DEBUG - Getting Boards
+02/06/2022, 0:31:31 - INFO - Req was made
+02/06/2022, 0:31:31 - DEBUG - Getting Boards
+02/06/2022, 0:31:58 - INFO - Req was made
+02/06/2022, 0:31:58 - DEBUG - Getting Boards
+02/06/2022, 0:31:58 - INFO - Req was made
+02/06/2022, 0:31:58 - DEBUG - Getting Boards
+02/06/2022, 0:32:01 - INFO - Req was made
+02/06/2022, 0:32:01 - DEBUG - Getting Boards
+02/06/2022, 0:32:02 - INFO - Req was made
+02/06/2022, 0:32:02 - DEBUG - Getting Boards
+02/06/2022, 0:32:32 - INFO - Req was made
+02/06/2022, 0:32:32 - DEBUG - Getting Boards
+02/06/2022, 0:32:32 - INFO - Req was made
+02/06/2022, 0:32:32 - DEBUG - Getting Boards
+02/06/2022, 0:32:35 - INFO - Req was made
+02/06/2022, 0:32:35 - DEBUG - Getting Boards
+02/06/2022, 0:32:35 - INFO - Req was made
+02/06/2022, 0:32:35 - DEBUG - Getting Boards
+02/06/2022, 0:33:57 - INFO - Req was made
+02/06/2022, 0:33:57 - DEBUG - Getting Boards
+02/06/2022, 0:33:57 - INFO - Req was made
+02/06/2022, 0:33:57 - DEBUG - Getting Boards
+02/06/2022, 0:34:00 - INFO - Req was made
+02/06/2022, 0:34:00 - DEBUG - Getting Boards
+02/06/2022, 0:34:00 - INFO - Req was made
+02/06/2022, 0:34:00 - DEBUG - Getting Boards
+02/06/2022, 0:36:25 - INFO - Req was made
+02/06/2022, 0:36:25 - DEBUG - Getting Boards
+02/06/2022, 0:36:26 - INFO - Req was made
+02/06/2022, 0:36:26 - DEBUG - Getting Boards
+02/06/2022, 0:36:29 - INFO - Req was made
+02/06/2022, 0:36:29 - DEBUG - Getting Boards
+02/06/2022, 0:36:29 - INFO - Req was made
+02/06/2022, 0:36:29 - DEBUG - Getting Boards
+02/06/2022, 0:38:36 - INFO - Req was made
+02/06/2022, 0:38:36 - DEBUG - Getting Boards
+02/06/2022, 0:38:46 - INFO - Req was made
+02/06/2022, 0:38:46 - DEBUG - Getting Boards
+02/06/2022, 0:38:46 - INFO - Req was made
+02/06/2022, 0:38:46 - DEBUG - Getting Boards
+02/06/2022, 0:38:53 - INFO - Req was made
+02/06/2022, 0:38:53 - DEBUG - Getting Boards
+02/06/2022, 0:39:57 - INFO - Req was made
+02/06/2022, 0:39:57 - DEBUG - Getting Boards
+02/06/2022, 0:39:57 - INFO - Req was made
+02/06/2022, 0:39:57 - DEBUG - Getting Boards
+02/06/2022, 0:42:51 - INFO - Req was made
+02/06/2022, 0:42:51 - DEBUG - Getting Boards
+02/06/2022, 0:42:51 - INFO - Req was made
+02/06/2022, 0:42:51 - DEBUG - Getting Boards
+02/06/2022, 0:42:57 - INFO - Req was made
+02/06/2022, 0:42:57 - DEBUG - Getting Boards
+02/06/2022, 0:42:57 - INFO - Req was made
+02/06/2022, 0:42:57 - DEBUG - Getting Boards
+02/06/2022, 0:43:30 - INFO - Req was made
+02/06/2022, 0:43:30 - DEBUG - Getting Boards
+02/06/2022, 0:43:40 - INFO - Req was made
+02/06/2022, 0:43:40 - DEBUG - Getting Boards
+02/06/2022, 0:43:40 - INFO - Req was made
+02/06/2022, 0:43:40 - DEBUG - Getting Boards
+02/06/2022, 0:45:14 - INFO - Req was made
+02/06/2022, 0:45:14 - DEBUG - Getting Boards
+02/06/2022, 0:45:17 - INFO - Req was made
+02/06/2022, 0:45:17 - DEBUG - Getting Boards
+02/06/2022, 0:45:21 - INFO - Req was made
+02/06/2022, 0:45:21 - DEBUG - Getting Boards
+02/06/2022, 0:45:21 - INFO - Req was made
+02/06/2022, 0:45:21 - DEBUG - Getting Boards
+02/06/2022, 0:46:41 - INFO - Req was made
+02/06/2022, 0:46:41 - DEBUG - Getting Boards
+02/06/2022, 0:46:42 - INFO - Req was made
+02/06/2022, 0:46:42 - DEBUG - Getting Boards
+02/06/2022, 0:46:49 - INFO - Req was made
+02/06/2022, 0:46:49 - DEBUG - Getting Boards
+02/06/2022, 0:46:49 - INFO - Req was made
+02/06/2022, 0:46:49 - DEBUG - Getting Boards
+02/06/2022, 0:47:36 - INFO - Req was made
+02/06/2022, 0:47:36 - DEBUG - Getting Boards
+02/06/2022, 0:47:36 - INFO - Req was made
+02/06/2022, 0:47:36 - DEBUG - Getting Boards
+02/06/2022, 0:47:42 - INFO - Req was made
+02/06/2022, 0:47:42 - DEBUG - Getting Boards
+02/06/2022, 0:47:42 - INFO - Req was made
+02/06/2022, 0:47:42 - DEBUG - Getting Boards
+02/06/2022, 0:47:53 - INFO - Req was made
+02/06/2022, 0:47:53 - DEBUG - Getting Boards
+02/06/2022, 0:51:35 - INFO - Req was made
+02/06/2022, 0:51:35 - DEBUG - Getting Boards
+02/06/2022, 0:51:39 - INFO - Req was made
+02/06/2022, 0:51:39 - DEBUG - Getting Boards
+02/06/2022, 0:51:40 - INFO - Req was made
+02/06/2022, 0:51:40 - DEBUG - Getting Boards
+02/06/2022, 0:51:59 - INFO - Req was made
+02/06/2022, 0:51:59 - DEBUG - Getting Boards
+02/06/2022, 0:52:34 - INFO - Req was made
+02/06/2022, 0:52:34 - DEBUG - Getting Boards
+02/06/2022, 0:52:44 - INFO - Req was made
+02/06/2022, 0:52:44 - DEBUG - Getting Boards
+02/06/2022, 0:52:45 - INFO - Req was made
+02/06/2022, 0:52:45 - DEBUG - Getting Boards
+02/06/2022, 0:52:57 - INFO - Req was made
+02/06/2022, 0:52:57 - DEBUG - Getting Boards
+02/06/2022, 0:53:42 - INFO - Req was made
+02/06/2022, 0:53:42 - DEBUG - Getting Boards
+02/06/2022, 0:53:49 - INFO - Req was made
+02/06/2022, 0:53:49 - DEBUG - Getting Boards
+02/06/2022, 0:53:50 - INFO - Req was made
+02/06/2022, 0:53:50 - DEBUG - Getting Boards
+02/06/2022, 0:53:59 - INFO - Req was made
+02/06/2022, 0:53:59 - DEBUG - Getting Boards
+02/06/2022, 0:54:42 - INFO - Req was made
+02/06/2022, 0:54:42 - DEBUG - Getting Boards
+02/06/2022, 0:54:48 - INFO - Req was made
+02/06/2022, 0:54:48 - DEBUG - Getting Boards
+02/06/2022, 0:54:49 - INFO - Req was made
+02/06/2022, 0:54:49 - DEBUG - Getting Boards
+02/06/2022, 0:54:56 - INFO - Req was made
+02/06/2022, 0:54:56 - DEBUG - Getting Boards
+02/06/2022, 0:58:52 - INFO - Server is running on port: 3030
+02/06/2022, 0:58:59 - INFO - Req was made
+02/06/2022, 0:58:59 - DEBUG - Getting Boards
+02/06/2022, 0:59:00 - INFO - Req was made
+02/06/2022, 0:59:00 - DEBUG - Getting Boards
+02/06/2022, 1:01:14 - INFO - Server is running on port: 3030
+02/06/2022, 1:01:51 - INFO - Req was made
+02/06/2022, 1:01:51 - DEBUG - Getting Boards
+02/06/2022, 1:01:52 - INFO - Req was made
+02/06/2022, 1:01:52 - DEBUG - Getting Boards
+02/06/2022, 1:02:02 - INFO - Req was made
+02/06/2022, 1:02:02 - DEBUG - Getting Boards
+02/06/2022, 1:02:03 - INFO - Req was made
+02/06/2022, 1:02:03 - DEBUG - Getting Boards
+02/06/2022, 1:02:04 - INFO - Req was made
+02/06/2022, 1:02:04 - DEBUG - Getting Boards
+02/06/2022, 1:02:23 - INFO - Req was made
+02/06/2022, 1:02:23 - DEBUG - Getting Boards
+02/06/2022, 1:03:06 - INFO - Req was made
+02/06/2022, 1:03:06 - DEBUG - Getting Boards
+02/06/2022, 1:04:03 - INFO - Req was made
+02/06/2022, 1:04:03 - DEBUG - Getting Boards
+02/06/2022, 1:04:03 - INFO - Req was made
+02/06/2022, 1:04:03 - DEBUG - Getting Boards
+02/06/2022, 1:04:08 - INFO - Req was made
+02/06/2022, 1:04:08 - DEBUG - Getting Boards
+02/06/2022, 1:04:08 - INFO - Req was made
+02/06/2022, 1:04:08 - DEBUG - Getting Boards
+02/06/2022, 1:04:12 - INFO - Req was made
+02/06/2022, 1:04:12 - DEBUG - Getting Boards
+02/06/2022, 1:04:13 - INFO - Req was made
+02/06/2022, 1:04:13 - DEBUG - Getting Boards
+02/06/2022, 1:05:18 - INFO - Req was made
+02/06/2022, 1:05:18 - DEBUG - Getting Boards
+02/06/2022, 1:05:18 - INFO - Req was made
+02/06/2022, 1:05:18 - DEBUG - Getting Boards
+02/06/2022, 1:05:23 - INFO - Req was made
+02/06/2022, 1:05:23 - DEBUG - Getting Boards
+02/06/2022, 1:05:23 - INFO - Req was made
+02/06/2022, 1:05:23 - DEBUG - Getting Boards
+02/06/2022, 1:05:29 - INFO - Req was made
+02/06/2022, 1:05:29 - DEBUG - Getting Boards
+02/06/2022, 1:05:30 - INFO - Req was made
+02/06/2022, 1:05:30 - DEBUG - Getting Boards
+02/06/2022, 1:05:36 - INFO - Req was made
+02/06/2022, 1:05:36 - DEBUG - Getting Boards
+02/06/2022, 1:05:37 - INFO - Req was made
+02/06/2022, 1:05:37 - DEBUG - Getting Boards
+02/06/2022, 1:07:12 - INFO - Req was made
+02/06/2022, 1:07:12 - DEBUG - Getting Boards
+02/06/2022, 1:07:16 - INFO - Req was made
+02/06/2022, 1:07:16 - DEBUG - Getting Boards
+02/06/2022, 1:07:17 - INFO - Req was made
+02/06/2022, 1:07:17 - DEBUG - Getting Boards
+02/06/2022, 1:07:38 - INFO - Req was made
+02/06/2022, 1:07:38 - DEBUG - Getting Boards
+02/06/2022, 1:07:38 - INFO - Req was made
+02/06/2022, 1:07:38 - DEBUG - Getting Boards
+02/06/2022, 1:09:07 - INFO - Req was made
+02/06/2022, 1:09:07 - DEBUG - Getting Boards
+02/06/2022, 1:09:10 - INFO - Req was made
+02/06/2022, 1:09:10 - DEBUG - Getting Boards
+02/06/2022, 1:09:11 - INFO - Req was made
+02/06/2022, 1:09:11 - DEBUG - Getting Boards
+02/06/2022, 1:10:53 - INFO - Req was made
+02/06/2022, 1:10:53 - DEBUG - Getting Boards
+02/06/2022, 1:10:53 - INFO - Req was made
+02/06/2022, 1:10:53 - DEBUG - Getting Boards
+02/06/2022, 1:10:57 - INFO - Req was made
+02/06/2022, 1:10:57 - DEBUG - Getting Boards
+02/06/2022, 1:10:58 - INFO - Req was made
+02/06/2022, 1:10:58 - DEBUG - Getting Boards
+02/06/2022, 1:11:04 - INFO - Req was made
+02/06/2022, 1:11:04 - DEBUG - Getting Boards
+02/06/2022, 1:11:04 - INFO - Req was made
+02/06/2022, 1:11:04 - DEBUG - Getting Boards
+02/06/2022, 1:11:06 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:06 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:07 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:07 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:07 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:07 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:07 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:07 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:07 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:07 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:08 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:08 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:08 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:08 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:08 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:08 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:08 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:08 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:08 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:08 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:09 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:09 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:09 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:09 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:33 - INFO - Req was made
+02/06/2022, 1:11:33 - DEBUG - Getting Boards
+02/06/2022, 1:11:34 - INFO - Req was made
+02/06/2022, 1:11:34 - DEBUG - Getting Boards
+02/06/2022, 1:11:36 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:36 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:37 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:37 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:37 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:37 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:37 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:37 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:37 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:37 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:38 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:38 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:38 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:38 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:38 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:38 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:38 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:38 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:38 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:38 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:39 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:39 - ERROR - Failed to get board | {}
+02/06/2022, 1:11:39 - ERROR - while finding board [object Object] | {}
+02/06/2022, 1:11:39 - ERROR - Failed to get board | {}
+02/06/2022, 1:12:33 - INFO - Req was made
+02/06/2022, 1:12:33 - DEBUG - Getting Boards
+02/06/2022, 1:12:40 - INFO - Req was made
+02/06/2022, 1:12:40 - DEBUG - Getting Boards
+02/06/2022, 1:12:41 - INFO - Req was made
+02/06/2022, 1:12:41 - DEBUG - Getting Boards
+02/06/2022, 1:14:48 - INFO - Req was made
+02/06/2022, 1:14:48 - DEBUG - Getting Boards
+02/06/2022, 1:14:49 - INFO - Req was made
+02/06/2022, 1:14:49 - DEBUG - Getting Boards
+02/06/2022, 1:14:54 - INFO - Req was made
+02/06/2022, 1:14:54 - DEBUG - Getting Boards
+02/06/2022, 1:14:54 - INFO - Req was made
+02/06/2022, 1:14:54 - DEBUG - Getting Boards
+02/06/2022, 1:16:00 - INFO - Req was made
+02/06/2022, 1:16:00 - DEBUG - Getting Boards
+02/06/2022, 1:16:01 - INFO - Req was made
+02/06/2022, 1:16:01 - DEBUG - Getting Boards
+02/06/2022, 1:16:04 - INFO - Req was made
+02/06/2022, 1:16:04 - DEBUG - Getting Boards
+02/06/2022, 1:16:05 - INFO - Req was made
+02/06/2022, 1:16:05 - DEBUG - Getting Boards
+02/06/2022, 1:16:59 - INFO - Req was made
+02/06/2022, 1:16:59 - DEBUG - Getting Boards
+02/06/2022, 1:16:59 - INFO - Req was made
+02/06/2022, 1:16:59 - DEBUG - Getting Boards
+02/06/2022, 1:17:21 - INFO - Req was made
+02/06/2022, 1:17:21 - DEBUG - Getting Boards
+02/06/2022, 1:17:24 - INFO - Req was made
+02/06/2022, 1:17:24 - DEBUG - Getting Boards
+02/06/2022, 1:21:35 - INFO - Req was made
+02/06/2022, 1:21:35 - DEBUG - Getting Boards
+02/06/2022, 1:21:41 - INFO - Req was made
+02/06/2022, 1:21:41 - DEBUG - Getting Boards
+02/06/2022, 1:21:42 - INFO - Req was made
+02/06/2022, 1:21:42 - DEBUG - Getting Boards
+02/06/2022, 1:22:41 - INFO - Req was made
+02/06/2022, 1:22:41 - DEBUG - Getting Boards
+02/06/2022, 1:22:46 - INFO - Req was made
+02/06/2022, 1:22:46 - DEBUG - Getting Boards
+02/06/2022, 1:22:46 - INFO - Req was made
+02/06/2022, 1:22:46 - DEBUG - Getting Boards
+02/06/2022, 1:24:56 - INFO - Req was made
+02/06/2022, 1:24:56 - DEBUG - Getting Boards
+02/06/2022, 1:25:42 - INFO - Req was made
+02/06/2022, 1:25:42 - DEBUG - Getting Boards
+02/06/2022, 1:25:43 - INFO - Req was made
+02/06/2022, 1:25:43 - DEBUG - Getting Boards
+02/06/2022, 1:31:40 - INFO - Req was made
+02/06/2022, 1:31:40 - DEBUG - Getting Boards
+02/06/2022, 1:31:41 - INFO - Req was made
+02/06/2022, 1:31:41 - DEBUG - Getting Boards
+02/06/2022, 1:32:11 - INFO - Req was made
+02/06/2022, 1:32:11 - DEBUG - Getting Boards
+02/06/2022, 1:32:11 - INFO - Req was made
+02/06/2022, 1:32:11 - DEBUG - Getting Boards
+02/06/2022, 1:33:43 - INFO - Req was made
+02/06/2022, 1:33:43 - DEBUG - Getting Boards
+02/06/2022, 1:33:47 - INFO - Req was made
+02/06/2022, 1:33:47 - DEBUG - Getting Boards
+02/06/2022, 1:33:48 - INFO - Req was made
+02/06/2022, 1:33:48 - DEBUG - Getting Boards
+02/06/2022, 1:34:05 - INFO - Req was made
+02/06/2022, 1:34:05 - DEBUG - Getting Boards
+02/06/2022, 1:34:06 - INFO - Req was made
+02/06/2022, 1:34:06 - DEBUG - Getting Boards
+02/06/2022, 1:42:47 - INFO - Req was made
+02/06/2022, 1:42:47 - DEBUG - Getting Boards
+02/06/2022, 1:42:47 - INFO - Req was made
+02/06/2022, 1:42:48 - DEBUG - Getting Boards
+02/06/2022, 1:42:54 - INFO - Req was made
+02/06/2022, 1:42:54 - DEBUG - Getting Boards
+02/06/2022, 1:42:54 - INFO - Req was made
+02/06/2022, 1:42:54 - DEBUG - Getting Boards
+02/06/2022, 1:43:33 - INFO - Req was made
+02/06/2022, 1:43:33 - DEBUG - Getting Boards
+02/06/2022, 1:43:38 - INFO - Req was made
+02/06/2022, 1:43:38 - DEBUG - Getting Boards
+02/06/2022, 1:43:38 - INFO - Req was made
+02/06/2022, 1:43:38 - DEBUG - Getting Boards
+02/06/2022, 1:44:07 - INFO - Req was made
+02/06/2022, 1:44:07 - DEBUG - Getting Boards
+02/06/2022, 1:44:12 - INFO - Req was made
+02/06/2022, 1:44:12 - DEBUG - Getting Boards
+02/06/2022, 1:44:13 - INFO - Req was made
+02/06/2022, 1:44:13 - DEBUG - Getting Boards
+02/06/2022, 1:44:33 - INFO - Req was made
+02/06/2022, 1:44:33 - DEBUG - Getting Boards
+02/06/2022, 1:44:38 - INFO - Req was made
+02/06/2022, 1:44:38 - DEBUG - Getting Boards
+02/06/2022, 1:44:38 - INFO - Req was made
+02/06/2022, 1:44:38 - DEBUG - Getting Boards
+02/06/2022, 1:46:27 - INFO - Req was made
+02/06/2022, 1:46:27 - DEBUG - Getting Boards
+02/06/2022, 1:46:36 - INFO - Req was made
+02/06/2022, 1:46:36 - DEBUG - Getting Boards
+02/06/2022, 1:46:36 - INFO - Req was made
+02/06/2022, 1:46:36 - DEBUG - Getting Boards
+02/06/2022, 1:52:41 - INFO - Req was made
+02/06/2022, 1:52:41 - DEBUG - Getting Boards
+02/06/2022, 1:53:53 - INFO - Req was made
+02/06/2022, 1:53:53 - DEBUG - Getting Boards
+02/06/2022, 1:53:53 - INFO - Req was made
+02/06/2022, 1:53:53 - DEBUG - Getting Boards
+02/06/2022, 1:54:06 - INFO - Req was made
+02/06/2022, 1:54:06 - DEBUG - Getting Boards
+02/06/2022, 1:54:06 - INFO - Req was made
+02/06/2022, 1:54:06 - DEBUG - Getting Boards
+02/06/2022, 1:55:58 - INFO - Req was made
+02/06/2022, 1:55:58 - DEBUG - Getting Boards
+02/06/2022, 1:56:04 - INFO - Req was made
+02/06/2022, 1:56:04 - DEBUG - Getting Boards
+02/06/2022, 1:56:04 - INFO - Req was made
+02/06/2022, 1:56:04 - DEBUG - Getting Boards
+02/06/2022, 1:56:19 - INFO - Req was made
+02/06/2022, 1:56:19 - DEBUG - Getting Boards
+02/06/2022, 1:56:19 - INFO - Req was made
+02/06/2022, 1:56:19 - DEBUG - Getting Boards
+02/06/2022, 1:56:34 - INFO - Req was made
+02/06/2022, 1:56:34 - DEBUG - Getting Boards
+02/06/2022, 1:56:40 - INFO - Req was made
+02/06/2022, 1:56:40 - DEBUG - Getting Boards
+02/06/2022, 1:56:44 - INFO - Req was made
+02/06/2022, 1:56:44 - DEBUG - Getting Boards
+02/06/2022, 1:56:45 - INFO - Req was made
+02/06/2022, 1:56:45 - DEBUG - Getting Boards
+02/06/2022, 1:57:13 - INFO - Req was made
+02/06/2022, 1:57:13 - DEBUG - Getting Boards
+02/06/2022, 1:57:17 - INFO - Req was made
+02/06/2022, 1:57:17 - DEBUG - Getting Boards
+02/06/2022, 1:57:18 - INFO - Req was made
+02/06/2022, 1:57:18 - DEBUG - Getting Boards
+02/06/2022, 1:57:54 - INFO - Req was made
+02/06/2022, 1:57:54 - DEBUG - Getting Boards
+02/06/2022, 1:57:58 - INFO - Req was made
+02/06/2022, 1:57:58 - DEBUG - Getting Boards
+02/06/2022, 1:57:59 - INFO - Req was made
+02/06/2022, 1:57:59 - DEBUG - Getting Boards
+02/06/2022, 1:58:18 - INFO - Req was made
+02/06/2022, 1:58:18 - DEBUG - Getting Boards
+02/06/2022, 1:58:23 - INFO - Req was made
+02/06/2022, 1:58:23 - DEBUG - Getting Boards
+02/06/2022, 1:58:23 - INFO - Req was made
+02/06/2022, 1:58:23 - DEBUG - Getting Boards
+02/06/2022, 1:58:38 - INFO - Req was made
+02/06/2022, 1:58:38 - DEBUG - Getting Boards
+02/06/2022, 1:58:44 - INFO - Req was made
+02/06/2022, 1:58:44 - DEBUG - Getting Boards
+02/06/2022, 1:58:44 - INFO - Req was made
+02/06/2022, 1:58:44 - DEBUG - Getting Boards
+02/06/2022, 1:59:58 - INFO - Req was made
+02/06/2022, 1:59:58 - DEBUG - Getting Boards
+02/06/2022, 2:00:02 - INFO - Req was made
+02/06/2022, 2:00:02 - DEBUG - Getting Boards
+02/06/2022, 2:00:03 - INFO - Req was made
+02/06/2022, 2:00:03 - DEBUG - Getting Boards
+02/06/2022, 2:00:22 - INFO - Req was made
+02/06/2022, 2:00:22 - DEBUG - Getting Boards
+02/06/2022, 2:01:22 - INFO - Req was made
+02/06/2022, 2:01:22 - DEBUG - Getting Boards
+02/06/2022, 2:01:23 - INFO - Req was made
+02/06/2022, 2:01:23 - DEBUG - Getting Boards
+02/06/2022, 2:08:54 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 2:08:54 - INFO - User login:  | {"_id":"6297a2d0c5f4e7cc9f128a99","username":"guest@guest","fullname":"Guest","isAdmin":false,"boardIds":null}
+02/06/2022, 2:08:56 - INFO - Req was made
+02/06/2022, 2:08:56 - DEBUG - Getting Boards
+02/06/2022, 2:08:57 - INFO - Req was made
+02/06/2022, 2:08:57 - DEBUG - Getting Boards
+02/06/2022, 2:22:14 - INFO - Req was made
+02/06/2022, 2:22:14 - DEBUG - Getting Boards
+02/06/2022, 2:22:14 - INFO - Req was made
+02/06/2022, 2:22:14 - DEBUG - Getting Boards
+02/06/2022, 2:24:25 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 2:24:25 - INFO - User login:  | {"_id":"6297a2d0c5f4e7cc9f128a99","username":"guest@guest","fullname":"Guest","isAdmin":false,"boardIds":null}
+02/06/2022, 2:24:26 - INFO - Req was made
+02/06/2022, 2:24:26 - DEBUG - Getting Boards
+02/06/2022, 2:24:26 - INFO - Req was made
+02/06/2022, 2:24:26 - DEBUG - Getting Boards
+02/06/2022, 2:26:11 - INFO - Req was made
+02/06/2022, 2:26:11 - DEBUG - Getting Boards
+02/06/2022, 2:26:11 - INFO - Req was made
+02/06/2022, 2:26:11 - DEBUG - Getting Boards
+02/06/2022, 2:26:55 - INFO - Req was made
+02/06/2022, 2:26:55 - DEBUG - Getting Boards
+02/06/2022, 2:27:00 - INFO - Req was made
+02/06/2022, 2:27:00 - DEBUG - Getting Boards
+02/06/2022, 2:27:01 - INFO - Req was made
+02/06/2022, 2:27:01 - DEBUG - Getting Boards
+02/06/2022, 2:27:11 - INFO - Req was made
+02/06/2022, 2:27:11 - DEBUG - Getting Boards
+02/06/2022, 2:27:16 - INFO - Req was made
+02/06/2022, 2:27:16 - DEBUG - Getting Boards
+02/06/2022, 2:27:16 - INFO - Req was made
+02/06/2022, 2:27:16 - DEBUG - Getting Boards
+02/06/2022, 2:28:00 - INFO - Req was made
+02/06/2022, 2:28:00 - DEBUG - Getting Boards
+02/06/2022, 2:28:04 - INFO - Req was made
+02/06/2022, 2:28:04 - DEBUG - Getting Boards
+02/06/2022, 2:28:05 - INFO - Req was made
+02/06/2022, 2:28:05 - DEBUG - Getting Boards
+02/06/2022, 2:30:53 - INFO - Req was made
+02/06/2022, 2:30:53 - DEBUG - Getting Boards
+02/06/2022, 2:31:01 - INFO - Req was made
+02/06/2022, 2:31:01 - DEBUG - Getting Boards
+02/06/2022, 2:31:02 - INFO - Req was made
+02/06/2022, 2:31:02 - DEBUG - Getting Boards
+02/06/2022, 2:31:13 - INFO - Req was made
+02/06/2022, 2:31:13 - DEBUG - Getting Boards
+02/06/2022, 2:31:13 - INFO - Req was made
+02/06/2022, 2:31:13 - DEBUG - Getting Boards
+02/06/2022, 2:32:35 - INFO - Req was made
+02/06/2022, 2:32:35 - DEBUG - Getting Boards
+02/06/2022, 2:33:17 - INFO - Req was made
+02/06/2022, 2:33:17 - DEBUG - Getting Boards
+02/06/2022, 2:33:18 - INFO - Req was made
+02/06/2022, 2:33:18 - DEBUG - Getting Boards
+02/06/2022, 2:33:40 - INFO - Req was made
+02/06/2022, 2:33:40 - DEBUG - Getting Boards
+02/06/2022, 2:33:45 - INFO - Req was made
+02/06/2022, 2:33:45 - DEBUG - Getting Boards
+02/06/2022, 2:33:45 - INFO - Req was made
+02/06/2022, 2:33:45 - DEBUG - Getting Boards
+02/06/2022, 2:33:54 - INFO - Req was made
+02/06/2022, 2:33:54 - DEBUG - Getting Boards
+02/06/2022, 2:33:59 - INFO - Req was made
+02/06/2022, 2:33:59 - DEBUG - Getting Boards
+02/06/2022, 2:33:59 - INFO - Req was made
+02/06/2022, 2:33:59 - DEBUG - Getting Boards
+02/06/2022, 2:41:57 - INFO - Req was made
+02/06/2022, 2:41:57 - DEBUG - Getting Boards
+02/06/2022, 2:41:57 - INFO - Req was made
+02/06/2022, 2:41:57 - DEBUG - Getting Boards
+02/06/2022, 2:42:32 - INFO - Req was made
+02/06/2022, 2:42:32 - DEBUG - Getting Boards
+02/06/2022, 2:42:33 - INFO - Req was made
+02/06/2022, 2:42:33 - DEBUG - Getting Boards
+02/06/2022, 2:55:07 - INFO - Req was made
+02/06/2022, 2:55:07 - DEBUG - Getting Boards
+02/06/2022, 2:55:07 - INFO - Req was made
+02/06/2022, 2:55:07 - DEBUG - Getting Boards
+02/06/2022, 3:01:09 - INFO - Req was made
+02/06/2022, 3:01:09 - DEBUG - Getting Boards
+02/06/2022, 3:01:09 - INFO - Req was made
+02/06/2022, 3:01:09 - DEBUG - Getting Boards
+02/06/2022, 3:01:09 - INFO - Req was made
+02/06/2022, 3:01:09 - DEBUG - Getting Boards
+02/06/2022, 3:01:14 - INFO - Req was made
+02/06/2022, 3:01:14 - DEBUG - Getting Boards
+02/06/2022, 3:01:14 - INFO - Req was made
+02/06/2022, 3:01:14 - DEBUG - Getting Boards
+02/06/2022, 3:02:10 - INFO - Req was made
+02/06/2022, 3:02:10 - DEBUG - Getting Boards
+02/06/2022, 3:02:17 - INFO - Req was made
+02/06/2022, 3:02:17 - DEBUG - Getting Boards
+02/06/2022, 3:02:17 - INFO - Req was made
+02/06/2022, 3:02:17 - DEBUG - Getting Boards
+02/06/2022, 3:03:36 - INFO - Req was made
+02/06/2022, 3:03:36 - DEBUG - Getting Boards
+02/06/2022, 3:03:40 - INFO - Req was made
+02/06/2022, 3:03:40 - DEBUG - Getting Boards
+02/06/2022, 3:03:40 - INFO - Req was made
+02/06/2022, 3:03:40 - DEBUG - Getting Boards
+02/06/2022, 3:04:15 - INFO - Req was made
+02/06/2022, 3:04:15 - DEBUG - Getting Boards
+02/06/2022, 3:04:20 - INFO - Req was made
+02/06/2022, 3:04:20 - DEBUG - Getting Boards
+02/06/2022, 3:04:20 - INFO - Req was made
+02/06/2022, 3:04:20 - DEBUG - Getting Boards
+02/06/2022, 3:04:59 - INFO - Req was made
+02/06/2022, 3:04:59 - DEBUG - Getting Boards
+02/06/2022, 3:05:13 - INFO - Req was made
+02/06/2022, 3:05:13 - DEBUG - Getting Boards
+02/06/2022, 3:05:18 - INFO - Req was made
+02/06/2022, 3:05:18 - DEBUG - Getting Boards
+02/06/2022, 3:05:18 - INFO - Req was made
+02/06/2022, 3:05:18 - DEBUG - Getting Boards
+02/06/2022, 3:05:43 - INFO - Req was made
+02/06/2022, 3:05:43 - DEBUG - Getting Boards
+02/06/2022, 3:05:47 - INFO - Req was made
+02/06/2022, 3:05:47 - DEBUG - Getting Boards
+02/06/2022, 3:05:47 - INFO - Req was made
+02/06/2022, 3:05:47 - DEBUG - Getting Boards
+02/06/2022, 3:07:32 - INFO - Req was made
+02/06/2022, 3:07:32 - DEBUG - Getting Boards
+02/06/2022, 3:07:35 - INFO - Req was made
+02/06/2022, 3:07:35 - DEBUG - Getting Boards
+02/06/2022, 3:07:35 - INFO - Req was made
+02/06/2022, 3:07:35 - DEBUG - Getting Boards
+02/06/2022, 3:08:15 - INFO - Req was made
+02/06/2022, 3:08:15 - DEBUG - Getting Boards
+02/06/2022, 3:08:18 - INFO - Req was made
+02/06/2022, 3:08:18 - DEBUG - Getting Boards
+02/06/2022, 3:08:18 - INFO - Req was made
+02/06/2022, 3:08:18 - DEBUG - Getting Boards
+02/06/2022, 3:10:06 - INFO - Req was made
+02/06/2022, 3:10:06 - DEBUG - Getting Boards
+02/06/2022, 3:10:12 - INFO - Req was made
+02/06/2022, 3:10:12 - DEBUG - Getting Boards
+02/06/2022, 3:10:12 - INFO - Req was made
+02/06/2022, 3:10:12 - DEBUG - Getting Boards
+02/06/2022, 3:10:32 - INFO - Req was made
+02/06/2022, 3:10:32 - DEBUG - Getting Boards
+02/06/2022, 3:10:37 - INFO - Req was made
+02/06/2022, 3:10:37 - DEBUG - Getting Boards
+02/06/2022, 3:10:37 - INFO - Req was made
+02/06/2022, 3:10:37 - DEBUG - Getting Boards
+02/06/2022, 3:11:35 - INFO - Req was made
+02/06/2022, 3:11:35 - DEBUG - Getting Boards
+02/06/2022, 3:11:40 - INFO - Req was made
+02/06/2022, 3:11:40 - DEBUG - Getting Boards
+02/06/2022, 3:11:43 - INFO - Req was made
+02/06/2022, 3:11:43 - DEBUG - Getting Boards
+02/06/2022, 3:11:43 - INFO - Req was made
+02/06/2022, 3:11:43 - DEBUG - Getting Boards
+02/06/2022, 3:12:19 - INFO - Req was made
+02/06/2022, 3:12:19 - DEBUG - Getting Boards
+02/06/2022, 3:12:26 - INFO - Req was made
+02/06/2022, 3:12:26 - DEBUG - Getting Boards
+02/06/2022, 3:12:26 - INFO - Req was made
+02/06/2022, 3:12:26 - DEBUG - Getting Boards
+02/06/2022, 3:12:36 - INFO - Req was made
+02/06/2022, 3:12:36 - DEBUG - Getting Boards
+02/06/2022, 3:12:39 - INFO - Req was made
+02/06/2022, 3:12:39 - DEBUG - Getting Boards
+02/06/2022, 3:12:40 - INFO - Req was made
+02/06/2022, 3:12:40 - DEBUG - Getting Boards
+02/06/2022, 3:13:46 - INFO - Req was made
+02/06/2022, 3:13:46 - DEBUG - Getting Boards
+02/06/2022, 3:13:50 - INFO - Req was made
+02/06/2022, 3:13:50 - DEBUG - Getting Boards
+02/06/2022, 3:13:50 - INFO - Req was made
+02/06/2022, 3:13:50 - DEBUG - Getting Boards
+02/06/2022, 3:15:29 - INFO - Req was made
+02/06/2022, 3:15:29 - DEBUG - Getting Boards
+02/06/2022, 3:15:35 - INFO - Req was made
+02/06/2022, 3:15:35 - DEBUG - Getting Boards
+02/06/2022, 3:15:35 - INFO - Req was made
+02/06/2022, 3:15:35 - DEBUG - Getting Boards
+02/06/2022, 3:41:58 - INFO - Req was made
+02/06/2022, 3:41:58 - DEBUG - Getting Boards
+02/06/2022, 3:42:03 - INFO - Req was made
+02/06/2022, 3:42:03 - DEBUG - Getting Boards
+02/06/2022, 3:42:04 - INFO - Req was made
+02/06/2022, 3:42:04 - DEBUG - Getting Boards
+02/06/2022, 3:43:16 - INFO - Req was made
+02/06/2022, 3:43:16 - DEBUG - Getting Boards
+02/06/2022, 3:43:33 - INFO - Req was made
+02/06/2022, 3:43:33 - DEBUG - Getting Boards
+02/06/2022, 3:43:33 - INFO - Req was made
+02/06/2022, 3:43:33 - DEBUG - Getting Boards
+02/06/2022, 3:47:53 - INFO - Req was made
+02/06/2022, 3:47:53 - DEBUG - Getting Boards
+02/06/2022, 3:47:54 - INFO - Req was made
+02/06/2022, 3:47:54 - DEBUG - Getting Boards
+02/06/2022, 3:48:21 - INFO - Req was made
+02/06/2022, 3:48:21 - DEBUG - Getting Boards
+02/06/2022, 3:48:30 - INFO - Req was made
+02/06/2022, 3:48:30 - DEBUG - Getting Boards
+02/06/2022, 3:48:30 - INFO - Req was made
+02/06/2022, 3:48:30 - DEBUG - Getting Boards
+02/06/2022, 3:49:46 - INFO - Req was made
+02/06/2022, 3:49:46 - DEBUG - Getting Boards
+02/06/2022, 3:50:32 - INFO - Req was made
+02/06/2022, 3:50:32 - DEBUG - Getting Boards
+02/06/2022, 3:50:32 - INFO - Req was made
+02/06/2022, 3:50:32 - DEBUG - Getting Boards
+02/06/2022, 3:50:40 - INFO - Server is running on port: 3030
+02/06/2022, 10:22:27 - INFO - Server is running on port: 3030
+02/06/2022, 10:23:53 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 10:23:53 - INFO - User login:  | {"_id":"6297a2d0c5f4e7cc9f128a99","username":"guest@guest","fullname":"Guest","isAdmin":false,"boardIds":null}
+02/06/2022, 10:23:55 - INFO - Req was made
+02/06/2022, 10:23:55 - DEBUG - Getting Boards
+02/06/2022, 10:23:55 - INFO - Req was made
+02/06/2022, 10:23:55 - DEBUG - Getting Boards
+02/06/2022, 10:24:12 - INFO - Req was made
+02/06/2022, 10:24:12 - DEBUG - Getting Boards
+02/06/2022, 10:24:12 - INFO - Req was made
+02/06/2022, 10:24:12 - DEBUG - Getting Boards
+02/06/2022, 10:24:16 - INFO - Req was made
+02/06/2022, 10:24:16 - DEBUG - Getting Boards
+02/06/2022, 10:24:17 - INFO - Req was made
+02/06/2022, 10:24:17 - DEBUG - Getting Boards
+02/06/2022, 10:25:15 - INFO - Req was made
+02/06/2022, 10:25:15 - DEBUG - Getting Boards
+02/06/2022, 10:25:16 - INFO - Req was made
+02/06/2022, 10:25:16 - DEBUG - Getting Boards
+02/06/2022, 10:26:54 - INFO - Req was made
+02/06/2022, 10:26:54 - DEBUG - Getting Boards
+02/06/2022, 10:29:16 - INFO - Req was made
+02/06/2022, 10:29:16 - DEBUG - Getting Boards
+02/06/2022, 10:35:07 - INFO - Req was made
+02/06/2022, 10:35:07 - DEBUG - Getting Boards
+02/06/2022, 10:35:07 - INFO - Req was made
+02/06/2022, 10:35:07 - DEBUG - Getting Boards
+02/06/2022, 10:35:56 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 10:35:57 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$bBa9a2jWlqmnqzMJew0qtuOrnnskhvtOcJP3VUFT./4iBTvXGjke6","fullname":"Guest","isAdmin":false,"_id":"6298685cc2c5ee10d18d9b36"}
+02/06/2022, 10:36:20 - INFO - Req was made
+02/06/2022, 10:36:20 - DEBUG - Getting Boards
+02/06/2022, 10:36:21 - INFO - Req was made
+02/06/2022, 10:36:21 - DEBUG - Getting Boards
+02/06/2022, 10:36:24 - INFO - Req was made
+02/06/2022, 10:36:24 - DEBUG - Getting Boards
+02/06/2022, 10:36:24 - INFO - Req was made
+02/06/2022, 10:36:24 - DEBUG - Getting Boards
+02/06/2022, 10:37:35 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 10:37:35 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$TNZ1BOuXs6c6StvcWLNA1e.EyEbJ4YwGlAJMlby5wdsKiG1d1YYC6","fullname":"Guest","isAdmin":false,"_id":"629868bfc2c5ee10d18d9b38"}
+02/06/2022, 10:38:53 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 10:38:53 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$Q1Y7.O5dl6MgKjD6HhEZP.PAtG87ykzopm9fz3RbcRlG/8uPMwAfq","fullname":"Guest","isAdmin":false,"_id":"6298690dc2c5ee10d18d9b3a"}
+02/06/2022, 10:40:01 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 10:40:01 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$0ONwEPcSaUWHIiIlEx6sQu5yldsmJdnsx0bsmNTdqXrInQp/Ock8K","fullname":"Guest","isAdmin":false,"_id":"62986951c2c5ee10d18d9b3c"}
+02/06/2022, 10:40:23 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 10:40:23 - INFO - User login:  | {"_id":"62986951c2c5ee10d18d9b3c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 10:40:24 - INFO - Req was made
+02/06/2022, 10:40:24 - DEBUG - Getting Boards
+02/06/2022, 10:40:25 - INFO - Req was made
+02/06/2022, 10:40:25 - DEBUG - Getting Boards
+02/06/2022, 10:41:17 - INFO - Req was made
+02/06/2022, 10:41:17 - DEBUG - Getting Boards
+02/06/2022, 10:41:17 - INFO - Req was made
+02/06/2022, 10:41:17 - DEBUG - Getting Boards
+02/06/2022, 10:49:33 - INFO - Req was made
+02/06/2022, 10:49:33 - DEBUG - Getting Boards
+02/06/2022, 10:51:10 - INFO - Req was made
+02/06/2022, 10:51:10 - DEBUG - Getting Boards
+02/06/2022, 11:01:59 - INFO - Req was made
+02/06/2022, 11:01:59 - DEBUG - Getting Boards
+02/06/2022, 11:02:00 - INFO - Req was made
+02/06/2022, 11:02:00 - DEBUG - Getting Boards
+02/06/2022, 11:02:44 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 11:02:44 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$emwDVs8/LfjDO4ZD0bkkCuUyYeydt9AmwP5BTpSYkYrHX0OEMmElC","fullname":"Guest","isAdmin":false,"_id":"62986ea4c2c5ee10d18d9b3e"}
+02/06/2022, 11:02:54 - INFO - Req was made
+02/06/2022, 11:02:54 - DEBUG - Getting Boards
+02/06/2022, 11:02:54 - INFO - Req was made
+02/06/2022, 11:02:54 - DEBUG - Getting Boards
+02/06/2022, 11:04:01 - INFO - Req was made
+02/06/2022, 11:04:01 - DEBUG - Getting Boards
+02/06/2022, 11:04:38 - INFO - Req was made
+02/06/2022, 11:04:38 - DEBUG - Getting Boards
+02/06/2022, 11:04:39 - INFO - Req was made
+02/06/2022, 11:04:39 - DEBUG - Getting Boards
+02/06/2022, 11:04:51 - INFO - Req was made
+02/06/2022, 11:04:51 - DEBUG - Getting Boards
+02/06/2022, 11:04:52 - INFO - Req was made
+02/06/2022, 11:04:52 - DEBUG - Getting Boards
+02/06/2022, 11:09:49 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 11:09:50 - INFO - User login:  | {"_id":"62986ea4c2c5ee10d18d9b3e","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 11:09:50 - INFO - Req was made
+02/06/2022, 11:09:50 - DEBUG - Getting Boards
+02/06/2022, 11:09:50 - INFO - Req was made
+02/06/2022, 11:09:50 - DEBUG - Getting Boards
+02/06/2022, 11:23:25 - INFO - Req was made
+02/06/2022, 11:23:25 - DEBUG - Getting Boards
+02/06/2022, 11:23:25 - INFO - Req was made
+02/06/2022, 11:23:25 - DEBUG - Getting Boards
+02/06/2022, 11:24:11 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 11:24:11 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$G.igpR7mPTx9mXNaXWToNOrHKsxPhaoAwdpq7bz5Ox.qXsv9gEZcO","fullname":"Guest","isAdmin":false,"_id":"629873abc2c5ee10d18d9b41"}
+02/06/2022, 11:24:17 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 11:24:17 - INFO - User login:  | {"_id":"629873abc2c5ee10d18d9b41","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 11:24:19 - INFO - Req was made
+02/06/2022, 11:24:19 - DEBUG - Getting Boards
+02/06/2022, 11:24:20 - INFO - Req was made
+02/06/2022, 11:24:20 - DEBUG - Getting Boards
+02/06/2022, 11:29:05 - INFO - Req was made
+02/06/2022, 11:29:05 - DEBUG - Getting Boards
+02/06/2022, 11:29:14 - INFO - Req was made
+02/06/2022, 11:29:14 - DEBUG - Getting Boards
+02/06/2022, 11:29:14 - INFO - Req was made
+02/06/2022, 11:29:14 - DEBUG - Getting Boards
+02/06/2022, 11:32:29 - INFO - Req was made
+02/06/2022, 11:32:29 - DEBUG - Getting Boards
+02/06/2022, 11:34:55 - INFO - Req was made
+02/06/2022, 11:34:55 - DEBUG - Getting Boards
+02/06/2022, 11:35:01 - INFO - Req was made
+02/06/2022, 11:35:01 - DEBUG - Getting Boards
+02/06/2022, 11:35:01 - INFO - Req was made
+02/06/2022, 11:35:01 - DEBUG - Getting Boards
+02/06/2022, 11:51:17 - INFO - Req was made
+02/06/2022, 11:51:17 - DEBUG - Getting Boards
+02/06/2022, 11:51:25 - INFO - Req was made
+02/06/2022, 11:51:25 - DEBUG - Getting Boards
+02/06/2022, 11:51:26 - INFO - Req was made
+02/06/2022, 11:51:26 - DEBUG - Getting Boards
+02/06/2022, 15:34:59 - INFO - Server is running on port: 3030
+02/06/2022, 15:35:09 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 15:35:10 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$W/h0AM.YjLKo5yyAIwjzYerpJzMe0FlzWBYHV6blfeljFsvaSR3eW","fullname":"Guest","isAdmin":false,"_id":"6298ae7edcdad6aa7235c23c"}
+02/06/2022, 15:35:31 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 15:35:31 - INFO - User login:  | {"_id":"6298ae7edcdad6aa7235c23c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 15:35:32 - INFO - Req was made
+02/06/2022, 15:35:32 - DEBUG - Getting Boards
+02/06/2022, 15:35:32 - INFO - Req was made
+02/06/2022, 15:35:32 - DEBUG - Getting Boards
+02/06/2022, 16:38:26 - DEBUG - auth.service - signup with username: tomi@gmail, fullname: Tomi
+02/06/2022, 16:38:26 - INFO - User login:  | {"username":"tomi@gmail","password":"$2b$10$iKPuSfKuNFOYsYNV86UgXeSnaymmP5UOInm/7REHn.GkFOCHJnRmm","fullname":"Tomi","isAdmin":false,"_id":"6298bd52dcdad6aa7235c23f"}
+02/06/2022, 16:38:35 - DEBUG - auth.service - login with username: tomi@gmail
+02/06/2022, 16:38:35 - INFO - User login:  | {"_id":"6298bd52dcdad6aa7235c23f","username":"tomi@gmail","fullname":"Tomi","isAdmin":false}
+02/06/2022, 16:38:37 - INFO - Req was made
+02/06/2022, 16:38:37 - DEBUG - Getting Boards
+02/06/2022, 16:38:37 - INFO - Req was made
+02/06/2022, 16:38:37 - DEBUG - Getting Boards
+02/06/2022, 16:39:42 - INFO - Req was made
+02/06/2022, 16:39:42 - DEBUG - Getting Boards
+02/06/2022, 16:39:43 - INFO - Req was made
+02/06/2022, 16:39:43 - DEBUG - Getting Boards
+02/06/2022, 16:39:49 - INFO - Req was made
+02/06/2022, 16:39:49 - DEBUG - Getting Boards
+02/06/2022, 16:39:50 - INFO - Req was made
+02/06/2022, 16:39:50 - DEBUG - Getting Boards
+02/06/2022, 16:58:20 - INFO - Req was made
+02/06/2022, 16:58:20 - DEBUG - Getting Boards
+02/06/2022, 16:58:20 - INFO - Req was made
+02/06/2022, 16:58:20 - DEBUG - Getting Boards
+02/06/2022, 16:58:22 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 16:58:22 - INFO - User login:  | {"_id":"6298ae7edcdad6aa7235c23c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 16:58:25 - INFO - Req was made
+02/06/2022, 16:58:25 - DEBUG - Getting Boards
+02/06/2022, 16:58:25 - INFO - Req was made
+02/06/2022, 16:58:25 - DEBUG - Getting Boards
+02/06/2022, 16:58:29 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 16:58:29 - INFO - User login:  | {"_id":"6298ae7edcdad6aa7235c23c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 16:58:32 - INFO - Req was made
+02/06/2022, 16:58:32 - DEBUG - Getting Boards
+02/06/2022, 16:58:32 - INFO - Req was made
+02/06/2022, 16:58:32 - DEBUG - Getting Boards
+02/06/2022, 17:02:43 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:02:43 - INFO - User login:  | {"_id":"6298ae7edcdad6aa7235c23c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:02:46 - INFO - Req was made
+02/06/2022, 17:02:46 - DEBUG - Getting Boards
+02/06/2022, 17:02:47 - INFO - Req was made
+02/06/2022, 17:02:47 - DEBUG - Getting Boards
+02/06/2022, 17:03:38 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:03:38 - INFO - User login:  | {"_id":"6298ae7edcdad6aa7235c23c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:03:40 - INFO - Req was made
+02/06/2022, 17:03:40 - DEBUG - Getting Boards
+02/06/2022, 17:03:41 - INFO - Req was made
+02/06/2022, 17:03:41 - DEBUG - Getting Boards
+02/06/2022, 17:04:08 - INFO - Server is running on port: 3030
+02/06/2022, 17:07:02 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:07:02 - INFO - User login:  | {"_id":"6298ae7edcdad6aa7235c23c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:07:18 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:07:18 - INFO - User login:  | {"_id":"6298ae7edcdad6aa7235c23c","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:07:33 - INFO - Req was made
+02/06/2022, 17:07:33 - DEBUG - Getting Boards
+02/06/2022, 17:07:33 - INFO - Req was made
+02/06/2022, 17:07:33 - DEBUG - Getting Boards
+02/06/2022, 17:08:38 - INFO - Server is running on port: 3030
+02/06/2022, 17:08:55 - DEBUG - auth.service - signup with username: guest@guest, fullname: Guest
+02/06/2022, 17:08:56 - INFO - User login:  | {"username":"guest@guest","password":"$2b$10$vWREr.PKsKt3I5rKupQJa..wE2af36LzobHxE.uJ3t4DRx5EtaH7m","fullname":"Guest","isAdmin":false,"_id":"6298c4778405f9bcd2c2769d"}
+02/06/2022, 17:09:10 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:09:10 - INFO - User login:  | {"_id":"6298c4778405f9bcd2c2769d","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:09:12 - INFO - Req was made
+02/06/2022, 17:09:12 - DEBUG - Getting Boards
+02/06/2022, 17:09:13 - INFO - Req was made
+02/06/2022, 17:09:13 - DEBUG - Getting Boards
+02/06/2022, 17:11:53 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:11:53 - INFO - User login:  | {"_id":"6298c4778405f9bcd2c2769d","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:12:02 - INFO - Req was made
+02/06/2022, 17:12:02 - DEBUG - Getting Boards
+02/06/2022, 17:12:03 - INFO - Req was made
+02/06/2022, 17:12:03 - DEBUG - Getting Boards
+02/06/2022, 17:12:49 - INFO - Req was made
+02/06/2022, 17:12:49 - DEBUG - Getting Boards
+02/06/2022, 17:13:05 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:13:05 - INFO - User login:  | {"_id":"6298c4778405f9bcd2c2769d","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:13:12 - INFO - Req was made
+02/06/2022, 17:13:12 - DEBUG - Getting Boards
+02/06/2022, 17:14:10 - INFO - Req was made
+02/06/2022, 17:14:10 - DEBUG - Getting Boards
+02/06/2022, 17:14:28 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:14:28 - INFO - User login:  | {"_id":"6298c4778405f9bcd2c2769d","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:14:30 - INFO - Req was made
+02/06/2022, 17:14:30 - DEBUG - Getting Boards
+02/06/2022, 17:23:16 - INFO - Req was made
+02/06/2022, 17:23:16 - DEBUG - Getting Boards
+02/06/2022, 17:41:35 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:41:35 - INFO - User login:  | {"_id":"6298c4778405f9bcd2c2769d","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:41:35 - INFO - Req was made
+02/06/2022, 17:41:35 - DEBUG - Getting Boards
+02/06/2022, 17:44:58 - DEBUG - auth.service - login with username: guest@guest
+02/06/2022, 17:44:58 - INFO - User login:  | {"_id":"6298c4778405f9bcd2c2769d","username":"guest@guest","fullname":"Guest","isAdmin":false}
+02/06/2022, 17:44:59 - INFO - Req was made
+02/06/2022, 17:44:59 - DEBUG - Getting Boards
+02/06/2022, 17:45:26 - INFO - Req was made
+02/06/2022, 17:45:26 - DEBUG - Getting Boards
+02/06/2022, 17:46:28 - INFO - Req was made
+02/06/2022, 17:46:28 - DEBUG - Getting Boards
+02/06/2022, 17:46:34 - INFO - Req was made
+02/06/2022, 17:46:34 - DEBUG - Getting Boards
+02/06/2022, 17:46:56 - INFO - Req was made
+02/06/2022, 17:46:56 - DEBUG - Getting Boards
+02/06/2022, 17:47:05 - INFO - Req was made
+02/06/2022, 17:47:05 - DEBUG - Getting Boards
+02/06/2022, 17:50:20 - INFO - Req was made
+02/06/2022, 17:50:20 - DEBUG - Getting Boards
