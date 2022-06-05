@@ -21,14 +21,17 @@ function setupSocketAPI(http) {
         socket.on('userIsTyping', (user) => {
             broadcast('userIsTyping', user.username, null, user._id)
         })
-        socket.on('chat topic', topic => {
-            if (socket.myTopic === topic) return;
+        socket.on('registerToBoardUpdates', boardId => {
+            if (socket.myTopic === boardId) return;
             if (socket.myTopic) {
                 socket.leave(socket.myTopic)
                 logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
             }
-            socket.join(topic)
-            socket.myTopic = topic
+            socket.join(boardId)
+            socket.myTopic = boardId
+        })
+        socket.on('boardUpdate', (board) => {
+            gIo.to(socket.myTopic).emit('newBoardUpdate', board)
         })
         socket.on('chat newMsg', msg => {
             logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)

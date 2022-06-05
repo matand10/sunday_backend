@@ -7,7 +7,6 @@ const updateService = require('./update.service')
 async function getUpdates(req, res) {
     try {
         const updates = await updateService.query(req.query)
-        console.log(updates);
         res.send(updates)
     } catch (err) {
         logger.error('Cannot get updates', err)
