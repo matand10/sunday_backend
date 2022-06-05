@@ -41,6 +41,7 @@ async function add(board) {
         const collection = await dbService.getCollection('board')
         const addedBoard = await collection.insertOne(board)
         return addedBoard.insertedId
+        // return addedBoard
     } catch (err) {
         logger.error('cannot insert board', err)
         throw err
@@ -53,7 +54,6 @@ async function update(board) {
         delete board._id
         const collection = await dbService.getCollection('board')
         await collection.updateOne({ _id: id }, { $set: { ...board } })
-
         return board
     } catch (err) {
         logger.error(`cannot update board ${board._id}`, err)
@@ -68,7 +68,6 @@ function _buildCriteria(filterBy) {
 
     // criteria = { members: { $elemMatch: { _id: filterBy.userId } } }
     // criteria = { members: { $elemMatch: { username: filterBy.username } } }
-
     return criteria
 }
 
