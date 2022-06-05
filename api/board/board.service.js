@@ -40,8 +40,6 @@ async function add(board) {
         // board.createdAt = Date.now()
         const collection = await dbService.getCollection('board')
         const addedBoard = await collection.insertOne(board)
-        console.log('add');
-        console.log(addedBoard);
         return addedBoard.insertedId
     } catch (err) {
         logger.error('cannot insert board', err)
@@ -55,7 +53,6 @@ async function update(board) {
         delete board._id
         const collection = await dbService.getCollection('board')
         await collection.updateOne({ _id: id }, { $set: { ...board } })
-        console.log('update');
 
         return board
     } catch (err) {
@@ -69,7 +66,7 @@ function _buildCriteria(filterBy) {
 
     // if (filterBy.boardIds) criteria = { _id: filterBy.boardIds }
 
-    criteria = { members: { $elemMatch: { _id: filterBy.userId } } }
+    // criteria = { members: { $elemMatch: { _id: filterBy.userId } } }
     // criteria = { members: { $elemMatch: { username: filterBy.username } } }
 
     return criteria
