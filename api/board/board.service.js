@@ -66,7 +66,7 @@ function _buildCriteria(filterBy) {
 
     // if (filterBy.boardIds) criteria = { _id: filterBy.boardIds }
 
-    // criteria = { members: { $elemMatch: { _id: filterBy.userId } } }
+    criteria = { members: { $elemMatch: { _id: filterBy.userId } } }
     // criteria = { members: { $elemMatch: { username: filterBy.username } } }
     return criteria
 }

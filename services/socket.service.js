@@ -35,15 +35,9 @@ function setupSocketAPI(http) {
         })
         socket.on('chat newMsg', msg => {
             logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            // const comment = { topic: socket.myTopic, from: socket.userId }
-
             if (msg.board.comments) msg.board.comments.push({ from: msg.from, txt: msg.txt })
             else msg.board.comments = [{ from: msg.from, txt: msg.txt }]
             boardService.update(msg.board)
-
             gIo.to(socket.myTopic).emit('chat addMsg', msg)
         })
         socket.on('user-watch', userId => {
