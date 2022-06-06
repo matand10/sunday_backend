@@ -80399,7 +80399,30 @@
 06/06/2022, 0:44:27 - DEBUG - Getting Boards
 06/06/2022, 0:44:27 - INFO - Req was made
 06/06/2022, 0:44:27 - DEBUG - Getting Boards
+<<<<<<< HEAD
+06/06/2022, 0:48:17 - INFO - Server is running on port: 3030
+06/06/2022, 0:48:17 - INFO - New connected socket [id: 20aOghD-yahfT2T9AAAB]
+06/06/2022, 0:48:29 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 0:48:53 - INFO - New connected socket [id: Wh9o9Q5XjGKAl2rpAAAD]
+06/06/2022, 0:48:53 - INFO - Req was made
+06/06/2022, 0:48:53 - DEBUG - Getting Boards
+06/06/2022, 0:48:55 - INFO - Req was made
+06/06/2022, 0:48:55 - INFO - Req was made
+06/06/2022, 0:48:55 - DEBUG - Getting Boards
+06/06/2022, 0:48:57 - INFO - Req was made
+06/06/2022, 0:48:57 - DEBUG - Getting Boards
+06/06/2022, 1:06:28 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 1:06:34 - INFO - New connected socket [id: RaAK_pmwEQFwT-qCAAAF]
+06/06/2022, 1:06:35 - INFO - Req was made
+06/06/2022, 1:06:35 - DEBUG - Getting Boards
+06/06/2022, 1:06:35 - INFO - Req was made
+06/06/2022, 1:06:35 - INFO - Req was made
+06/06/2022, 1:06:35 - DEBUG - Getting Boards
+06/06/2022, 1:06:35 - INFO - Req was made
+06/06/2022, 1:06:35 - DEBUG - Getting Boards
+=======
 >>>>>>> 7bead6477251753e500db89f4dfd11e99b067bfa
+<<<<<<< HEAD
 6.6.2022, 2:14:50 - INFO - Server is running on port: 3030
 6.6.2022, 2:15:47 - INFO - New connected socket [id: Rh2zIPD7kVG1UoTgAAAB]
 6.6.2022, 2:33:21 - INFO - Server is running on port: 3030
@@ -83984,3 +84007,103 @@
 7.6.2022, 1:10:52 - DEBUG - Getting Boards
 7.6.2022, 1:13:42 - INFO - Server is running on port: 3030
 7.6.2022, 1:13:43 - INFO - New connected socket [id: WfZXdTLn3bx5Kv08AAAB]
+=======
+>>>>>>> 7060b80af5b336f53b48ba047cada04d2c487380
+06/06/2022, 1:08:20 - INFO - Server is running on port: 3030
+06/06/2022, 1:08:20 - INFO - New connected socket [id: gv7EwK9FDseIn6X0AAAB]
+06/06/2022, 1:08:29 - INFO - Req was made
+06/06/2022, 1:08:29 - DEBUG - Getting Boards
+06/06/2022, 1:08:29 - INFO - Req was made
+06/06/2022, 1:08:30 - INFO - Req was made
+06/06/2022, 1:08:30 - DEBUG - Getting Boards
+06/06/2022, 1:08:30 - INFO - Req was made
+06/06/2022, 1:08:30 - DEBUG - Getting Boards
+06/06/2022, 1:08:31 - INFO - Req was made
+06/06/2022, 1:08:31 - INFO - Req was made
+06/06/2022, 1:08:31 - DEBUG - Getting Boards
+06/06/2022, 1:08:43 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 1:08:45 - INFO - New connected socket [id: c57hL9mURavfaQIlAAAD]
+06/06/2022, 1:08:45 - INFO - Req was made
+06/06/2022, 1:08:45 - DEBUG - Getting Boards
+06/06/2022, 1:08:45 - INFO - Req was made
+06/06/2022, 1:08:45 - INFO - Req was made
+06/06/2022, 1:08:45 - DEBUG - Getting Boards
+06/06/2022, 1:08:46 - INFO - Req was made
+06/06/2022, 1:08:46 - DEBUG - Getting Boards
+06/06/2022, 1:08:49 - INFO - Req was made
+06/06/2022, 1:08:50 - INFO - Req was made
+06/06/2022, 1:08:50 - DEBUG - Getting Boards
+06/06/2022, 1:08:50 - INFO - Req was made
+06/06/2022, 1:08:50 - INFO - Req was made
+06/06/2022, 1:08:50 - DEBUG - Getting Boards
+06/06/2022, 1:08:50 - INFO - Req was made
+06/06/2022, 1:08:50 - DEBUG - Getting Boards
+06/06/2022, 1:08:54 - INFO - Req was made
+06/06/2022, 1:08:54 - INFO - Req was made
+06/06/2022, 1:08:54 - DEBUG - Getting Boards
+06/06/2022, 1:08:56 - INFO - Req was made
+06/06/2022, 1:08:56 - INFO - Req was made
+06/06/2022, 1:08:56 - DEBUG - Getting Boards
+06/06/2022, 1:08:57 - INFO - Req was made
+06/06/2022, 1:08:58 - INFO - Req was made
+06/06/2022, 1:08:58 - DEBUG - Getting Boards
+06/06/2022, 1:08:59 - INFO - Req was made
+06/06/2022, 1:08:59 - DEBUG - Getting Boards
+06/06/2022, 1:08:59 - INFO - Req was made
+06/06/2022, 1:08:59 - INFO - Req was made
+06/06/2022, 1:08:59 - DEBUG - Getting Boards
+06/06/2022, 1:09:02 - INFO - Req was made
+06/06/2022, 1:09:02 - INFO - Req was made
+06/06/2022, 1:09:02 - DEBUG - Getting Boards
+06/06/2022, 1:09:04 - INFO - Req was made
+06/06/2022, 1:09:04 - INFO - Req was made
+06/06/2022, 1:09:04 - DEBUG - Getting Boards
+06/06/2022, 1:09:06 - INFO - Req was made
+06/06/2022, 1:09:06 - INFO - Req was made
+06/06/2022, 1:09:06 - DEBUG - Getting Boards
+06/06/2022, 1:09:06 - INFO - Req was made
+06/06/2022, 1:09:06 - INFO - Req was made
+06/06/2022, 1:09:06 - DEBUG - Getting Boards
+06/06/2022, 1:09:10 - INFO - Req was made
+06/06/2022, 1:09:10 - INFO - Req was made
+06/06/2022, 1:09:10 - DEBUG - Getting Boards
+06/06/2022, 1:09:10 - INFO - Req was made
+06/06/2022, 1:09:10 - INFO - Req was made
+06/06/2022, 1:09:10 - DEBUG - Getting Boards
+06/06/2022, 1:09:13 - INFO - Req was made
+06/06/2022, 1:09:13 - INFO - Req was made
+06/06/2022, 1:09:13 - DEBUG - Getting Boards
+06/06/2022, 1:09:14 - INFO - Req was made
+06/06/2022, 1:09:14 - INFO - Req was made
+06/06/2022, 1:09:14 - DEBUG - Getting Boards
+06/06/2022, 1:09:17 - INFO - Req was made
+06/06/2022, 1:09:17 - INFO - Req was made
+06/06/2022, 1:09:17 - DEBUG - Getting Boards
+06/06/2022, 1:09:19 - INFO - Req was made
+06/06/2022, 1:09:19 - INFO - Req was made
+06/06/2022, 1:09:19 - DEBUG - Getting Boards
+06/06/2022, 1:09:21 - INFO - Req was made
+06/06/2022, 1:09:22 - INFO - Req was made
+06/06/2022, 1:09:22 - DEBUG - Getting Boards
+06/06/2022, 1:09:28 - INFO - Req was made
+06/06/2022, 1:09:28 - INFO - Req was made
+06/06/2022, 1:09:28 - DEBUG - Getting Boards
+06/06/2022, 1:09:37 - INFO - Req was made
+06/06/2022, 1:09:37 - DEBUG - Getting Boards
+06/06/2022, 1:09:38 - INFO - Req was made
+06/06/2022, 1:09:38 - DEBUG - Getting Boards
+06/06/2022, 1:09:42 - INFO - Req was made
+06/06/2022, 1:09:42 - INFO - Req was made
+06/06/2022, 1:09:42 - DEBUG - Getting Boards
+06/06/2022, 1:09:44 - INFO - Req was made
+06/06/2022, 1:09:44 - INFO - Req was made
+06/06/2022, 1:09:44 - DEBUG - Getting Boards
+06/06/2022, 1:09:47 - INFO - Req was made
+06/06/2022, 1:09:47 - INFO - Req was made
+06/06/2022, 1:09:47 - DEBUG - Getting Boards
+06/06/2022, 1:09:50 - INFO - Req was made
+06/06/2022, 1:09:50 - INFO - Req was made
+06/06/2022, 1:09:50 - DEBUG - Getting Boards
+>>>>>>> fe3cf7362bea5690f10b555121359b423e8ea370
+7.6.2022, 1:14:55 - INFO - Server is running on port: 3030
+7.6.2022, 1:14:56 - INFO - New connected socket [id: O7G9rUuvIey4jLQIAAAB]
