@@ -80518,3 +80518,2964 @@
 06/06/2022, 1:09:50 - INFO - Req was made
 06/06/2022, 1:09:50 - INFO - Req was made
 06/06/2022, 1:09:50 - DEBUG - Getting Boards
+06/06/2022, 14:42:48 - INFO - Server is running on port: 3030
+06/06/2022, 14:44:16 - INFO - New connected socket [id: _AhbDxly-wqacMoxAAAB]
+06/06/2022, 14:44:27 - DEBUG - auth.service - login with username: guest@guest
+06/06/2022, 14:44:28 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+06/06/2022, 14:44:28 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 14:44:30 - INFO - New connected socket [id: g7jMY2l6yahPG6YmAAAD]
+06/06/2022, 14:44:30 - INFO - Req was made
+06/06/2022, 14:44:30 - DEBUG - Getting Boards
+06/06/2022, 14:44:31 - INFO - Req was made
+06/06/2022, 14:44:31 - INFO - Req was made
+06/06/2022, 14:44:31 - DEBUG - Getting Boards
+06/06/2022, 14:44:31 - INFO - Req was made
+06/06/2022, 14:44:31 - DEBUG - Getting Boards
+06/06/2022, 14:50:13 - INFO - Req was made
+06/06/2022, 14:50:13 - INFO - Req was made
+06/06/2022, 14:50:13 - DEBUG - Getting Boards
+06/06/2022, 14:54:41 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 14:54:43 - INFO - New connected socket [id: ug0zHOi8OqzYQGrhAAAF]
+06/06/2022, 14:54:43 - INFO - Req was made
+06/06/2022, 14:54:43 - DEBUG - Getting Boards
+06/06/2022, 14:54:43 - INFO - Req was made
+06/06/2022, 14:54:43 - INFO - Req was made
+06/06/2022, 14:54:43 - DEBUG - Getting Boards
+06/06/2022, 14:54:44 - INFO - Req was made
+06/06/2022, 14:54:44 - DEBUG - Getting Boards
+06/06/2022, 15:02:54 - INFO - Req was made
+06/06/2022, 15:02:54 - DEBUG - Getting Boards
+06/06/2022, 15:02:54 - INFO - Req was made
+06/06/2022, 15:02:54 - INFO - Req was made
+06/06/2022, 15:02:54 - DEBUG - Getting Boards
+06/06/2022, 15:02:55 - INFO - Req was made
+06/06/2022, 15:02:55 - DEBUG - Getting Boards
+06/06/2022, 15:04:39 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 15:04:42 - INFO - Req was made
+06/06/2022, 15:04:42 - DEBUG - Getting Boards
+06/06/2022, 15:04:42 - INFO - New connected socket [id: nHXd60jfemiho-2VAAAH]
+06/06/2022, 15:04:43 - INFO - Req was made
+06/06/2022, 15:04:43 - INFO - Req was made
+06/06/2022, 15:04:43 - DEBUG - Getting Boards
+06/06/2022, 15:04:44 - INFO - Req was made
+06/06/2022, 15:04:44 - DEBUG - Getting Boards
+06/06/2022, 15:30:12 - INFO - Req was made
+06/06/2022, 15:30:12 - INFO - Req was made
+06/06/2022, 15:30:12 - DEBUG - Getting Boards
+06/06/2022, 15:31:13 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 15:31:16 - INFO - New connected socket [id: Gp0q9C3d2eY0kbo-AAAJ]
+06/06/2022, 15:31:17 - INFO - Req was made
+06/06/2022, 15:31:17 - DEBUG - Getting Boards
+06/06/2022, 15:31:17 - INFO - Req was made
+06/06/2022, 15:31:17 - INFO - Req was made
+06/06/2022, 15:31:17 - DEBUG - Getting Boards
+06/06/2022, 15:31:18 - INFO - Req was made
+06/06/2022, 15:31:18 - DEBUG - Getting Boards
+06/06/2022, 15:31:41 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 15:31:42 - INFO - New connected socket [id: p3te_CD86hoZZSvZAAAL]
+06/06/2022, 15:31:43 - INFO - Req was made
+06/06/2022, 15:31:43 - DEBUG - Getting Boards
+06/06/2022, 15:31:43 - INFO - Req was made
+06/06/2022, 15:31:43 - INFO - Req was made
+06/06/2022, 15:31:43 - DEBUG - Getting Boards
+06/06/2022, 15:31:44 - INFO - Req was made
+06/06/2022, 15:31:44 - DEBUG - Getting Boards
+06/06/2022, 15:37:41 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 15:37:43 - INFO - New connected socket [id: 9rwed_mDDfzF-giUAAAN]
+06/06/2022, 15:37:43 - INFO - Req was made
+06/06/2022, 15:37:43 - DEBUG - Getting Boards
+06/06/2022, 15:37:44 - INFO - Req was made
+06/06/2022, 15:37:44 - INFO - Req was made
+06/06/2022, 15:37:44 - DEBUG - Getting Boards
+06/06/2022, 15:37:45 - INFO - Req was made
+06/06/2022, 15:37:45 - DEBUG - Getting Boards
+06/06/2022, 15:54:14 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 15:54:17 - INFO - New connected socket [id: 8p3irh_o-RHSYTV2AAAP]
+06/06/2022, 15:54:18 - INFO - Req was made
+06/06/2022, 15:54:18 - DEBUG - Getting Boards
+06/06/2022, 15:54:18 - INFO - Req was made
+06/06/2022, 15:54:18 - INFO - Req was made
+06/06/2022, 15:54:18 - DEBUG - Getting Boards
+06/06/2022, 15:54:19 - INFO - Req was made
+06/06/2022, 15:54:19 - DEBUG - Getting Boards
+06/06/2022, 15:56:30 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 15:56:34 - INFO - New connected socket [id: H37wIzZ29od9-vSTAAAR]
+06/06/2022, 15:56:34 - INFO - Req was made
+06/06/2022, 15:56:34 - DEBUG - Getting Boards
+06/06/2022, 15:56:34 - INFO - Req was made
+06/06/2022, 15:56:34 - INFO - Req was made
+06/06/2022, 15:56:34 - DEBUG - Getting Boards
+06/06/2022, 15:56:36 - INFO - Req was made
+06/06/2022, 15:56:36 - DEBUG - Getting Boards
+06/06/2022, 15:58:16 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 15:58:19 - INFO - New connected socket [id: 6k7J1OJDq8TypzAWAAAT]
+06/06/2022, 15:58:19 - INFO - Req was made
+06/06/2022, 15:58:19 - DEBUG - Getting Boards
+06/06/2022, 15:58:20 - INFO - Req was made
+06/06/2022, 15:58:20 - INFO - Req was made
+06/06/2022, 15:58:20 - DEBUG - Getting Boards
+06/06/2022, 15:58:21 - INFO - Req was made
+06/06/2022, 15:58:21 - DEBUG - Getting Boards
+06/06/2022, 16:02:32 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:02:35 - INFO - New connected socket [id: vO6aGcXGGTEDrFcwAAAV]
+06/06/2022, 16:02:35 - INFO - Req was made
+06/06/2022, 16:02:35 - DEBUG - Getting Boards
+06/06/2022, 16:02:35 - INFO - Req was made
+06/06/2022, 16:02:35 - INFO - Req was made
+06/06/2022, 16:02:35 - DEBUG - Getting Boards
+06/06/2022, 16:02:36 - INFO - Req was made
+06/06/2022, 16:02:36 - DEBUG - Getting Boards
+06/06/2022, 16:05:47 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:05:50 - INFO - New connected socket [id: _VMiEyiMw4yl5Es_AAAX]
+06/06/2022, 16:05:50 - INFO - Req was made
+06/06/2022, 16:05:50 - DEBUG - Getting Boards
+06/06/2022, 16:05:50 - INFO - Req was made
+06/06/2022, 16:05:50 - INFO - Req was made
+06/06/2022, 16:05:50 - DEBUG - Getting Boards
+06/06/2022, 16:05:51 - INFO - Req was made
+06/06/2022, 16:05:51 - DEBUG - Getting Boards
+06/06/2022, 16:15:37 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:15:39 - INFO - New connected socket [id: Af0DGCjq_hJ7oDtFAAAZ]
+06/06/2022, 16:15:40 - INFO - Req was made
+06/06/2022, 16:15:40 - DEBUG - Getting Boards
+06/06/2022, 16:15:40 - INFO - Req was made
+06/06/2022, 16:15:40 - INFO - Req was made
+06/06/2022, 16:15:40 - DEBUG - Getting Boards
+06/06/2022, 16:15:41 - INFO - Req was made
+06/06/2022, 16:15:41 - DEBUG - Getting Boards
+06/06/2022, 16:29:24 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:29:30 - INFO - New connected socket [id: ImKV28ZHgrASZbUsAAAb]
+06/06/2022, 16:29:30 - INFO - Req was made
+06/06/2022, 16:29:30 - DEBUG - Getting Boards
+06/06/2022, 16:29:30 - INFO - Req was made
+06/06/2022, 16:29:31 - INFO - Req was made
+06/06/2022, 16:29:31 - DEBUG - Getting Boards
+06/06/2022, 16:29:32 - INFO - Req was made
+06/06/2022, 16:29:32 - DEBUG - Getting Boards
+06/06/2022, 16:30:24 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:30:30 - INFO - New connected socket [id: cfsAuCEYS4G8B1xbAAAd]
+06/06/2022, 16:30:30 - INFO - Req was made
+06/06/2022, 16:30:30 - DEBUG - Getting Boards
+06/06/2022, 16:30:30 - INFO - Req was made
+06/06/2022, 16:30:30 - INFO - Req was made
+06/06/2022, 16:30:30 - DEBUG - Getting Boards
+06/06/2022, 16:30:31 - INFO - Req was made
+06/06/2022, 16:30:31 - DEBUG - Getting Boards
+06/06/2022, 16:31:39 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:31:43 - INFO - New connected socket [id: ygfRhcdfK0lk28ZdAAAf]
+06/06/2022, 16:31:43 - INFO - Req was made
+06/06/2022, 16:31:43 - DEBUG - Getting Boards
+06/06/2022, 16:31:43 - INFO - Req was made
+06/06/2022, 16:31:43 - INFO - Req was made
+06/06/2022, 16:31:43 - DEBUG - Getting Boards
+06/06/2022, 16:31:44 - INFO - Req was made
+06/06/2022, 16:31:44 - DEBUG - Getting Boards
+06/06/2022, 16:32:17 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:32:19 - INFO - New connected socket [id: WghxAS_gM82lFHF_AAAh]
+06/06/2022, 16:32:20 - INFO - Req was made
+06/06/2022, 16:32:20 - DEBUG - Getting Boards
+06/06/2022, 16:32:20 - INFO - Req was made
+06/06/2022, 16:32:20 - INFO - Req was made
+06/06/2022, 16:32:20 - DEBUG - Getting Boards
+06/06/2022, 16:32:21 - INFO - Req was made
+06/06/2022, 16:32:21 - DEBUG - Getting Boards
+06/06/2022, 16:33:02 - INFO - Req was made
+06/06/2022, 16:33:02 - INFO - Req was made
+06/06/2022, 16:33:02 - DEBUG - Getting Boards
+06/06/2022, 16:33:08 - INFO - Req was made
+06/06/2022, 16:33:08 - INFO - Req was made
+06/06/2022, 16:33:08 - DEBUG - Getting Boards
+06/06/2022, 16:34:19 - INFO - Req was made
+06/06/2022, 16:34:19 - INFO - Req was made
+06/06/2022, 16:34:19 - DEBUG - Getting Boards
+06/06/2022, 16:51:21 - INFO - Req was made
+06/06/2022, 16:51:21 - DEBUG - Getting Boards
+06/06/2022, 16:51:21 - INFO - Req was made
+06/06/2022, 16:51:21 - INFO - Req was made
+06/06/2022, 16:51:21 - DEBUG - Getting Boards
+06/06/2022, 16:51:23 - INFO - Req was made
+06/06/2022, 16:51:23 - DEBUG - Getting Boards
+06/06/2022, 16:51:23 - INFO - Req was made
+06/06/2022, 16:51:24 - INFO - Req was made
+06/06/2022, 16:51:24 - DEBUG - Getting Boards
+06/06/2022, 16:54:05 - INFO - Req was made
+06/06/2022, 16:54:05 - INFO - Req was made
+06/06/2022, 16:54:05 - DEBUG - Getting Boards
+06/06/2022, 16:54:09 - INFO - Req was made
+06/06/2022, 16:54:10 - INFO - Req was made
+06/06/2022, 16:54:10 - DEBUG - Getting Boards
+06/06/2022, 16:54:12 - INFO - Req was made
+06/06/2022, 16:54:13 - INFO - Req was made
+06/06/2022, 16:54:13 - DEBUG - Getting Boards
+06/06/2022, 16:54:14 - INFO - Req was made
+06/06/2022, 16:54:14 - INFO - Req was made
+06/06/2022, 16:54:14 - DEBUG - Getting Boards
+06/06/2022, 16:54:15 - INFO - Req was made
+06/06/2022, 16:54:15 - INFO - Req was made
+06/06/2022, 16:54:15 - DEBUG - Getting Boards
+06/06/2022, 16:54:17 - INFO - Req was made
+06/06/2022, 16:54:17 - INFO - Req was made
+06/06/2022, 16:54:17 - DEBUG - Getting Boards
+06/06/2022, 16:54:19 - INFO - Req was made
+06/06/2022, 16:54:20 - INFO - Req was made
+06/06/2022, 16:54:20 - DEBUG - Getting Boards
+06/06/2022, 16:54:20 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 16:54:23 - INFO - New connected socket [id: xeWWiCBSlHhCAbJTAAAj]
+06/06/2022, 16:54:23 - INFO - Req was made
+06/06/2022, 16:54:23 - DEBUG - Getting Boards
+06/06/2022, 16:54:23 - INFO - Req was made
+06/06/2022, 16:54:23 - INFO - Req was made
+06/06/2022, 16:54:23 - DEBUG - Getting Boards
+06/06/2022, 16:54:24 - INFO - Req was made
+06/06/2022, 16:54:24 - DEBUG - Getting Boards
+06/06/2022, 17:06:56 - INFO - Req was made
+06/06/2022, 17:06:56 - INFO - Req was made
+06/06/2022, 17:06:56 - DEBUG - Getting Boards
+06/06/2022, 17:06:59 - INFO - Req was made
+06/06/2022, 17:06:59 - INFO - Req was made
+06/06/2022, 17:06:59 - DEBUG - Getting Boards
+06/06/2022, 17:06:59 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 17:07:01 - INFO - New connected socket [id: lu-XdTwHqZfjEgpyAAAl]
+06/06/2022, 17:07:01 - INFO - Req was made
+06/06/2022, 17:07:01 - DEBUG - Getting Boards
+06/06/2022, 17:07:01 - INFO - Req was made
+06/06/2022, 17:07:01 - INFO - Req was made
+06/06/2022, 17:07:01 - DEBUG - Getting Boards
+06/06/2022, 17:07:02 - INFO - Req was made
+06/06/2022, 17:07:02 - DEBUG - Getting Boards
+06/06/2022, 17:07:20 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 17:07:22 - INFO - New connected socket [id: vl8gb2vrt7tn8xCgAAAn]
+06/06/2022, 17:07:22 - INFO - Req was made
+06/06/2022, 17:07:22 - DEBUG - Getting Boards
+06/06/2022, 17:07:23 - INFO - Req was made
+06/06/2022, 17:07:23 - INFO - Req was made
+06/06/2022, 17:07:23 - DEBUG - Getting Boards
+06/06/2022, 17:07:24 - INFO - Req was made
+06/06/2022, 17:07:24 - DEBUG - Getting Boards
+06/06/2022, 17:07:29 - INFO - Req was made
+06/06/2022, 17:07:29 - DEBUG - Getting Boards
+06/06/2022, 17:07:29 - INFO - Req was made
+06/06/2022, 17:07:30 - INFO - Req was made
+06/06/2022, 17:07:30 - DEBUG - Getting Boards
+06/06/2022, 17:07:32 - INFO - Req was made
+06/06/2022, 17:07:32 - DEBUG - Getting Boards
+06/06/2022, 17:07:32 - INFO - Req was made
+06/06/2022, 17:07:32 - INFO - Req was made
+06/06/2022, 17:07:32 - DEBUG - Getting Boards
+06/06/2022, 17:07:38 - INFO - Req was made
+06/06/2022, 17:07:38 - INFO - Req was made
+06/06/2022, 17:07:38 - DEBUG - Getting Boards
+06/06/2022, 17:08:44 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 17:08:47 - INFO - New connected socket [id: bx1q2N-UOz9HIc2RAAAp]
+06/06/2022, 17:08:47 - INFO - Req was made
+06/06/2022, 17:08:47 - DEBUG - Getting Boards
+06/06/2022, 17:08:47 - INFO - Req was made
+06/06/2022, 17:08:47 - INFO - Req was made
+06/06/2022, 17:08:47 - DEBUG - Getting Boards
+06/06/2022, 17:08:48 - INFO - Req was made
+06/06/2022, 17:08:48 - DEBUG - Getting Boards
+06/06/2022, 17:08:52 - INFO - Req was made
+06/06/2022, 17:08:52 - INFO - Req was made
+06/06/2022, 17:08:52 - DEBUG - Getting Boards
+06/06/2022, 17:08:55 - INFO - Req was made
+06/06/2022, 17:08:55 - INFO - Req was made
+06/06/2022, 17:08:55 - DEBUG - Getting Boards
+06/06/2022, 17:08:57 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 17:08:59 - INFO - New connected socket [id: cnpzS9HEl3HkL377AAAr]
+06/06/2022, 17:08:59 - INFO - Req was made
+06/06/2022, 17:08:59 - DEBUG - Getting Boards
+06/06/2022, 17:09:00 - INFO - Req was made
+06/06/2022, 17:09:00 - INFO - Req was made
+06/06/2022, 17:09:00 - DEBUG - Getting Boards
+06/06/2022, 17:09:01 - INFO - Req was made
+06/06/2022, 17:09:01 - DEBUG - Getting Boards
+06/06/2022, 17:11:10 - INFO - Req was made
+06/06/2022, 17:11:10 - INFO - Req was made
+06/06/2022, 17:11:10 - DEBUG - Getting Boards
+06/06/2022, 17:11:12 - INFO - Req was made
+06/06/2022, 17:11:13 - INFO - Req was made
+06/06/2022, 17:11:13 - DEBUG - Getting Boards
+06/06/2022, 17:11:15 - INFO - Req was made
+06/06/2022, 17:11:15 - DEBUG - Getting Boards
+06/06/2022, 17:11:15 - INFO - Req was made
+06/06/2022, 17:11:16 - INFO - Req was made
+06/06/2022, 17:11:16 - DEBUG - Getting Boards
+06/06/2022, 17:11:21 - INFO - Req was made
+06/06/2022, 17:11:21 - INFO - Req was made
+06/06/2022, 17:11:21 - DEBUG - Getting Boards
+06/06/2022, 17:11:27 - INFO - Req was made
+06/06/2022, 17:11:27 - INFO - Req was made
+06/06/2022, 17:11:27 - DEBUG - Getting Boards
+06/06/2022, 17:11:32 - INFO - Req was made
+06/06/2022, 17:11:32 - INFO - Req was made
+06/06/2022, 17:11:32 - DEBUG - Getting Boards
+06/06/2022, 17:33:36 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 17:33:39 - INFO - New connected socket [id: Bs5NPU0AMJIiKOFoAAAt]
+06/06/2022, 17:33:39 - INFO - Req was made
+06/06/2022, 17:33:39 - DEBUG - Getting Boards
+06/06/2022, 17:33:39 - INFO - Req was made
+06/06/2022, 17:33:40 - INFO - Req was made
+06/06/2022, 17:33:40 - DEBUG - Getting Boards
+06/06/2022, 17:33:40 - INFO - Req was made
+06/06/2022, 17:33:40 - DEBUG - Getting Boards
+06/06/2022, 17:34:11 - INFO - Req was made
+06/06/2022, 17:34:11 - DEBUG - Getting Boards
+06/06/2022, 17:34:11 - INFO - Req was made
+06/06/2022, 17:34:11 - INFO - Req was made
+06/06/2022, 17:34:11 - DEBUG - Getting Boards
+06/06/2022, 17:34:12 - INFO - Req was made
+06/06/2022, 17:34:12 - DEBUG - Getting Boards
+06/06/2022, 17:35:58 - INFO - Req was made
+06/06/2022, 17:35:58 - DEBUG - Getting Boards
+06/06/2022, 17:35:58 - INFO - Req was made
+06/06/2022, 17:35:59 - INFO - Req was made
+06/06/2022, 17:35:59 - DEBUG - Getting Boards
+06/06/2022, 17:35:59 - INFO - Req was made
+06/06/2022, 17:35:59 - DEBUG - Getting Boards
+06/06/2022, 17:38:01 - INFO - Req was made
+06/06/2022, 17:38:01 - DEBUG - Getting Boards
+06/06/2022, 17:38:01 - INFO - Req was made
+06/06/2022, 17:38:01 - INFO - Req was made
+06/06/2022, 17:38:01 - DEBUG - Getting Boards
+06/06/2022, 17:38:02 - INFO - Req was made
+06/06/2022, 17:38:02 - DEBUG - Getting Boards
+06/06/2022, 17:52:18 - INFO - Req was made
+06/06/2022, 17:52:18 - DEBUG - Getting Boards
+06/06/2022, 17:52:18 - INFO - Req was made
+06/06/2022, 17:52:18 - INFO - Req was made
+06/06/2022, 17:52:18 - DEBUG - Getting Boards
+06/06/2022, 17:52:18 - INFO - Req was made
+06/06/2022, 17:52:18 - DEBUG - Getting Boards
+06/06/2022, 17:58:38 - INFO - Req was made
+06/06/2022, 17:58:38 - INFO - Req was made
+06/06/2022, 17:58:38 - DEBUG - Getting Boards
+06/06/2022, 18:08:24 - INFO - Req was made
+06/06/2022, 18:08:24 - DEBUG - Getting Boards
+06/06/2022, 18:08:24 - INFO - Req was made
+06/06/2022, 18:08:25 - INFO - Req was made
+06/06/2022, 18:08:25 - DEBUG - Getting Boards
+06/06/2022, 18:08:26 - INFO - Req was made
+06/06/2022, 18:08:26 - DEBUG - Getting Boards
+06/06/2022, 18:10:55 - INFO - Req was made
+06/06/2022, 18:10:55 - DEBUG - Getting Boards
+06/06/2022, 18:10:55 - INFO - Req was made
+06/06/2022, 18:10:55 - INFO - Req was made
+06/06/2022, 18:10:55 - DEBUG - Getting Boards
+06/06/2022, 18:10:55 - INFO - Req was made
+06/06/2022, 18:10:55 - DEBUG - Getting Boards
+06/06/2022, 18:15:48 - INFO - Req was made
+06/06/2022, 18:15:48 - DEBUG - Getting Boards
+06/06/2022, 18:15:48 - INFO - Req was made
+06/06/2022, 18:15:48 - INFO - Req was made
+06/06/2022, 18:15:48 - DEBUG - Getting Boards
+06/06/2022, 18:15:49 - INFO - Req was made
+06/06/2022, 18:15:49 - DEBUG - Getting Boards
+06/06/2022, 18:16:12 - INFO - Req was made
+06/06/2022, 18:16:12 - DEBUG - Getting Boards
+06/06/2022, 18:16:13 - INFO - Req was made
+06/06/2022, 18:16:13 - INFO - Req was made
+06/06/2022, 18:16:13 - DEBUG - Getting Boards
+06/06/2022, 18:16:13 - INFO - Req was made
+06/06/2022, 18:16:13 - DEBUG - Getting Boards
+06/06/2022, 18:16:41 - INFO - Req was made
+06/06/2022, 18:16:41 - DEBUG - Getting Boards
+06/06/2022, 18:16:42 - INFO - Req was made
+06/06/2022, 18:16:42 - DEBUG - Getting Boards
+06/06/2022, 18:16:42 - INFO - Req was made
+06/06/2022, 18:16:42 - INFO - Req was made
+06/06/2022, 18:16:42 - DEBUG - Getting Boards
+06/06/2022, 18:18:33 - INFO - Req was made
+06/06/2022, 18:18:33 - DEBUG - Getting Boards
+06/06/2022, 18:18:33 - INFO - Req was made
+06/06/2022, 18:18:33 - INFO - Req was made
+06/06/2022, 18:18:33 - DEBUG - Getting Boards
+06/06/2022, 18:18:34 - INFO - Req was made
+06/06/2022, 18:18:34 - DEBUG - Getting Boards
+06/06/2022, 18:22:30 - INFO - Req was made
+06/06/2022, 18:22:30 - DEBUG - Getting Boards
+06/06/2022, 18:22:31 - INFO - Req was made
+06/06/2022, 18:22:31 - INFO - Req was made
+06/06/2022, 18:22:31 - DEBUG - Getting Boards
+06/06/2022, 18:22:31 - INFO - Req was made
+06/06/2022, 18:22:31 - DEBUG - Getting Boards
+06/06/2022, 18:26:31 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 18:26:36 - INFO - New connected socket [id: _2iZNFuXRXztzyqhAAAv]
+06/06/2022, 18:26:36 - INFO - Req was made
+06/06/2022, 18:26:36 - DEBUG - Getting Boards
+06/06/2022, 18:26:37 - INFO - Req was made
+06/06/2022, 18:26:37 - INFO - Req was made
+06/06/2022, 18:26:37 - DEBUG - Getting Boards
+06/06/2022, 18:26:38 - INFO - Req was made
+06/06/2022, 18:26:38 - DEBUG - Getting Boards
+06/06/2022, 18:27:34 - INFO - Req was made
+06/06/2022, 18:27:34 - DEBUG - Getting Boards
+06/06/2022, 18:27:34 - INFO - Req was made
+06/06/2022, 18:27:35 - INFO - Req was made
+06/06/2022, 18:27:35 - DEBUG - Getting Boards
+06/06/2022, 18:27:35 - INFO - Req was made
+06/06/2022, 18:27:35 - DEBUG - Getting Boards
+06/06/2022, 18:34:12 - INFO - Req was made
+06/06/2022, 18:34:12 - DEBUG - Getting Boards
+06/06/2022, 18:34:13 - INFO - Req was made
+06/06/2022, 18:34:13 - INFO - Req was made
+06/06/2022, 18:34:13 - DEBUG - Getting Boards
+06/06/2022, 18:34:13 - INFO - Req was made
+06/06/2022, 18:34:13 - DEBUG - Getting Boards
+06/06/2022, 18:35:20 - INFO - Req was made
+06/06/2022, 18:35:20 - DEBUG - Getting Boards
+06/06/2022, 18:35:20 - INFO - Req was made
+06/06/2022, 18:35:20 - INFO - Req was made
+06/06/2022, 18:35:20 - DEBUG - Getting Boards
+06/06/2022, 18:35:21 - INFO - Req was made
+06/06/2022, 18:35:21 - DEBUG - Getting Boards
+06/06/2022, 18:39:04 - INFO - Req was made
+06/06/2022, 18:39:04 - DEBUG - Getting Boards
+06/06/2022, 18:39:04 - INFO - Req was made
+06/06/2022, 18:39:04 - INFO - Req was made
+06/06/2022, 18:39:04 - DEBUG - Getting Boards
+06/06/2022, 18:39:05 - INFO - Req was made
+06/06/2022, 18:39:05 - DEBUG - Getting Boards
+06/06/2022, 18:40:52 - INFO - Req was made
+06/06/2022, 18:40:52 - DEBUG - Getting Boards
+06/06/2022, 18:40:52 - INFO - Req was made
+06/06/2022, 18:40:52 - INFO - Req was made
+06/06/2022, 18:40:52 - DEBUG - Getting Boards
+06/06/2022, 18:40:53 - INFO - Req was made
+06/06/2022, 18:40:53 - DEBUG - Getting Boards
+06/06/2022, 18:44:42 - INFO - Req was made
+06/06/2022, 18:44:42 - DEBUG - Getting Boards
+06/06/2022, 18:44:42 - INFO - Req was made
+06/06/2022, 18:44:42 - INFO - Req was made
+06/06/2022, 18:44:42 - DEBUG - Getting Boards
+06/06/2022, 18:44:43 - INFO - Req was made
+06/06/2022, 18:44:43 - DEBUG - Getting Boards
+06/06/2022, 18:49:13 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 18:49:16 - INFO - New connected socket [id: wiEPe5gpyFGXJy_MAAAx]
+06/06/2022, 18:49:16 - INFO - Req was made
+06/06/2022, 18:49:16 - DEBUG - Getting Boards
+06/06/2022, 18:49:17 - INFO - Req was made
+06/06/2022, 18:49:17 - INFO - Req was made
+06/06/2022, 18:49:17 - DEBUG - Getting Boards
+06/06/2022, 18:49:17 - INFO - Req was made
+06/06/2022, 18:49:17 - DEBUG - Getting Boards
+06/06/2022, 19:07:30 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 19:07:32 - INFO - New connected socket [id: DE7Wr8Yhz3kdWQfsAAAz]
+06/06/2022, 19:07:32 - INFO - Req was made
+06/06/2022, 19:07:32 - DEBUG - Getting Boards
+06/06/2022, 19:07:33 - INFO - Req was made
+06/06/2022, 19:07:33 - INFO - Req was made
+06/06/2022, 19:07:33 - DEBUG - Getting Boards
+06/06/2022, 19:07:34 - INFO - Req was made
+06/06/2022, 19:07:34 - DEBUG - Getting Boards
+06/06/2022, 19:14:20 - INFO - Req was made
+06/06/2022, 19:14:20 - DEBUG - Getting Boards
+06/06/2022, 19:14:20 - INFO - Req was made
+06/06/2022, 19:14:20 - INFO - Req was made
+06/06/2022, 19:14:20 - DEBUG - Getting Boards
+06/06/2022, 19:14:20 - INFO - Req was made
+06/06/2022, 19:14:20 - DEBUG - Getting Boards
+06/06/2022, 19:15:59 - INFO - Req was made
+06/06/2022, 19:15:59 - DEBUG - Getting Boards
+06/06/2022, 19:15:59 - INFO - Req was made
+06/06/2022, 19:16:00 - INFO - Req was made
+06/06/2022, 19:16:00 - DEBUG - Getting Boards
+06/06/2022, 19:16:01 - INFO - Req was made
+06/06/2022, 19:16:01 - DEBUG - Getting Boards
+06/06/2022, 19:17:16 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 19:17:18 - INFO - New connected socket [id: 52tY3DAhMSQ7FK1dAAA1]
+06/06/2022, 19:17:18 - INFO - Req was made
+06/06/2022, 19:17:18 - DEBUG - Getting Boards
+06/06/2022, 19:17:18 - INFO - Req was made
+06/06/2022, 19:17:18 - INFO - Req was made
+06/06/2022, 19:17:18 - DEBUG - Getting Boards
+06/06/2022, 19:17:19 - INFO - Req was made
+06/06/2022, 19:17:19 - DEBUG - Getting Boards
+06/06/2022, 19:18:16 - INFO - Req was made
+06/06/2022, 19:18:16 - INFO - Req was made
+06/06/2022, 19:18:16 - DEBUG - Getting Boards
+06/06/2022, 19:18:19 - INFO - Req was made
+06/06/2022, 19:18:19 - INFO - Req was made
+06/06/2022, 19:18:19 - DEBUG - Getting Boards
+06/06/2022, 19:18:19 - INFO - Req was made
+06/06/2022, 19:18:19 - DEBUG - Getting Boards
+06/06/2022, 19:18:23 - INFO - Req was made
+06/06/2022, 19:18:23 - INFO - Req was made
+06/06/2022, 19:18:23 - DEBUG - Getting Boards
+06/06/2022, 19:18:23 - INFO - Req was made
+06/06/2022, 19:18:23 - INFO - Req was made
+06/06/2022, 19:18:23 - DEBUG - Getting Boards
+06/06/2022, 19:18:23 - INFO - Req was made
+06/06/2022, 19:18:23 - DEBUG - Getting Boards
+06/06/2022, 19:45:48 - INFO - Socket is leaving topic 629d297281fdda521842f91c [id: 52tY3DAhMSQ7FK1dAAA1]
+06/06/2022, 19:45:48 - INFO - Req was made
+06/06/2022, 19:45:48 - DEBUG - Getting Boards
+06/06/2022, 19:45:48 - INFO - Req was made
+06/06/2022, 19:45:48 - INFO - Req was made
+06/06/2022, 19:45:48 - DEBUG - Getting Boards
+06/06/2022, 19:45:49 - INFO - Req was made
+06/06/2022, 19:45:49 - DEBUG - Getting Boards
+06/06/2022, 19:50:54 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 19:51:00 - INFO - New connected socket [id: NQ6TBAZiqN4ANKWjAAA3]
+06/06/2022, 19:51:00 - INFO - Req was made
+06/06/2022, 19:51:00 - DEBUG - Getting Boards
+06/06/2022, 19:51:00 - INFO - Req was made
+06/06/2022, 19:51:00 - INFO - Req was made
+06/06/2022, 19:51:00 - DEBUG - Getting Boards
+06/06/2022, 19:51:01 - INFO - Req was made
+06/06/2022, 19:51:01 - DEBUG - Getting Boards
+06/06/2022, 19:54:20 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 19:54:24 - INFO - New connected socket [id: hzNv8EncfaHJyAYqAAA5]
+06/06/2022, 19:54:24 - INFO - Req was made
+06/06/2022, 19:54:24 - DEBUG - Getting Boards
+06/06/2022, 19:54:24 - INFO - Req was made
+06/06/2022, 19:54:24 - INFO - Req was made
+06/06/2022, 19:54:24 - DEBUG - Getting Boards
+06/06/2022, 19:54:25 - INFO - Req was made
+06/06/2022, 19:54:25 - DEBUG - Getting Boards
+06/06/2022, 19:58:16 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 19:58:20 - INFO - New connected socket [id: qu46WOAhoDI01kU9AAA7]
+06/06/2022, 19:58:20 - INFO - Req was made
+06/06/2022, 19:58:20 - DEBUG - Getting Boards
+06/06/2022, 19:58:20 - INFO - Req was made
+06/06/2022, 19:58:20 - INFO - Req was made
+06/06/2022, 19:58:20 - DEBUG - Getting Boards
+06/06/2022, 19:58:21 - INFO - Req was made
+06/06/2022, 19:58:21 - DEBUG - Getting Boards
+06/06/2022, 20:41:18 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 20:41:22 - INFO - New connected socket [id: cXgGpfwYUvuOYwMMAAA9]
+06/06/2022, 20:41:22 - INFO - Req was made
+06/06/2022, 20:41:22 - DEBUG - Getting Boards
+06/06/2022, 20:41:22 - INFO - Req was made
+06/06/2022, 20:41:22 - INFO - Req was made
+06/06/2022, 20:41:22 - DEBUG - Getting Boards
+06/06/2022, 20:41:23 - INFO - Req was made
+06/06/2022, 20:41:23 - DEBUG - Getting Boards
+06/06/2022, 20:41:25 - INFO - Req was made
+06/06/2022, 20:41:25 - INFO - Req was made
+06/06/2022, 20:41:25 - DEBUG - Getting Boards
+06/06/2022, 20:41:26 - INFO - Req was made
+06/06/2022, 20:41:26 - INFO - Req was made
+06/06/2022, 20:41:26 - DEBUG - Getting Boards
+06/06/2022, 20:41:27 - INFO - Req was made
+06/06/2022, 20:41:27 - INFO - Req was made
+06/06/2022, 20:41:27 - DEBUG - Getting Boards
+06/06/2022, 20:42:20 - INFO - Req was made
+06/06/2022, 20:42:20 - DEBUG - Getting Boards
+06/06/2022, 20:42:20 - INFO - Req was made
+06/06/2022, 20:42:20 - INFO - Req was made
+06/06/2022, 20:42:20 - DEBUG - Getting Boards
+06/06/2022, 20:42:21 - INFO - Req was made
+06/06/2022, 20:42:21 - DEBUG - Getting Boards
+06/06/2022, 20:43:07 - INFO - Req was made
+06/06/2022, 20:43:07 - DEBUG - Getting Boards
+06/06/2022, 20:43:07 - INFO - Req was made
+06/06/2022, 20:43:08 - INFO - Req was made
+06/06/2022, 20:43:08 - DEBUG - Getting Boards
+06/06/2022, 20:43:08 - INFO - Req was made
+06/06/2022, 20:43:08 - DEBUG - Getting Boards
+06/06/2022, 20:43:41 - INFO - Req was made
+06/06/2022, 20:43:41 - DEBUG - Getting Boards
+06/06/2022, 20:43:42 - INFO - Req was made
+06/06/2022, 20:43:42 - INFO - Req was made
+06/06/2022, 20:43:42 - DEBUG - Getting Boards
+06/06/2022, 20:43:42 - INFO - Req was made
+06/06/2022, 20:43:42 - DEBUG - Getting Boards
+06/06/2022, 21:01:21 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 21:01:26 - INFO - New connected socket [id: JZ1Kr_wup9LQsQ9NAAA_]
+06/06/2022, 21:01:26 - INFO - Req was made
+06/06/2022, 21:01:26 - DEBUG - Getting Boards
+06/06/2022, 21:01:26 - INFO - Req was made
+06/06/2022, 21:01:27 - INFO - Req was made
+06/06/2022, 21:01:27 - DEBUG - Getting Boards
+06/06/2022, 21:01:28 - INFO - Req was made
+06/06/2022, 21:01:28 - DEBUG - Getting Boards
+06/06/2022, 21:08:25 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 21:08:32 - INFO - New connected socket [id: 44J3JpS15jzA87fzAABB]
+06/06/2022, 21:08:33 - INFO - Req was made
+06/06/2022, 21:08:33 - DEBUG - Getting Boards
+06/06/2022, 21:08:33 - INFO - Req was made
+06/06/2022, 21:08:33 - INFO - Req was made
+06/06/2022, 21:08:33 - DEBUG - Getting Boards
+06/06/2022, 21:08:33 - INFO - Req was made
+06/06/2022, 21:08:33 - DEBUG - Getting Boards
+06/06/2022, 21:36:25 - INFO - Req was made
+06/06/2022, 21:36:25 - DEBUG - Getting Boards
+06/06/2022, 21:36:25 - INFO - Req was made
+06/06/2022, 21:36:26 - INFO - Req was made
+06/06/2022, 21:36:26 - DEBUG - Getting Boards
+06/06/2022, 21:36:26 - INFO - Req was made
+06/06/2022, 21:36:26 - DEBUG - Getting Boards
+06/06/2022, 21:36:42 - INFO - Req was made
+06/06/2022, 21:36:42 - INFO - Req was made
+06/06/2022, 21:36:42 - DEBUG - Getting Boards
+06/06/2022, 21:36:49 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 21:36:52 - INFO - New connected socket [id: l5q1KNbdoyzVvxFOAABD]
+06/06/2022, 21:36:52 - INFO - Req was made
+06/06/2022, 21:36:52 - DEBUG - Getting Boards
+06/06/2022, 21:36:52 - INFO - Req was made
+06/06/2022, 21:36:52 - INFO - Req was made
+06/06/2022, 21:36:52 - DEBUG - Getting Boards
+06/06/2022, 21:36:53 - INFO - Req was made
+06/06/2022, 21:36:53 - DEBUG - Getting Boards
+06/06/2022, 21:38:02 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 21:38:05 - INFO - New connected socket [id: zK0oE3giQAdaTeOgAABF]
+06/06/2022, 21:38:05 - INFO - Req was made
+06/06/2022, 21:38:05 - DEBUG - Getting Boards
+06/06/2022, 21:38:05 - INFO - Req was made
+06/06/2022, 21:38:05 - INFO - Req was made
+06/06/2022, 21:38:05 - DEBUG - Getting Boards
+06/06/2022, 21:38:06 - INFO - Req was made
+06/06/2022, 21:38:06 - DEBUG - Getting Boards
+06/06/2022, 21:38:11 - INFO - Req was made
+06/06/2022, 21:38:11 - INFO - Req was made
+06/06/2022, 21:38:11 - DEBUG - Getting Boards
+06/06/2022, 21:38:16 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 21:38:18 - INFO - New connected socket [id: DdjNy4xzali2z267AABH]
+06/06/2022, 21:38:18 - INFO - Req was made
+06/06/2022, 21:38:18 - DEBUG - Getting Boards
+06/06/2022, 21:38:18 - INFO - Req was made
+06/06/2022, 21:38:19 - INFO - Req was made
+06/06/2022, 21:38:19 - DEBUG - Getting Boards
+06/06/2022, 21:38:19 - INFO - Req was made
+06/06/2022, 21:38:19 - DEBUG - Getting Boards
+06/06/2022, 21:38:59 - INFO - Req was made
+06/06/2022, 21:38:59 - INFO - Req was made
+06/06/2022, 21:38:59 - DEBUG - Getting Boards
+06/06/2022, 21:41:05 - INFO - Req was made
+06/06/2022, 21:41:05 - INFO - Req was made
+06/06/2022, 21:41:05 - DEBUG - Getting Boards
+06/06/2022, 21:42:25 - INFO - Req was made
+06/06/2022, 21:42:25 - INFO - Req was made
+06/06/2022, 21:42:25 - DEBUG - Getting Boards
+06/06/2022, 21:42:29 - INFO - Req was made
+06/06/2022, 21:42:29 - INFO - Req was made
+06/06/2022, 21:42:29 - DEBUG - Getting Boards
+06/06/2022, 21:42:36 - INFO - Req was made
+06/06/2022, 21:42:36 - INFO - Req was made
+06/06/2022, 21:42:36 - DEBUG - Getting Boards
+06/06/2022, 21:50:18 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 21:50:21 - INFO - New connected socket [id: OCxz_Fh-YKIgw4mQAABJ]
+06/06/2022, 21:50:21 - INFO - Req was made
+06/06/2022, 21:50:21 - DEBUG - Getting Boards
+06/06/2022, 21:50:22 - INFO - Req was made
+06/06/2022, 21:50:22 - INFO - Req was made
+06/06/2022, 21:50:22 - DEBUG - Getting Boards
+06/06/2022, 21:50:22 - INFO - Req was made
+06/06/2022, 21:50:22 - DEBUG - Getting Boards
+06/06/2022, 21:52:01 - INFO - Req was made
+06/06/2022, 21:52:01 - DEBUG - Getting Boards
+06/06/2022, 21:52:01 - INFO - Req was made
+06/06/2022, 21:52:02 - INFO - Req was made
+06/06/2022, 21:52:02 - DEBUG - Getting Boards
+06/06/2022, 21:52:03 - INFO - Req was made
+06/06/2022, 21:52:03 - DEBUG - Getting Boards
+06/06/2022, 22:01:02 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:01:08 - INFO - New connected socket [id: uaAtMw3cDTiQUo28AABL]
+06/06/2022, 22:01:08 - INFO - Req was made
+06/06/2022, 22:01:08 - DEBUG - Getting Boards
+06/06/2022, 22:01:08 - INFO - Req was made
+06/06/2022, 22:01:08 - INFO - Req was made
+06/06/2022, 22:01:08 - DEBUG - Getting Boards
+06/06/2022, 22:01:09 - INFO - Req was made
+06/06/2022, 22:01:09 - DEBUG - Getting Boards
+06/06/2022, 22:01:14 - INFO - Req was made
+06/06/2022, 22:01:14 - INFO - Req was made
+06/06/2022, 22:01:14 - DEBUG - Getting Boards
+06/06/2022, 22:01:33 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:01:41 - INFO - New connected socket [id: TZH_V6uacMT9Sdj2AABN]
+06/06/2022, 22:01:41 - INFO - Req was made
+06/06/2022, 22:01:41 - DEBUG - Getting Boards
+06/06/2022, 22:01:42 - INFO - Req was made
+06/06/2022, 22:01:42 - INFO - Req was made
+06/06/2022, 22:01:42 - DEBUG - Getting Boards
+06/06/2022, 22:01:42 - INFO - Req was made
+06/06/2022, 22:01:42 - DEBUG - Getting Boards
+06/06/2022, 22:17:52 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:17:55 - INFO - New connected socket [id: BbB-bZ2g9_smP53sAABP]
+06/06/2022, 22:17:55 - INFO - Req was made
+06/06/2022, 22:17:55 - DEBUG - Getting Boards
+06/06/2022, 22:17:55 - INFO - Req was made
+06/06/2022, 22:17:56 - INFO - Req was made
+06/06/2022, 22:17:56 - DEBUG - Getting Boards
+06/06/2022, 22:17:56 - INFO - Req was made
+06/06/2022, 22:17:56 - DEBUG - Getting Boards
+06/06/2022, 22:47:51 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:47:54 - INFO - New connected socket [id: KX5OANQehEQObUzsAABR]
+06/06/2022, 22:47:55 - INFO - Req was made
+06/06/2022, 22:47:55 - DEBUG - Getting Boards
+06/06/2022, 22:47:55 - INFO - Req was made
+06/06/2022, 22:47:55 - INFO - Req was made
+06/06/2022, 22:47:55 - DEBUG - Getting Boards
+06/06/2022, 22:47:56 - INFO - Req was made
+06/06/2022, 22:47:56 - DEBUG - Getting Boards
+06/06/2022, 22:48:00 - INFO - Req was made
+06/06/2022, 22:48:00 - INFO - Req was made
+06/06/2022, 22:48:00 - DEBUG - Getting Boards
+06/06/2022, 22:48:30 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:48:33 - INFO - New connected socket [id: apfDNq2aJxti2RThAABT]
+06/06/2022, 22:48:33 - INFO - Req was made
+06/06/2022, 22:48:33 - DEBUG - Getting Boards
+06/06/2022, 22:48:33 - INFO - Req was made
+06/06/2022, 22:48:34 - INFO - Req was made
+06/06/2022, 22:48:34 - DEBUG - Getting Boards
+06/06/2022, 22:48:34 - INFO - Req was made
+06/06/2022, 22:48:34 - DEBUG - Getting Boards
+06/06/2022, 22:48:37 - INFO - Req was made
+06/06/2022, 22:48:37 - INFO - Req was made
+06/06/2022, 22:48:37 - DEBUG - Getting Boards
+06/06/2022, 22:48:41 - INFO - Req was made
+06/06/2022, 22:48:41 - INFO - Req was made
+06/06/2022, 22:48:41 - DEBUG - Getting Boards
+06/06/2022, 22:48:43 - INFO - Req was made
+06/06/2022, 22:48:43 - INFO - Req was made
+06/06/2022, 22:48:43 - DEBUG - Getting Boards
+06/06/2022, 22:48:56 - INFO - Req was made
+06/06/2022, 22:48:56 - INFO - Req was made
+06/06/2022, 22:48:56 - DEBUG - Getting Boards
+06/06/2022, 22:48:56 - INFO - Req was made
+06/06/2022, 22:48:56 - INFO - Req was made
+06/06/2022, 22:48:56 - DEBUG - Getting Boards
+06/06/2022, 22:48:57 - INFO - Req was made
+06/06/2022, 22:48:57 - DEBUG - Getting Boards
+06/06/2022, 22:49:01 - INFO - Req was made
+06/06/2022, 22:49:01 - INFO - Req was made
+06/06/2022, 22:49:01 - DEBUG - Getting Boards
+06/06/2022, 22:49:02 - INFO - Req was made
+06/06/2022, 22:49:02 - INFO - Req was made
+06/06/2022, 22:49:02 - DEBUG - Getting Boards
+06/06/2022, 22:49:03 - INFO - Req was made
+06/06/2022, 22:49:03 - INFO - Req was made
+06/06/2022, 22:49:03 - DEBUG - Getting Boards
+06/06/2022, 22:49:06 - INFO - Req was made
+06/06/2022, 22:49:06 - INFO - Req was made
+06/06/2022, 22:49:06 - DEBUG - Getting Boards
+06/06/2022, 22:57:55 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:57:57 - INFO - New connected socket [id: xm6TwljDSxViRSySAABV]
+06/06/2022, 22:57:58 - INFO - Req was made
+06/06/2022, 22:57:58 - DEBUG - Getting Boards
+06/06/2022, 22:57:58 - INFO - Req was made
+06/06/2022, 22:57:58 - INFO - Req was made
+06/06/2022, 22:57:58 - DEBUG - Getting Boards
+06/06/2022, 22:57:58 - INFO - Req was made
+06/06/2022, 22:57:58 - DEBUG - Getting Boards
+06/06/2022, 22:58:17 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:58:20 - INFO - New connected socket [id: MB5YFAYkrn_-o4gqAABX]
+06/06/2022, 22:58:20 - INFO - Req was made
+06/06/2022, 22:58:20 - DEBUG - Getting Boards
+06/06/2022, 22:58:20 - INFO - Req was made
+06/06/2022, 22:58:20 - INFO - Req was made
+06/06/2022, 22:58:20 - DEBUG - Getting Boards
+06/06/2022, 22:58:21 - INFO - Req was made
+06/06/2022, 22:58:21 - DEBUG - Getting Boards
+06/06/2022, 22:59:15 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 22:59:18 - INFO - New connected socket [id: pNDSNagY8v78nJ5zAABZ]
+06/06/2022, 22:59:18 - INFO - Req was made
+06/06/2022, 22:59:18 - DEBUG - Getting Boards
+06/06/2022, 22:59:18 - INFO - Req was made
+06/06/2022, 22:59:18 - INFO - Req was made
+06/06/2022, 22:59:18 - DEBUG - Getting Boards
+06/06/2022, 22:59:19 - INFO - Req was made
+06/06/2022, 22:59:19 - DEBUG - Getting Boards
+06/06/2022, 23:00:12 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:00:15 - INFO - New connected socket [id: 8vtdVli0zWQKV_A6AABb]
+06/06/2022, 23:00:16 - INFO - Req was made
+06/06/2022, 23:00:16 - DEBUG - Getting Boards
+06/06/2022, 23:00:16 - INFO - Req was made
+06/06/2022, 23:00:16 - INFO - Req was made
+06/06/2022, 23:00:16 - DEBUG - Getting Boards
+06/06/2022, 23:00:17 - INFO - Req was made
+06/06/2022, 23:00:17 - DEBUG - Getting Boards
+06/06/2022, 23:00:26 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:00:28 - INFO - New connected socket [id: 6maDTuT1c-KOfWRqAABd]
+06/06/2022, 23:00:29 - INFO - Req was made
+06/06/2022, 23:00:29 - DEBUG - Getting Boards
+06/06/2022, 23:00:29 - INFO - Req was made
+06/06/2022, 23:00:29 - INFO - Req was made
+06/06/2022, 23:00:29 - DEBUG - Getting Boards
+06/06/2022, 23:00:30 - INFO - Req was made
+06/06/2022, 23:00:30 - DEBUG - Getting Boards
+06/06/2022, 23:09:40 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:09:43 - INFO - New connected socket [id: x9gL1zvtwtw_F9pPAABf]
+06/06/2022, 23:09:44 - INFO - Req was made
+06/06/2022, 23:09:44 - DEBUG - Getting Boards
+06/06/2022, 23:09:44 - INFO - Req was made
+06/06/2022, 23:09:44 - INFO - Req was made
+06/06/2022, 23:09:44 - DEBUG - Getting Boards
+06/06/2022, 23:09:44 - INFO - Req was made
+06/06/2022, 23:09:44 - DEBUG - Getting Boards
+06/06/2022, 23:19:41 - INFO - Req was made
+06/06/2022, 23:19:41 - INFO - Req was made
+06/06/2022, 23:19:41 - DEBUG - Getting Boards
+06/06/2022, 23:19:48 - INFO - Req was made
+06/06/2022, 23:19:48 - INFO - Req was made
+06/06/2022, 23:19:48 - DEBUG - Getting Boards
+06/06/2022, 23:20:33 - INFO - Req was made
+06/06/2022, 23:20:33 - INFO - Req was made
+06/06/2022, 23:20:33 - DEBUG - Getting Boards
+06/06/2022, 23:20:40 - INFO - Req was made
+06/06/2022, 23:20:40 - INFO - Req was made
+06/06/2022, 23:20:40 - DEBUG - Getting Boards
+06/06/2022, 23:21:15 - INFO - Req was made
+06/06/2022, 23:21:15 - INFO - Req was made
+06/06/2022, 23:21:15 - DEBUG - Getting Boards
+06/06/2022, 23:21:56 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:21:58 - INFO - New connected socket [id: GOpy93-LyXxv3jV4AABh]
+06/06/2022, 23:21:59 - INFO - Req was made
+06/06/2022, 23:21:59 - DEBUG - Getting Boards
+06/06/2022, 23:21:59 - INFO - Req was made
+06/06/2022, 23:21:59 - INFO - Req was made
+06/06/2022, 23:21:59 - DEBUG - Getting Boards
+06/06/2022, 23:21:59 - INFO - Req was made
+06/06/2022, 23:21:59 - DEBUG - Getting Boards
+06/06/2022, 23:22:07 - INFO - Req was made
+06/06/2022, 23:22:07 - INFO - Req was made
+06/06/2022, 23:22:07 - DEBUG - Getting Boards
+06/06/2022, 23:22:13 - INFO - Req was made
+06/06/2022, 23:22:13 - INFO - Req was made
+06/06/2022, 23:22:13 - DEBUG - Getting Boards
+06/06/2022, 23:22:28 - INFO - Req was made
+06/06/2022, 23:22:28 - INFO - Req was made
+06/06/2022, 23:22:28 - DEBUG - Getting Boards
+06/06/2022, 23:23:15 - INFO - Req was made
+06/06/2022, 23:23:15 - INFO - Req was made
+06/06/2022, 23:23:15 - DEBUG - Getting Boards
+06/06/2022, 23:23:34 - INFO - Req was made
+06/06/2022, 23:23:34 - INFO - Req was made
+06/06/2022, 23:23:34 - DEBUG - Getting Boards
+06/06/2022, 23:24:19 - INFO - Req was made
+06/06/2022, 23:24:19 - INFO - Req was made
+06/06/2022, 23:24:19 - DEBUG - Getting Boards
+06/06/2022, 23:25:02 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:25:04 - INFO - New connected socket [id: 07_OZo-Enagix_FIAABj]
+06/06/2022, 23:25:04 - INFO - Req was made
+06/06/2022, 23:25:04 - DEBUG - Getting Boards
+06/06/2022, 23:25:05 - INFO - Req was made
+06/06/2022, 23:25:05 - INFO - Req was made
+06/06/2022, 23:25:05 - DEBUG - Getting Boards
+06/06/2022, 23:25:05 - INFO - Req was made
+06/06/2022, 23:25:05 - DEBUG - Getting Boards
+06/06/2022, 23:26:24 - INFO - Req was made
+06/06/2022, 23:26:24 - INFO - Req was made
+06/06/2022, 23:26:24 - DEBUG - Getting Boards
+06/06/2022, 23:26:24 - INFO - Req was made
+06/06/2022, 23:26:25 - INFO - Req was made
+06/06/2022, 23:26:25 - DEBUG - Getting Boards
+06/06/2022, 23:26:25 - INFO - Req was made
+06/06/2022, 23:26:25 - INFO - Req was made
+06/06/2022, 23:26:25 - DEBUG - Getting Boards
+06/06/2022, 23:26:26 - INFO - Req was made
+06/06/2022, 23:26:26 - INFO - Req was made
+06/06/2022, 23:26:26 - DEBUG - Getting Boards
+06/06/2022, 23:26:26 - INFO - Req was made
+06/06/2022, 23:26:26 - DEBUG - Getting Boards
+06/06/2022, 23:26:58 - INFO - Req was made
+06/06/2022, 23:26:58 - INFO - Req was made
+06/06/2022, 23:26:58 - DEBUG - Getting Boards
+06/06/2022, 23:26:58 - INFO - Req was made
+06/06/2022, 23:26:58 - INFO - Req was made
+06/06/2022, 23:26:58 - DEBUG - Getting Boards
+06/06/2022, 23:26:58 - INFO - Req was made
+06/06/2022, 23:26:58 - DEBUG - Getting Boards
+06/06/2022, 23:27:02 - INFO - Req was made
+06/06/2022, 23:27:02 - INFO - Req was made
+06/06/2022, 23:27:02 - DEBUG - Getting Boards
+06/06/2022, 23:27:02 - INFO - Req was made
+06/06/2022, 23:27:02 - INFO - Req was made
+06/06/2022, 23:27:02 - DEBUG - Getting Boards
+06/06/2022, 23:27:03 - INFO - Req was made
+06/06/2022, 23:27:03 - INFO - Req was made
+06/06/2022, 23:27:03 - DEBUG - Getting Boards
+06/06/2022, 23:27:03 - INFO - Req was made
+06/06/2022, 23:27:03 - DEBUG - Getting Boards
+06/06/2022, 23:28:07 - INFO - Req was made
+06/06/2022, 23:28:07 - INFO - Req was made
+06/06/2022, 23:28:07 - DEBUG - Getting Boards
+06/06/2022, 23:28:12 - INFO - Req was made
+06/06/2022, 23:28:12 - INFO - Req was made
+06/06/2022, 23:28:12 - DEBUG - Getting Boards
+06/06/2022, 23:30:06 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:30:08 - INFO - New connected socket [id: 2lpqfG5k2yS-8UZIAABl]
+06/06/2022, 23:30:08 - INFO - Req was made
+06/06/2022, 23:30:08 - DEBUG - Getting Boards
+06/06/2022, 23:30:08 - INFO - Req was made
+06/06/2022, 23:30:08 - INFO - Req was made
+06/06/2022, 23:30:08 - DEBUG - Getting Boards
+06/06/2022, 23:30:09 - INFO - Req was made
+06/06/2022, 23:30:09 - DEBUG - Getting Boards
+06/06/2022, 23:30:22 - INFO - Req was made
+06/06/2022, 23:30:22 - INFO - Req was made
+06/06/2022, 23:30:22 - DEBUG - Getting Boards
+06/06/2022, 23:30:23 - INFO - Req was made
+06/06/2022, 23:30:23 - INFO - Req was made
+06/06/2022, 23:30:23 - DEBUG - Getting Boards
+06/06/2022, 23:30:24 - INFO - Req was made
+06/06/2022, 23:30:24 - INFO - Req was made
+06/06/2022, 23:30:24 - DEBUG - Getting Boards
+06/06/2022, 23:30:25 - INFO - Req was made
+06/06/2022, 23:30:25 - INFO - Req was made
+06/06/2022, 23:30:25 - DEBUG - Getting Boards
+06/06/2022, 23:30:49 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:30:50 - INFO - New connected socket [id: z_V85Wc7kFP8IQlXAABn]
+06/06/2022, 23:30:50 - INFO - Req was made
+06/06/2022, 23:30:50 - DEBUG - Getting Boards
+06/06/2022, 23:30:50 - INFO - Req was made
+06/06/2022, 23:30:51 - INFO - Req was made
+06/06/2022, 23:30:51 - DEBUG - Getting Boards
+06/06/2022, 23:30:51 - INFO - Req was made
+06/06/2022, 23:30:51 - DEBUG - Getting Boards
+06/06/2022, 23:34:58 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:35:01 - INFO - New connected socket [id: uhAklDZfNhvsxDl_AABp]
+06/06/2022, 23:35:02 - INFO - Req was made
+06/06/2022, 23:35:02 - DEBUG - Getting Boards
+06/06/2022, 23:35:02 - INFO - Req was made
+06/06/2022, 23:35:02 - INFO - Req was made
+06/06/2022, 23:35:02 - DEBUG - Getting Boards
+06/06/2022, 23:35:03 - INFO - Req was made
+06/06/2022, 23:35:03 - DEBUG - Getting Boards
+06/06/2022, 23:35:07 - INFO - Req was made
+06/06/2022, 23:35:07 - INFO - Req was made
+06/06/2022, 23:35:07 - DEBUG - Getting Boards
+06/06/2022, 23:35:07 - INFO - Req was made
+06/06/2022, 23:35:07 - INFO - Req was made
+06/06/2022, 23:35:07 - DEBUG - Getting Boards
+06/06/2022, 23:35:08 - INFO - Req was made
+06/06/2022, 23:35:08 - DEBUG - Getting Boards
+06/06/2022, 23:35:10 - INFO - Req was made
+06/06/2022, 23:35:10 - INFO - Req was made
+06/06/2022, 23:35:10 - DEBUG - Getting Boards
+06/06/2022, 23:35:11 - INFO - Req was made
+06/06/2022, 23:35:12 - INFO - Req was made
+06/06/2022, 23:35:12 - DEBUG - Getting Boards
+06/06/2022, 23:35:12 - INFO - Req was made
+06/06/2022, 23:35:13 - INFO - Req was made
+06/06/2022, 23:35:13 - DEBUG - Getting Boards
+06/06/2022, 23:35:20 - INFO - Req was made
+06/06/2022, 23:35:20 - INFO - Req was made
+06/06/2022, 23:35:20 - DEBUG - Getting Boards
+06/06/2022, 23:35:21 - INFO - Req was made
+06/06/2022, 23:35:22 - INFO - Req was made
+06/06/2022, 23:35:22 - DEBUG - Getting Boards
+06/06/2022, 23:36:18 - INFO - Req was made
+06/06/2022, 23:36:18 - INFO - Req was made
+06/06/2022, 23:36:18 - DEBUG - Getting Boards
+06/06/2022, 23:36:29 - INFO - Req was made
+06/06/2022, 23:36:29 - INFO - Req was made
+06/06/2022, 23:36:29 - DEBUG - Getting Boards
+06/06/2022, 23:36:34 - INFO - Req was made
+06/06/2022, 23:36:34 - INFO - Req was made
+06/06/2022, 23:36:34 - DEBUG - Getting Boards
+06/06/2022, 23:36:48 - INFO - Req was made
+06/06/2022, 23:36:48 - INFO - Req was made
+06/06/2022, 23:36:48 - DEBUG - Getting Boards
+06/06/2022, 23:37:29 - INFO - Req was made
+06/06/2022, 23:37:30 - INFO - Req was made
+06/06/2022, 23:37:30 - DEBUG - Getting Boards
+06/06/2022, 23:37:40 - INFO - Req was made
+06/06/2022, 23:37:41 - INFO - Req was made
+06/06/2022, 23:37:41 - DEBUG - Getting Boards
+06/06/2022, 23:37:54 - INFO - Req was made
+06/06/2022, 23:37:54 - INFO - Req was made
+06/06/2022, 23:37:54 - DEBUG - Getting Boards
+06/06/2022, 23:37:56 - INFO - Req was made
+06/06/2022, 23:37:56 - INFO - Req was made
+06/06/2022, 23:37:56 - DEBUG - Getting Boards
+06/06/2022, 23:37:57 - INFO - Req was made
+06/06/2022, 23:37:58 - INFO - Req was made
+06/06/2022, 23:37:58 - DEBUG - Getting Boards
+06/06/2022, 23:37:58 - INFO - Req was made
+06/06/2022, 23:37:59 - INFO - Req was made
+06/06/2022, 23:37:59 - DEBUG - Getting Boards
+06/06/2022, 23:37:59 - INFO - Req was made
+06/06/2022, 23:37:59 - INFO - Req was made
+06/06/2022, 23:37:59 - DEBUG - Getting Boards
+06/06/2022, 23:38:04 - INFO - Req was made
+06/06/2022, 23:38:04 - INFO - Req was made
+06/06/2022, 23:38:04 - DEBUG - Getting Boards
+06/06/2022, 23:38:16 - INFO - Req was made
+06/06/2022, 23:38:16 - INFO - Req was made
+06/06/2022, 23:38:16 - DEBUG - Getting Boards
+06/06/2022, 23:44:24 - INFO - Socket is leaving topic 629e6316bfd85444389a097d [id: uhAklDZfNhvsxDl_AABp]
+06/06/2022, 23:44:24 - INFO - Req was made
+06/06/2022, 23:44:24 - DEBUG - Getting Boards
+06/06/2022, 23:44:24 - INFO - Req was made
+06/06/2022, 23:44:24 - INFO - Req was made
+06/06/2022, 23:44:24 - DEBUG - Getting Boards
+06/06/2022, 23:44:24 - INFO - Req was made
+06/06/2022, 23:44:24 - INFO - Req was made
+06/06/2022, 23:44:24 - DEBUG - Getting Boards
+06/06/2022, 23:44:25 - INFO - Req was made
+06/06/2022, 23:44:25 - DEBUG - Getting Boards
+06/06/2022, 23:44:28 - INFO - Req was made
+06/06/2022, 23:44:28 - INFO - Req was made
+06/06/2022, 23:44:28 - DEBUG - Getting Boards
+06/06/2022, 23:44:29 - INFO - Req was made
+06/06/2022, 23:44:29 - INFO - Req was made
+06/06/2022, 23:44:29 - DEBUG - Getting Boards
+06/06/2022, 23:44:43 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:44:45 - INFO - New connected socket [id: XOOY50sNN69fTpHOAABr]
+06/06/2022, 23:44:46 - INFO - Req was made
+06/06/2022, 23:44:46 - DEBUG - Getting Boards
+06/06/2022, 23:44:46 - INFO - Req was made
+06/06/2022, 23:44:46 - INFO - Req was made
+06/06/2022, 23:44:46 - DEBUG - Getting Boards
+06/06/2022, 23:44:47 - INFO - Req was made
+06/06/2022, 23:44:47 - DEBUG - Getting Boards
+06/06/2022, 23:45:36 - INFO - Req was made
+06/06/2022, 23:45:36 - INFO - Req was made
+06/06/2022, 23:45:36 - DEBUG - Getting Boards
+06/06/2022, 23:45:47 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:45:50 - INFO - New connected socket [id: WWMXkXTDVAqnmtPzAABt]
+06/06/2022, 23:45:50 - INFO - Req was made
+06/06/2022, 23:45:50 - DEBUG - Getting Boards
+06/06/2022, 23:45:50 - INFO - Req was made
+06/06/2022, 23:45:50 - INFO - Req was made
+06/06/2022, 23:45:50 - DEBUG - Getting Boards
+06/06/2022, 23:45:51 - INFO - Req was made
+06/06/2022, 23:45:51 - DEBUG - Getting Boards
+06/06/2022, 23:46:03 - INFO - Req was made
+06/06/2022, 23:46:03 - INFO - Req was made
+06/06/2022, 23:46:03 - DEBUG - Getting Boards
+06/06/2022, 23:47:51 - INFO - Req was made
+06/06/2022, 23:47:51 - DEBUG - Getting Boards
+06/06/2022, 23:47:51 - INFO - Req was made
+06/06/2022, 23:47:51 - INFO - Req was made
+06/06/2022, 23:47:51 - DEBUG - Getting Boards
+06/06/2022, 23:47:51 - INFO - Req was made
+06/06/2022, 23:47:51 - DEBUG - Getting Boards
+06/06/2022, 23:47:58 - INFO - Req was made
+06/06/2022, 23:47:58 - INFO - Req was made
+06/06/2022, 23:47:58 - DEBUG - Getting Boards
+06/06/2022, 23:48:03 - INFO - Req was made
+06/06/2022, 23:48:04 - INFO - Req was made
+06/06/2022, 23:48:04 - DEBUG - Getting Boards
+06/06/2022, 23:48:55 - INFO - Req was made
+06/06/2022, 23:48:56 - INFO - Req was made
+06/06/2022, 23:48:56 - DEBUG - Getting Boards
+06/06/2022, 23:48:56 - INFO - Req was made
+06/06/2022, 23:48:56 - INFO - Req was made
+06/06/2022, 23:48:56 - DEBUG - Getting Boards
+06/06/2022, 23:48:56 - INFO - Req was made
+06/06/2022, 23:48:57 - INFO - Req was made
+06/06/2022, 23:48:57 - DEBUG - Getting Boards
+06/06/2022, 23:48:57 - INFO - Req was made
+06/06/2022, 23:48:57 - INFO - Req was made
+06/06/2022, 23:48:57 - DEBUG - Getting Boards
+06/06/2022, 23:48:57 - INFO - Req was made
+06/06/2022, 23:48:57 - DEBUG - Getting Boards
+06/06/2022, 23:49:02 - INFO - Req was made
+06/06/2022, 23:49:02 - INFO - Req was made
+06/06/2022, 23:49:02 - DEBUG - Getting Boards
+06/06/2022, 23:49:02 - INFO - Req was made
+06/06/2022, 23:49:03 - INFO - Req was made
+06/06/2022, 23:49:03 - DEBUG - Getting Boards
+06/06/2022, 23:49:03 - INFO - Req was made
+06/06/2022, 23:49:03 - DEBUG - Getting Boards
+06/06/2022, 23:49:06 - INFO - Req was made
+06/06/2022, 23:49:06 - INFO - Req was made
+06/06/2022, 23:49:06 - DEBUG - Getting Boards
+06/06/2022, 23:50:32 - INFO - Req was made
+06/06/2022, 23:50:32 - INFO - Req was made
+06/06/2022, 23:50:32 - DEBUG - Getting Boards
+06/06/2022, 23:51:19 - INFO - Req was made
+06/06/2022, 23:51:19 - INFO - Req was made
+06/06/2022, 23:51:19 - DEBUG - Getting Boards
+06/06/2022, 23:51:31 - INFO - Req was made
+06/06/2022, 23:51:31 - INFO - Req was made
+06/06/2022, 23:51:31 - DEBUG - Getting Boards
+06/06/2022, 23:51:47 - INFO - Req was made
+06/06/2022, 23:51:48 - INFO - Req was made
+06/06/2022, 23:51:48 - DEBUG - Getting Boards
+06/06/2022, 23:51:53 - INFO - Req was made
+06/06/2022, 23:51:53 - INFO - Req was made
+06/06/2022, 23:51:53 - DEBUG - Getting Boards
+06/06/2022, 23:51:54 - INFO - Req was made
+06/06/2022, 23:51:54 - INFO - Req was made
+06/06/2022, 23:51:54 - DEBUG - Getting Boards
+06/06/2022, 23:51:55 - INFO - Req was made
+06/06/2022, 23:51:55 - INFO - Req was made
+06/06/2022, 23:51:55 - DEBUG - Getting Boards
+06/06/2022, 23:51:55 - INFO - Req was made
+06/06/2022, 23:51:55 - INFO - Req was made
+06/06/2022, 23:51:55 - DEBUG - Getting Boards
+06/06/2022, 23:51:56 - INFO - Req was made
+06/06/2022, 23:51:56 - INFO - Req was made
+06/06/2022, 23:51:56 - DEBUG - Getting Boards
+06/06/2022, 23:51:57 - INFO - Req was made
+06/06/2022, 23:51:57 - INFO - Req was made
+06/06/2022, 23:51:57 - DEBUG - Getting Boards
+06/06/2022, 23:51:57 - INFO - Req was made
+06/06/2022, 23:51:57 - INFO - Req was made
+06/06/2022, 23:51:57 - DEBUG - Getting Boards
+06/06/2022, 23:51:57 - INFO - Req was made
+06/06/2022, 23:51:58 - INFO - Req was made
+06/06/2022, 23:51:58 - DEBUG - Getting Boards
+06/06/2022, 23:52:27 - INFO - Req was made
+06/06/2022, 23:52:27 - INFO - Req was made
+06/06/2022, 23:52:27 - DEBUG - Getting Boards
+06/06/2022, 23:52:38 - INFO - Req was made
+06/06/2022, 23:52:38 - INFO - Req was made
+06/06/2022, 23:52:38 - DEBUG - Getting Boards
+06/06/2022, 23:53:05 - INFO - Req was made
+06/06/2022, 23:53:05 - INFO - Req was made
+06/06/2022, 23:53:05 - DEBUG - Getting Boards
+06/06/2022, 23:53:08 - INFO - Req was made
+06/06/2022, 23:53:08 - DEBUG - Getting Boards
+06/06/2022, 23:53:09 - INFO - Req was made
+06/06/2022, 23:53:09 - INFO - Req was made
+06/06/2022, 23:53:09 - DEBUG - Getting Boards
+06/06/2022, 23:53:11 - INFO - Req was made
+06/06/2022, 23:53:11 - DEBUG - Getting Boards
+06/06/2022, 23:53:11 - INFO - Req was made
+06/06/2022, 23:53:12 - INFO - Req was made
+06/06/2022, 23:53:12 - DEBUG - Getting Boards
+06/06/2022, 23:53:12 - INFO - Req was made
+06/06/2022, 23:53:12 - DEBUG - Getting Boards
+06/06/2022, 23:53:13 - INFO - Req was made
+06/06/2022, 23:53:13 - INFO - Req was made
+06/06/2022, 23:53:13 - DEBUG - Getting Boards
+06/06/2022, 23:53:13 - INFO - Req was made
+06/06/2022, 23:53:13 - DEBUG - Getting Boards
+06/06/2022, 23:53:14 - INFO - Req was made
+06/06/2022, 23:53:14 - INFO - Req was made
+06/06/2022, 23:53:14 - DEBUG - Getting Boards
+06/06/2022, 23:53:15 - INFO - Req was made
+06/06/2022, 23:53:15 - DEBUG - Getting Boards
+06/06/2022, 23:53:15 - INFO - Req was made
+06/06/2022, 23:53:15 - INFO - Req was made
+06/06/2022, 23:53:15 - DEBUG - Getting Boards
+06/06/2022, 23:53:16 - INFO - Req was made
+06/06/2022, 23:53:16 - DEBUG - Getting Boards
+06/06/2022, 23:53:16 - INFO - Req was made
+06/06/2022, 23:53:16 - INFO - Req was made
+06/06/2022, 23:53:16 - DEBUG - Getting Boards
+06/06/2022, 23:53:20 - INFO - Req was made
+06/06/2022, 23:53:20 - INFO - Req was made
+06/06/2022, 23:53:20 - DEBUG - Getting Boards
+06/06/2022, 23:53:26 - INFO - Req was made
+06/06/2022, 23:53:26 - INFO - Req was made
+06/06/2022, 23:53:26 - DEBUG - Getting Boards
+06/06/2022, 23:53:28 - INFO - Req was made
+06/06/2022, 23:53:28 - INFO - Req was made
+06/06/2022, 23:53:28 - DEBUG - Getting Boards
+06/06/2022, 23:53:42 - INFO - Req was made
+06/06/2022, 23:53:42 - INFO - Req was made
+06/06/2022, 23:53:42 - DEBUG - Getting Boards
+06/06/2022, 23:54:04 - INFO - Req was made
+06/06/2022, 23:54:04 - INFO - Req was made
+06/06/2022, 23:54:04 - DEBUG - Getting Boards
+06/06/2022, 23:54:08 - INFO - Req was made
+06/06/2022, 23:54:08 - DEBUG - Getting Boards
+06/06/2022, 23:54:08 - INFO - Req was made
+06/06/2022, 23:54:08 - INFO - Req was made
+06/06/2022, 23:54:08 - DEBUG - Getting Boards
+06/06/2022, 23:54:11 - INFO - Req was made
+06/06/2022, 23:54:11 - INFO - Req was made
+06/06/2022, 23:54:11 - DEBUG - Getting Boards
+06/06/2022, 23:54:13 - INFO - Req was made
+06/06/2022, 23:54:13 - INFO - Req was made
+06/06/2022, 23:54:13 - DEBUG - Getting Boards
+06/06/2022, 23:54:15 - INFO - Req was made
+06/06/2022, 23:54:15 - INFO - Req was made
+06/06/2022, 23:54:15 - DEBUG - Getting Boards
+06/06/2022, 23:54:27 - INFO - Socket disconnected [id: undefined]
+06/06/2022, 23:54:31 - INFO - New connected socket [id: g7UY8DFI_fbhgO4JAABv]
+06/06/2022, 23:54:31 - INFO - Req was made
+06/06/2022, 23:54:31 - DEBUG - Getting Boards
+06/06/2022, 23:54:32 - INFO - Req was made
+06/06/2022, 23:54:32 - INFO - Req was made
+06/06/2022, 23:54:32 - DEBUG - Getting Boards
+06/06/2022, 23:54:32 - INFO - Req was made
+06/06/2022, 23:54:32 - DEBUG - Getting Boards
+06/06/2022, 23:54:38 - INFO - Req was made
+06/06/2022, 23:54:38 - INFO - Req was made
+06/06/2022, 23:54:38 - DEBUG - Getting Boards
+06/06/2022, 23:54:45 - INFO - Req was made
+06/06/2022, 23:54:46 - INFO - Req was made
+06/06/2022, 23:54:46 - DEBUG - Getting Boards
+06/06/2022, 23:55:19 - INFO - Req was made
+06/06/2022, 23:55:20 - INFO - Req was made
+06/06/2022, 23:55:20 - DEBUG - Getting Boards
+06/06/2022, 23:55:21 - INFO - Req was made
+06/06/2022, 23:55:21 - INFO - Req was made
+06/06/2022, 23:55:21 - DEBUG - Getting Boards
+06/06/2022, 23:55:28 - INFO - Req was made
+06/06/2022, 23:55:28 - INFO - Req was made
+06/06/2022, 23:55:28 - DEBUG - Getting Boards
+06/06/2022, 23:55:32 - INFO - Req was made
+06/06/2022, 23:55:33 - INFO - Req was made
+06/06/2022, 23:55:33 - DEBUG - Getting Boards
+06/06/2022, 23:55:50 - INFO - Req was made
+06/06/2022, 23:55:50 - INFO - Req was made
+06/06/2022, 23:55:50 - DEBUG - Getting Boards
+06/06/2022, 23:55:50 - INFO - Req was made
+06/06/2022, 23:55:50 - INFO - Req was made
+06/06/2022, 23:55:50 - DEBUG - Getting Boards
+06/06/2022, 23:56:26 - INFO - Req was made
+06/06/2022, 23:56:26 - INFO - Req was made
+06/06/2022, 23:56:26 - DEBUG - Getting Boards
+06/06/2022, 23:56:27 - INFO - Req was made
+06/06/2022, 23:56:27 - INFO - Req was made
+06/06/2022, 23:56:27 - DEBUG - Getting Boards
+06/06/2022, 23:56:33 - INFO - Req was made
+06/06/2022, 23:56:34 - INFO - Req was made
+06/06/2022, 23:56:34 - DEBUG - Getting Boards
+06/06/2022, 23:58:35 - INFO - Req was made
+06/06/2022, 23:58:35 - INFO - Req was made
+06/06/2022, 23:58:35 - DEBUG - Getting Boards
+07/06/2022, 0:04:34 - INFO - Req was made
+07/06/2022, 0:04:35 - INFO - Req was made
+07/06/2022, 0:04:35 - DEBUG - Getting Boards
+07/06/2022, 0:10:54 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 0:10:58 - INFO - New connected socket [id: qvSAvFMxpqxwjZP5AABx]
+07/06/2022, 0:10:58 - INFO - Req was made
+07/06/2022, 0:10:58 - DEBUG - Getting Boards
+07/06/2022, 0:10:58 - INFO - Req was made
+07/06/2022, 0:10:58 - INFO - Req was made
+07/06/2022, 0:10:58 - DEBUG - Getting Boards
+07/06/2022, 0:10:59 - INFO - Req was made
+07/06/2022, 0:10:59 - DEBUG - Getting Boards
+07/06/2022, 0:11:07 - INFO - Req was made
+07/06/2022, 0:11:07 - INFO - Req was made
+07/06/2022, 0:11:07 - DEBUG - Getting Boards
+07/06/2022, 0:11:26 - INFO - Req was made
+07/06/2022, 0:11:26 - INFO - Req was made
+07/06/2022, 0:11:26 - DEBUG - Getting Boards
+07/06/2022, 0:13:07 - INFO - Req was made
+07/06/2022, 0:13:07 - INFO - Req was made
+07/06/2022, 0:13:07 - DEBUG - Getting Boards
+07/06/2022, 0:15:18 - INFO - Req was made
+07/06/2022, 0:15:18 - INFO - Req was made
+07/06/2022, 0:15:18 - DEBUG - Getting Boards
+07/06/2022, 0:15:27 - INFO - Req was made
+07/06/2022, 0:15:27 - INFO - Req was made
+07/06/2022, 0:15:27 - DEBUG - Getting Boards
+07/06/2022, 0:15:37 - INFO - Req was made
+07/06/2022, 0:15:37 - INFO - Req was made
+07/06/2022, 0:15:37 - DEBUG - Getting Boards
+07/06/2022, 0:17:48 - INFO - Req was made
+07/06/2022, 0:17:48 - INFO - Req was made
+07/06/2022, 0:17:48 - DEBUG - Getting Boards
+07/06/2022, 0:31:45 - INFO - Req was made
+07/06/2022, 0:31:45 - INFO - Req was made
+07/06/2022, 0:31:45 - DEBUG - Getting Boards
+07/06/2022, 0:33:28 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 0:33:30 - INFO - New connected socket [id: NyQPT-UNV32B60NKAABz]
+07/06/2022, 0:33:31 - INFO - Req was made
+07/06/2022, 0:33:31 - DEBUG - Getting Boards
+07/06/2022, 0:33:31 - INFO - Req was made
+07/06/2022, 0:33:31 - INFO - Req was made
+07/06/2022, 0:33:31 - DEBUG - Getting Boards
+07/06/2022, 0:33:32 - INFO - Req was made
+07/06/2022, 0:33:32 - DEBUG - Getting Boards
+07/06/2022, 0:34:29 - INFO - Req was made
+07/06/2022, 0:34:29 - INFO - Req was made
+07/06/2022, 0:34:29 - DEBUG - Getting Boards
+07/06/2022, 0:35:03 - INFO - Req was made
+07/06/2022, 0:35:03 - INFO - Req was made
+07/06/2022, 0:35:03 - DEBUG - Getting Boards
+07/06/2022, 0:35:03 - INFO - Req was made
+07/06/2022, 0:35:03 - INFO - Req was made
+07/06/2022, 0:35:03 - DEBUG - Getting Boards
+07/06/2022, 0:36:01 - INFO - Req was made
+07/06/2022, 0:36:01 - INFO - Req was made
+07/06/2022, 0:36:01 - DEBUG - Getting Boards
+07/06/2022, 0:36:07 - INFO - Req was made
+07/06/2022, 0:36:07 - INFO - Req was made
+07/06/2022, 0:36:07 - DEBUG - Getting Boards
+07/06/2022, 0:37:15 - INFO - Req was made
+07/06/2022, 0:37:15 - INFO - Req was made
+07/06/2022, 0:37:15 - DEBUG - Getting Boards
+07/06/2022, 0:38:29 - INFO - Req was made
+07/06/2022, 0:38:29 - INFO - Req was made
+07/06/2022, 0:38:29 - DEBUG - Getting Boards
+07/06/2022, 0:49:19 - INFO - Req was made
+07/06/2022, 0:49:20 - INFO - Req was made
+07/06/2022, 0:49:20 - DEBUG - Getting Boards
+07/06/2022, 0:49:45 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 0:49:49 - INFO - New connected socket [id: H2l_mRjti3hqpmhnAAB1]
+07/06/2022, 0:49:49 - INFO - Req was made
+07/06/2022, 0:49:49 - DEBUG - Getting Boards
+07/06/2022, 0:49:49 - INFO - Req was made
+07/06/2022, 0:49:49 - INFO - Req was made
+07/06/2022, 0:49:49 - DEBUG - Getting Boards
+07/06/2022, 0:49:50 - INFO - Req was made
+07/06/2022, 0:49:50 - DEBUG - Getting Boards
+07/06/2022, 0:49:58 - INFO - Req was made
+07/06/2022, 0:49:58 - INFO - Req was made
+07/06/2022, 0:49:58 - DEBUG - Getting Boards
+07/06/2022, 0:51:01 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 0:51:04 - INFO - New connected socket [id: tocBCgq0rS2bYFbJAAB3]
+07/06/2022, 0:51:04 - INFO - Req was made
+07/06/2022, 0:51:04 - DEBUG - Getting Boards
+07/06/2022, 0:51:05 - INFO - Req was made
+07/06/2022, 0:51:05 - INFO - Req was made
+07/06/2022, 0:51:05 - DEBUG - Getting Boards
+07/06/2022, 0:51:05 - INFO - Req was made
+07/06/2022, 0:51:05 - DEBUG - Getting Boards
+07/06/2022, 0:51:10 - INFO - Req was made
+07/06/2022, 0:51:10 - INFO - Req was made
+07/06/2022, 0:51:10 - DEBUG - Getting Boards
+07/06/2022, 0:57:19 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 0:57:21 - INFO - New connected socket [id: e_eKulRPwnvQE6-dAAB5]
+07/06/2022, 0:57:21 - INFO - Req was made
+07/06/2022, 0:57:21 - DEBUG - Getting Boards
+07/06/2022, 0:57:22 - INFO - Req was made
+07/06/2022, 0:57:22 - INFO - Req was made
+07/06/2022, 0:57:22 - DEBUG - Getting Boards
+07/06/2022, 0:57:22 - INFO - Req was made
+07/06/2022, 0:57:22 - DEBUG - Getting Boards
+07/06/2022, 0:57:27 - INFO - Req was made
+07/06/2022, 0:57:27 - INFO - Req was made
+07/06/2022, 0:57:27 - DEBUG - Getting Boards
+07/06/2022, 1:01:13 - INFO - Req was made
+07/06/2022, 1:01:13 - INFO - Req was made
+07/06/2022, 1:01:13 - DEBUG - Getting Boards
+07/06/2022, 1:01:16 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 1:01:18 - INFO - New connected socket [id: yANr5_53WOX5ITWMAAB7]
+07/06/2022, 1:01:19 - INFO - Req was made
+07/06/2022, 1:01:19 - DEBUG - Getting Boards
+07/06/2022, 1:01:19 - INFO - Req was made
+07/06/2022, 1:01:19 - INFO - Req was made
+07/06/2022, 1:01:19 - DEBUG - Getting Boards
+07/06/2022, 1:01:19 - INFO - Req was made
+07/06/2022, 1:01:19 - DEBUG - Getting Boards
+07/06/2022, 1:01:35 - INFO - Req was made
+07/06/2022, 1:01:35 - INFO - Req was made
+07/06/2022, 1:01:35 - DEBUG - Getting Boards
+07/06/2022, 9:27:43 - INFO - Server is running on port: 3030
+07/06/2022, 9:35:03 - INFO - New connected socket [id: b60bewLyKyrwnADcAAAB]
+07/06/2022, 9:35:12 - DEBUG - auth.service - login with username: guest@guest
+07/06/2022, 9:35:13 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+07/06/2022, 9:35:13 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 9:35:13 - INFO - New connected socket [id: bWP0xrrrNJ5D_2NRAAAD]
+07/06/2022, 9:35:14 - INFO - Req was made
+07/06/2022, 9:35:14 - DEBUG - Getting Boards
+07/06/2022, 9:35:14 - INFO - Req was made
+07/06/2022, 9:35:14 - INFO - Req was made
+07/06/2022, 9:35:14 - DEBUG - Getting Boards
+07/06/2022, 9:35:15 - INFO - Req was made
+07/06/2022, 9:35:15 - DEBUG - Getting Boards
+07/06/2022, 9:35:35 - INFO - Req was made
+07/06/2022, 9:35:35 - INFO - Req was made
+07/06/2022, 9:35:35 - DEBUG - Getting Boards
+07/06/2022, 9:35:44 - INFO - Req was made
+07/06/2022, 9:35:44 - INFO - Req was made
+07/06/2022, 9:35:44 - DEBUG - Getting Boards
+07/06/2022, 9:35:49 - INFO - Req was made
+07/06/2022, 9:35:49 - INFO - Req was made
+07/06/2022, 9:35:49 - DEBUG - Getting Boards
+07/06/2022, 11:04:16 - INFO - Req was made
+07/06/2022, 11:04:16 - INFO - Req was made
+07/06/2022, 11:04:16 - DEBUG - Getting Boards
+07/06/2022, 11:04:20 - INFO - Req was made
+07/06/2022, 11:04:20 - DEBUG - Getting Boards
+07/06/2022, 11:04:20 - INFO - Req was made
+07/06/2022, 12:07:09 - INFO - Req was made
+07/06/2022, 12:07:09 - DEBUG - Getting Boards
+07/06/2022, 12:07:10 - INFO - Req was made
+07/06/2022, 12:07:10 - INFO - Req was made
+07/06/2022, 12:07:10 - DEBUG - Getting Boards
+07/06/2022, 12:27:33 - INFO - Req was made
+07/06/2022, 12:27:33 - INFO - Req was made
+07/06/2022, 12:27:33 - DEBUG - Getting Boards
+07/06/2022, 12:30:03 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 12:30:07 - INFO - Req was made
+07/06/2022, 12:30:07 - DEBUG - Getting Boards
+07/06/2022, 12:30:07 - INFO - New connected socket [id: IfJkvqMVgm7kgUnPAAAF]
+07/06/2022, 12:30:08 - INFO - Req was made
+07/06/2022, 12:30:08 - INFO - Req was made
+07/06/2022, 12:30:08 - DEBUG - Getting Boards
+07/06/2022, 12:30:09 - INFO - Req was made
+07/06/2022, 12:30:09 - DEBUG - Getting Boards
+07/06/2022, 12:30:28 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 12:30:30 - INFO - New connected socket [id: u5zq6PI9iUtGfNtLAAAH]
+07/06/2022, 12:30:31 - INFO - Req was made
+07/06/2022, 12:30:31 - DEBUG - Getting Boards
+07/06/2022, 12:30:31 - INFO - Req was made
+07/06/2022, 12:30:31 - INFO - Req was made
+07/06/2022, 12:30:31 - DEBUG - Getting Boards
+07/06/2022, 12:30:32 - INFO - Req was made
+07/06/2022, 12:30:32 - DEBUG - Getting Boards
+07/06/2022, 12:45:05 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 12:45:09 - INFO - New connected socket [id: nRvIwd2G3r0G_xmqAAAJ]
+07/06/2022, 12:45:09 - INFO - Req was made
+07/06/2022, 12:45:09 - DEBUG - Getting Boards
+07/06/2022, 12:45:10 - INFO - Req was made
+07/06/2022, 12:45:10 - INFO - Req was made
+07/06/2022, 12:45:10 - DEBUG - Getting Boards
+07/06/2022, 12:45:11 - INFO - Req was made
+07/06/2022, 12:45:11 - DEBUG - Getting Boards
+07/06/2022, 13:13:44 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 13:13:48 - INFO - New connected socket [id: Zr0hvLsZRf2LlCXDAAAL]
+07/06/2022, 13:13:48 - INFO - Req was made
+07/06/2022, 13:13:48 - DEBUG - Getting Boards
+07/06/2022, 13:13:48 - INFO - Req was made
+07/06/2022, 13:13:48 - INFO - Req was made
+07/06/2022, 13:13:48 - DEBUG - Getting Boards
+07/06/2022, 13:13:49 - INFO - Req was made
+07/06/2022, 13:13:49 - DEBUG - Getting Boards
+07/06/2022, 13:51:08 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 13:51:12 - INFO - New connected socket [id: Thf2TCd27IFV-Ig0AAAN]
+07/06/2022, 13:51:13 - INFO - Req was made
+07/06/2022, 13:51:13 - DEBUG - Getting Boards
+07/06/2022, 13:51:13 - INFO - Req was made
+07/06/2022, 13:51:13 - INFO - Req was made
+07/06/2022, 13:51:13 - DEBUG - Getting Boards
+07/06/2022, 13:51:14 - INFO - Req was made
+07/06/2022, 13:51:14 - DEBUG - Getting Boards
+07/06/2022, 14:01:22 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:01:26 - INFO - New connected socket [id: qDwLPfNbqZSj1oIvAAAP]
+07/06/2022, 14:01:26 - INFO - Req was made
+07/06/2022, 14:01:26 - DEBUG - Getting Boards
+07/06/2022, 14:01:26 - INFO - Req was made
+07/06/2022, 14:01:26 - INFO - Req was made
+07/06/2022, 14:01:26 - DEBUG - Getting Boards
+07/06/2022, 14:01:27 - INFO - Req was made
+07/06/2022, 14:01:27 - DEBUG - Getting Boards
+07/06/2022, 14:06:16 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:06:29 - INFO - New connected socket [id: OuTEwng8TtPdm-koAAAR]
+07/06/2022, 14:06:29 - INFO - Req was made
+07/06/2022, 14:06:29 - DEBUG - Getting Boards
+07/06/2022, 14:06:29 - INFO - Req was made
+07/06/2022, 14:06:30 - INFO - Req was made
+07/06/2022, 14:06:30 - DEBUG - Getting Boards
+07/06/2022, 14:06:30 - INFO - Req was made
+07/06/2022, 14:06:30 - DEBUG - Getting Boards
+07/06/2022, 14:10:08 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:10:12 - INFO - New connected socket [id: pSOnkF8TR_kyhX1EAAAT]
+07/06/2022, 14:10:12 - INFO - Req was made
+07/06/2022, 14:10:12 - DEBUG - Getting Boards
+07/06/2022, 14:10:12 - INFO - Req was made
+07/06/2022, 14:10:13 - INFO - Req was made
+07/06/2022, 14:10:13 - DEBUG - Getting Boards
+07/06/2022, 14:10:13 - INFO - Req was made
+07/06/2022, 14:10:13 - DEBUG - Getting Boards
+07/06/2022, 14:10:30 - INFO - Req was made
+07/06/2022, 14:10:30 - INFO - Req was made
+07/06/2022, 14:10:30 - DEBUG - Getting Boards
+07/06/2022, 14:16:15 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:16:22 - INFO - New connected socket [id: bNvcjNy9bc_AS6rgAAAV]
+07/06/2022, 14:16:22 - INFO - Req was made
+07/06/2022, 14:16:22 - DEBUG - Getting Boards
+07/06/2022, 14:16:22 - INFO - Req was made
+07/06/2022, 14:16:23 - INFO - Req was made
+07/06/2022, 14:16:23 - DEBUG - Getting Boards
+07/06/2022, 14:16:23 - INFO - Req was made
+07/06/2022, 14:16:23 - DEBUG - Getting Boards
+07/06/2022, 14:16:38 - INFO - Req was made
+07/06/2022, 14:16:38 - INFO - Req was made
+07/06/2022, 14:16:38 - DEBUG - Getting Boards
+07/06/2022, 14:16:45 - INFO - Req was made
+07/06/2022, 14:16:46 - INFO - Req was made
+07/06/2022, 14:16:46 - DEBUG - Getting Boards
+07/06/2022, 14:16:56 - INFO - Req was made
+07/06/2022, 14:16:56 - INFO - Req was made
+07/06/2022, 14:16:56 - DEBUG - Getting Boards
+07/06/2022, 14:25:49 - INFO - Req was made
+07/06/2022, 14:25:49 - INFO - Req was made
+07/06/2022, 14:25:49 - DEBUG - Getting Boards
+07/06/2022, 14:25:51 - INFO - Req was made
+07/06/2022, 14:25:51 - INFO - Req was made
+07/06/2022, 14:25:51 - DEBUG - Getting Boards
+07/06/2022, 14:43:39 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:43:44 - INFO - Req was made
+07/06/2022, 14:43:44 - DEBUG - Getting Boards
+07/06/2022, 14:43:44 - INFO - New connected socket [id: cBdnzAPsExz5W2C1AAAX]
+07/06/2022, 14:43:44 - INFO - Req was made
+07/06/2022, 14:43:44 - INFO - Req was made
+07/06/2022, 14:43:44 - DEBUG - Getting Boards
+07/06/2022, 14:43:45 - INFO - Req was made
+07/06/2022, 14:43:45 - DEBUG - Getting Boards
+07/06/2022, 14:44:00 - INFO - Req was made
+07/06/2022, 14:44:01 - INFO - Req was made
+07/06/2022, 14:44:01 - DEBUG - Getting Boards
+07/06/2022, 14:44:58 - INFO - Req was made
+07/06/2022, 14:44:59 - INFO - Req was made
+07/06/2022, 14:44:59 - DEBUG - Getting Boards
+07/06/2022, 14:44:59 - INFO - Req was made
+07/06/2022, 14:45:00 - INFO - Req was made
+07/06/2022, 14:45:00 - DEBUG - Getting Boards
+07/06/2022, 14:45:01 - INFO - Req was made
+07/06/2022, 14:45:01 - INFO - Req was made
+07/06/2022, 14:45:01 - DEBUG - Getting Boards
+07/06/2022, 14:49:12 - INFO - Req was made
+07/06/2022, 14:49:13 - INFO - Req was made
+07/06/2022, 14:49:13 - DEBUG - Getting Boards
+07/06/2022, 14:53:50 - INFO - Req was made
+07/06/2022, 14:53:50 - INFO - Req was made
+07/06/2022, 14:53:50 - DEBUG - Getting Boards
+07/06/2022, 14:54:25 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:54:31 - INFO - New connected socket [id: 5ubuShVSx1_tOSf7AAAZ]
+07/06/2022, 14:54:31 - INFO - Req was made
+07/06/2022, 14:54:31 - DEBUG - Getting Boards
+07/06/2022, 14:54:31 - INFO - Req was made
+07/06/2022, 14:54:31 - INFO - Req was made
+07/06/2022, 14:54:31 - DEBUG - Getting Boards
+07/06/2022, 14:54:33 - INFO - Req was made
+07/06/2022, 14:54:33 - DEBUG - Getting Boards
+07/06/2022, 14:55:11 - INFO - Req was made
+07/06/2022, 14:55:11 - INFO - Req was made
+07/06/2022, 14:55:11 - DEBUG - Getting Boards
+07/06/2022, 14:55:18 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:55:20 - INFO - New connected socket [id: 8PLcgDQpI3yH7UChAAAb]
+07/06/2022, 14:55:21 - INFO - Req was made
+07/06/2022, 14:55:21 - DEBUG - Getting Boards
+07/06/2022, 14:55:22 - INFO - Req was made
+07/06/2022, 14:55:22 - INFO - Req was made
+07/06/2022, 14:55:22 - DEBUG - Getting Boards
+07/06/2022, 14:55:23 - INFO - Req was made
+07/06/2022, 14:55:23 - DEBUG - Getting Boards
+07/06/2022, 14:55:27 - INFO - Req was made
+07/06/2022, 14:55:27 - INFO - Req was made
+07/06/2022, 14:55:27 - DEBUG - Getting Boards
+07/06/2022, 14:55:46 - INFO - Req was made
+07/06/2022, 14:55:46 - INFO - Req was made
+07/06/2022, 14:55:46 - DEBUG - Getting Boards
+07/06/2022, 14:55:50 - INFO - Req was made
+07/06/2022, 14:55:50 - INFO - Req was made
+07/06/2022, 14:55:50 - DEBUG - Getting Boards
+07/06/2022, 14:55:57 - INFO - Req was made
+07/06/2022, 14:55:57 - INFO - Req was made
+07/06/2022, 14:55:57 - DEBUG - Getting Boards
+07/06/2022, 14:56:29 - INFO - Req was made
+07/06/2022, 14:56:29 - INFO - Req was made
+07/06/2022, 14:56:29 - DEBUG - Getting Boards
+07/06/2022, 14:56:30 - INFO - Req was made
+07/06/2022, 14:56:30 - INFO - Req was made
+07/06/2022, 14:56:30 - DEBUG - Getting Boards
+07/06/2022, 14:56:32 - INFO - Req was made
+07/06/2022, 14:56:32 - INFO - Req was made
+07/06/2022, 14:56:32 - DEBUG - Getting Boards
+07/06/2022, 14:56:58 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 14:57:02 - INFO - New connected socket [id: qt8j8VMoVMrB5fJaAAAd]
+07/06/2022, 14:57:02 - INFO - Req was made
+07/06/2022, 14:57:02 - DEBUG - Getting Boards
+07/06/2022, 14:57:02 - INFO - Req was made
+07/06/2022, 14:57:02 - INFO - Req was made
+07/06/2022, 14:57:02 - DEBUG - Getting Boards
+07/06/2022, 14:57:03 - INFO - Req was made
+07/06/2022, 14:57:03 - DEBUG - Getting Boards
+07/06/2022, 14:57:25 - INFO - Req was made
+07/06/2022, 14:57:25 - INFO - Req was made
+07/06/2022, 14:57:25 - DEBUG - Getting Boards
+07/06/2022, 14:57:36 - INFO - Req was made
+07/06/2022, 14:57:36 - INFO - Req was made
+07/06/2022, 14:57:36 - DEBUG - Getting Boards
+07/06/2022, 14:57:43 - INFO - Req was made
+07/06/2022, 14:57:43 - DEBUG - Getting Boards
+07/06/2022, 14:57:43 - INFO - Req was made
+07/06/2022, 14:57:46 - INFO - Req was made
+07/06/2022, 14:57:46 - INFO - Req was made
+07/06/2022, 14:57:46 - DEBUG - Getting Boards
+07/06/2022, 14:57:51 - INFO - Req was made
+07/06/2022, 14:57:51 - INFO - Req was made
+07/06/2022, 14:57:51 - DEBUG - Getting Boards
+07/06/2022, 14:57:53 - INFO - Req was made
+07/06/2022, 14:57:53 - INFO - Req was made
+07/06/2022, 14:57:53 - DEBUG - Getting Boards
+07/06/2022, 14:58:08 - INFO - Req was made
+07/06/2022, 14:58:08 - DEBUG - Getting Boards
+07/06/2022, 14:58:08 - INFO - Req was made
+07/06/2022, 14:58:09 - INFO - Req was made
+07/06/2022, 14:58:09 - DEBUG - Getting Boards
+07/06/2022, 14:58:26 - INFO - Req was made
+07/06/2022, 14:58:26 - INFO - Req was made
+07/06/2022, 14:58:26 - DEBUG - Getting Boards
+07/06/2022, 14:58:28 - INFO - Req was made
+07/06/2022, 14:58:28 - INFO - Req was made
+07/06/2022, 14:58:28 - DEBUG - Getting Boards
+07/06/2022, 14:58:31 - INFO - Req was made
+07/06/2022, 14:58:31 - INFO - Req was made
+07/06/2022, 14:58:31 - DEBUG - Getting Boards
+07/06/2022, 14:58:33 - INFO - Req was made
+07/06/2022, 14:58:33 - INFO - Req was made
+07/06/2022, 14:58:33 - DEBUG - Getting Boards
+07/06/2022, 15:05:09 - INFO - Req was made
+07/06/2022, 15:05:09 - INFO - Req was made
+07/06/2022, 15:05:09 - DEBUG - Getting Boards
+07/06/2022, 15:08:42 - INFO - Req was made
+07/06/2022, 15:08:42 - INFO - Req was made
+07/06/2022, 15:08:42 - DEBUG - Getting Boards
+07/06/2022, 15:14:40 - INFO - Req was made
+07/06/2022, 15:14:41 - INFO - Req was made
+07/06/2022, 15:14:41 - DEBUG - Getting Boards
+07/06/2022, 15:14:42 - INFO - Req was made
+07/06/2022, 15:14:42 - INFO - Req was made
+07/06/2022, 15:14:42 - DEBUG - Getting Boards
+07/06/2022, 15:16:48 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 15:16:52 - INFO - New connected socket [id: cLvL2iQYXhBjXhaTAAAf]
+07/06/2022, 15:16:52 - INFO - Req was made
+07/06/2022, 15:16:52 - DEBUG - Getting Boards
+07/06/2022, 15:16:52 - INFO - Req was made
+07/06/2022, 15:16:52 - INFO - Req was made
+07/06/2022, 15:16:52 - DEBUG - Getting Boards
+07/06/2022, 15:16:53 - INFO - Req was made
+07/06/2022, 15:16:53 - DEBUG - Getting Boards
+07/06/2022, 15:34:07 - INFO - Req was made
+07/06/2022, 15:34:07 - INFO - Req was made
+07/06/2022, 15:34:07 - DEBUG - Getting Boards
+07/06/2022, 15:34:09 - INFO - Req was made
+07/06/2022, 15:34:09 - INFO - Req was made
+07/06/2022, 15:34:09 - DEBUG - Getting Boards
+07/06/2022, 15:34:11 - INFO - Req was made
+07/06/2022, 15:34:11 - INFO - Req was made
+07/06/2022, 15:34:11 - DEBUG - Getting Boards
+07/06/2022, 15:35:02 - INFO - Req was made
+07/06/2022, 15:35:02 - INFO - Req was made
+07/06/2022, 15:35:02 - DEBUG - Getting Boards
+07/06/2022, 15:35:13 - INFO - Req was made
+07/06/2022, 15:35:14 - INFO - Req was made
+07/06/2022, 15:35:14 - DEBUG - Getting Boards
+07/06/2022, 15:35:18 - INFO - Req was made
+07/06/2022, 15:35:18 - INFO - Req was made
+07/06/2022, 15:35:18 - DEBUG - Getting Boards
+07/06/2022, 15:35:57 - INFO - Req was made
+07/06/2022, 15:35:57 - INFO - Req was made
+07/06/2022, 15:35:57 - DEBUG - Getting Boards
+07/06/2022, 15:35:59 - INFO - Req was made
+07/06/2022, 15:36:00 - INFO - Req was made
+07/06/2022, 15:36:00 - DEBUG - Getting Boards
+07/06/2022, 15:44:48 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 15:44:51 - INFO - New connected socket [id: Aowvjnhps9SWqSqyAAAh]
+07/06/2022, 15:44:51 - INFO - Req was made
+07/06/2022, 15:44:51 - DEBUG - Getting Boards
+07/06/2022, 15:44:51 - INFO - Req was made
+07/06/2022, 15:44:51 - INFO - Req was made
+07/06/2022, 15:44:51 - DEBUG - Getting Boards
+07/06/2022, 15:44:52 - INFO - Req was made
+07/06/2022, 15:44:52 - DEBUG - Getting Boards
+07/06/2022, 15:55:09 - INFO - Req was made
+07/06/2022, 15:55:09 - INFO - Req was made
+07/06/2022, 15:55:09 - DEBUG - Getting Boards
+07/06/2022, 15:57:13 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 15:57:17 - INFO - New connected socket [id: sM4LUVl1RKXnKAWKAAAj]
+07/06/2022, 15:57:17 - INFO - Req was made
+07/06/2022, 15:57:17 - DEBUG - Getting Boards
+07/06/2022, 15:57:17 - INFO - Req was made
+07/06/2022, 15:57:18 - INFO - Req was made
+07/06/2022, 15:57:18 - DEBUG - Getting Boards
+07/06/2022, 15:57:18 - INFO - Req was made
+07/06/2022, 15:57:18 - DEBUG - Getting Boards
+07/06/2022, 15:57:32 - INFO - Req was made
+07/06/2022, 15:57:32 - INFO - Req was made
+07/06/2022, 15:57:32 - DEBUG - Getting Boards
+07/06/2022, 15:57:38 - INFO - Req was made
+07/06/2022, 15:57:38 - INFO - Req was made
+07/06/2022, 15:57:38 - DEBUG - Getting Boards
+07/06/2022, 15:59:07 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 15:59:10 - INFO - New connected socket [id: ZhhCu9nJrpwtTxh-AAAl]
+07/06/2022, 15:59:10 - INFO - Req was made
+07/06/2022, 15:59:10 - DEBUG - Getting Boards
+07/06/2022, 15:59:10 - INFO - Req was made
+07/06/2022, 15:59:11 - INFO - Req was made
+07/06/2022, 15:59:11 - DEBUG - Getting Boards
+07/06/2022, 15:59:12 - INFO - Req was made
+07/06/2022, 15:59:12 - DEBUG - Getting Boards
+07/06/2022, 16:13:14 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 16:13:19 - INFO - New connected socket [id: Wd7nAPqNlqvRXRdbAAAn]
+07/06/2022, 16:13:19 - INFO - Req was made
+07/06/2022, 16:13:19 - DEBUG - Getting Boards
+07/06/2022, 16:13:19 - INFO - Req was made
+07/06/2022, 16:13:20 - INFO - Req was made
+07/06/2022, 16:13:20 - DEBUG - Getting Boards
+07/06/2022, 16:13:21 - INFO - Req was made
+07/06/2022, 16:13:21 - DEBUG - Getting Boards
+07/06/2022, 16:32:42 - INFO - Req was made
+07/06/2022, 16:32:43 - INFO - Req was made
+07/06/2022, 16:32:43 - DEBUG - Getting Boards
+07/06/2022, 16:32:45 - INFO - Req was made
+07/06/2022, 16:32:45 - INFO - Req was made
+07/06/2022, 16:32:45 - DEBUG - Getting Boards
+07/06/2022, 16:38:18 - INFO - Req was made
+07/06/2022, 16:38:18 - INFO - Req was made
+07/06/2022, 16:38:18 - DEBUG - Getting Boards
+07/06/2022, 16:38:24 - INFO - Req was made
+07/06/2022, 16:38:25 - INFO - Req was made
+07/06/2022, 16:38:25 - DEBUG - Getting Boards
+07/06/2022, 16:42:59 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 16:43:06 - INFO - New connected socket [id: eDz6Rmh9X5H_r9kfAAAp]
+07/06/2022, 16:43:06 - INFO - Req was made
+07/06/2022, 16:43:06 - DEBUG - Getting Boards
+07/06/2022, 16:43:06 - INFO - Req was made
+07/06/2022, 16:43:07 - INFO - Req was made
+07/06/2022, 16:43:07 - DEBUG - Getting Boards
+07/06/2022, 16:43:08 - INFO - Req was made
+07/06/2022, 16:43:08 - DEBUG - Getting Boards
+07/06/2022, 16:47:36 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 16:47:40 - INFO - New connected socket [id: Yf2poDc2JJYp-QvlAAAr]
+07/06/2022, 16:47:40 - INFO - Req was made
+07/06/2022, 16:47:40 - DEBUG - Getting Boards
+07/06/2022, 16:47:41 - INFO - Req was made
+07/06/2022, 16:47:41 - INFO - Req was made
+07/06/2022, 16:47:41 - DEBUG - Getting Boards
+07/06/2022, 16:47:42 - INFO - Req was made
+07/06/2022, 16:47:42 - DEBUG - Getting Boards
+07/06/2022, 16:48:25 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 16:48:30 - INFO - New connected socket [id: kpU2r8UZ08fHWH2zAAAt]
+07/06/2022, 16:48:30 - INFO - Req was made
+07/06/2022, 16:48:30 - DEBUG - Getting Boards
+07/06/2022, 16:48:30 - INFO - Req was made
+07/06/2022, 16:48:30 - INFO - Req was made
+07/06/2022, 16:48:30 - DEBUG - Getting Boards
+07/06/2022, 16:48:32 - INFO - Req was made
+07/06/2022, 16:48:32 - DEBUG - Getting Boards
+07/06/2022, 16:49:55 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 16:49:59 - INFO - New connected socket [id: TeLsmP2nnGqceCZdAAAv]
+07/06/2022, 16:49:59 - INFO - Req was made
+07/06/2022, 16:49:59 - DEBUG - Getting Boards
+07/06/2022, 16:50:00 - INFO - Req was made
+07/06/2022, 16:50:00 - INFO - Req was made
+07/06/2022, 16:50:00 - DEBUG - Getting Boards
+07/06/2022, 16:50:01 - INFO - Req was made
+07/06/2022, 16:50:01 - DEBUG - Getting Boards
+07/06/2022, 17:08:15 - INFO - Req was made
+07/06/2022, 17:08:15 - INFO - Req was made
+07/06/2022, 17:08:15 - DEBUG - Getting Boards
+07/06/2022, 17:11:37 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 17:11:40 - INFO - New connected socket [id: ZsKUccS4TGUWDf8NAAAx]
+07/06/2022, 17:11:41 - INFO - Req was made
+07/06/2022, 17:11:41 - DEBUG - Getting Boards
+07/06/2022, 17:11:41 - INFO - Req was made
+07/06/2022, 17:11:41 - INFO - Req was made
+07/06/2022, 17:11:41 - DEBUG - Getting Boards
+07/06/2022, 17:11:42 - INFO - Req was made
+07/06/2022, 17:11:42 - DEBUG - Getting Boards
+07/06/2022, 17:40:07 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 17:40:12 - INFO - New connected socket [id: qZNP2WjYWXlL5SqcAAAz]
+07/06/2022, 17:40:12 - INFO - Req was made
+07/06/2022, 17:40:12 - DEBUG - Getting Boards
+07/06/2022, 17:40:12 - INFO - Req was made
+07/06/2022, 17:40:12 - INFO - Req was made
+07/06/2022, 17:40:12 - DEBUG - Getting Boards
+07/06/2022, 17:40:13 - INFO - Req was made
+07/06/2022, 17:40:13 - DEBUG - Getting Boards
+07/06/2022, 18:24:00 - INFO - Req was made
+07/06/2022, 18:24:01 - INFO - Req was made
+07/06/2022, 18:24:01 - DEBUG - Getting Boards
+07/06/2022, 19:07:10 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 19:07:14 - INFO - New connected socket [id: 6hl4Ma6NAB9a8tOwAAA1]
+07/06/2022, 19:07:15 - INFO - Req was made
+07/06/2022, 19:07:15 - DEBUG - Getting Boards
+07/06/2022, 19:07:15 - INFO - Req was made
+07/06/2022, 19:07:15 - INFO - Req was made
+07/06/2022, 19:07:15 - DEBUG - Getting Boards
+07/06/2022, 19:07:16 - INFO - Req was made
+07/06/2022, 19:07:16 - DEBUG - Getting Boards
+07/06/2022, 19:07:27 - INFO - Req was made
+07/06/2022, 19:07:27 - INFO - Req was made
+07/06/2022, 19:07:27 - DEBUG - Getting Boards
+07/06/2022, 19:07:29 - INFO - Req was made
+07/06/2022, 19:07:29 - INFO - Req was made
+07/06/2022, 19:07:29 - DEBUG - Getting Boards
+07/06/2022, 19:07:31 - INFO - Req was made
+07/06/2022, 19:07:31 - INFO - Req was made
+07/06/2022, 19:07:31 - DEBUG - Getting Boards
+07/06/2022, 19:07:32 - INFO - Req was made
+07/06/2022, 19:07:32 - INFO - Req was made
+07/06/2022, 19:07:32 - DEBUG - Getting Boards
+07/06/2022, 19:11:03 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 19:11:07 - INFO - New connected socket [id: byXZJQHvsU_5wvD6AAA3]
+07/06/2022, 19:11:07 - INFO - Req was made
+07/06/2022, 19:11:07 - DEBUG - Getting Boards
+07/06/2022, 19:11:07 - INFO - Req was made
+07/06/2022, 19:11:08 - INFO - Req was made
+07/06/2022, 19:11:08 - DEBUG - Getting Boards
+07/06/2022, 19:11:08 - INFO - Req was made
+07/06/2022, 19:11:08 - DEBUG - Getting Boards
+07/06/2022, 19:26:20 - INFO - Req was made
+07/06/2022, 19:26:20 - INFO - Req was made
+07/06/2022, 19:26:20 - DEBUG - Getting Boards
+07/06/2022, 19:49:46 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 19:49:49 - INFO - New connected socket [id: jGetUlXyQ9IZyArqAAA5]
+07/06/2022, 19:49:50 - INFO - Req was made
+07/06/2022, 19:49:50 - DEBUG - Getting Boards
+07/06/2022, 19:49:50 - INFO - Req was made
+07/06/2022, 19:49:50 - INFO - Req was made
+07/06/2022, 19:49:50 - DEBUG - Getting Boards
+07/06/2022, 19:49:51 - INFO - Req was made
+07/06/2022, 19:49:51 - DEBUG - Getting Boards
+07/06/2022, 19:50:05 - INFO - Req was made
+07/06/2022, 19:50:05 - INFO - Req was made
+07/06/2022, 19:50:05 - DEBUG - Getting Boards
+07/06/2022, 19:50:07 - INFO - Req was made
+07/06/2022, 19:50:07 - INFO - Req was made
+07/06/2022, 19:50:07 - DEBUG - Getting Boards
+07/06/2022, 19:50:08 - INFO - Req was made
+07/06/2022, 19:50:08 - INFO - Req was made
+07/06/2022, 19:50:08 - DEBUG - Getting Boards
+07/06/2022, 19:50:10 - INFO - Req was made
+07/06/2022, 19:50:10 - INFO - Req was made
+07/06/2022, 19:50:10 - DEBUG - Getting Boards
+07/06/2022, 19:50:12 - INFO - Req was made
+07/06/2022, 19:50:12 - INFO - Req was made
+07/06/2022, 19:50:12 - DEBUG - Getting Boards
+07/06/2022, 19:50:18 - INFO - Req was made
+07/06/2022, 19:50:18 - INFO - Req was made
+07/06/2022, 19:50:18 - DEBUG - Getting Boards
+07/06/2022, 19:53:44 - INFO - Req was made
+07/06/2022, 19:53:44 - INFO - Req was made
+07/06/2022, 19:53:44 - DEBUG - Getting Boards
+07/06/2022, 19:53:48 - INFO - Req was made
+07/06/2022, 19:53:48 - INFO - Req was made
+07/06/2022, 19:53:48 - DEBUG - Getting Boards
+07/06/2022, 19:53:49 - INFO - Req was made
+07/06/2022, 19:53:49 - INFO - Req was made
+07/06/2022, 19:53:49 - DEBUG - Getting Boards
+07/06/2022, 19:55:51 - INFO - Req was made
+07/06/2022, 19:55:51 - DEBUG - Getting Boards
+07/06/2022, 19:56:39 - INFO - Req was made
+07/06/2022, 19:56:39 - INFO - Req was made
+07/06/2022, 19:56:39 - DEBUG - Getting Boards
+07/06/2022, 19:58:01 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 19:58:04 - INFO - New connected socket [id: 6MW65e2oX-Atjx7QAAA7]
+07/06/2022, 19:58:04 - INFO - Req was made
+07/06/2022, 19:58:04 - DEBUG - Getting Boards
+07/06/2022, 19:58:04 - INFO - Req was made
+07/06/2022, 19:58:04 - INFO - Req was made
+07/06/2022, 19:58:04 - DEBUG - Getting Boards
+07/06/2022, 19:58:05 - INFO - Req was made
+07/06/2022, 19:58:05 - DEBUG - Getting Boards
+07/06/2022, 19:58:08 - INFO - Req was made
+07/06/2022, 19:58:08 - INFO - Req was made
+07/06/2022, 19:58:08 - DEBUG - Getting Boards
+07/06/2022, 19:58:13 - INFO - Req was made
+07/06/2022, 19:58:13 - INFO - Req was made
+07/06/2022, 19:58:13 - DEBUG - Getting Boards
+07/06/2022, 19:58:25 - INFO - Req was made
+07/06/2022, 19:58:25 - INFO - Req was made
+07/06/2022, 19:58:25 - DEBUG - Getting Boards
+07/06/2022, 19:58:32 - INFO - Req was made
+07/06/2022, 19:58:32 - INFO - Req was made
+07/06/2022, 19:58:32 - DEBUG - Getting Boards
+07/06/2022, 19:58:34 - INFO - Req was made
+07/06/2022, 19:58:34 - INFO - Req was made
+07/06/2022, 19:58:34 - DEBUG - Getting Boards
+07/06/2022, 19:59:02 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 19:59:05 - INFO - New connected socket [id: VQcPBBFISWGu276HAAA9]
+07/06/2022, 19:59:05 - INFO - Req was made
+07/06/2022, 19:59:05 - DEBUG - Getting Boards
+07/06/2022, 19:59:06 - INFO - Req was made
+07/06/2022, 19:59:06 - INFO - Req was made
+07/06/2022, 19:59:06 - DEBUG - Getting Boards
+07/06/2022, 19:59:06 - INFO - Req was made
+07/06/2022, 19:59:06 - DEBUG - Getting Boards
+07/06/2022, 19:59:10 - INFO - Req was made
+07/06/2022, 19:59:10 - INFO - Req was made
+07/06/2022, 19:59:10 - DEBUG - Getting Boards
+07/06/2022, 19:59:11 - INFO - Req was made
+07/06/2022, 19:59:11 - INFO - Req was made
+07/06/2022, 19:59:11 - DEBUG - Getting Boards
+07/06/2022, 19:59:11 - INFO - Req was made
+07/06/2022, 19:59:11 - DEBUG - Getting Boards
+07/06/2022, 19:59:26 - INFO - Req was made
+07/06/2022, 19:59:26 - INFO - Req was made
+07/06/2022, 19:59:26 - DEBUG - Getting Boards
+07/06/2022, 19:59:40 - INFO - Req was made
+07/06/2022, 19:59:40 - INFO - Req was made
+07/06/2022, 19:59:40 - DEBUG - Getting Boards
+07/06/2022, 19:59:49 - INFO - Req was made
+07/06/2022, 19:59:49 - INFO - Req was made
+07/06/2022, 19:59:49 - DEBUG - Getting Boards
+07/06/2022, 19:59:58 - INFO - Req was made
+07/06/2022, 19:59:58 - INFO - Req was made
+07/06/2022, 19:59:58 - DEBUG - Getting Boards
+07/06/2022, 20:00:02 - INFO - Req was made
+07/06/2022, 20:00:02 - INFO - Req was made
+07/06/2022, 20:00:02 - DEBUG - Getting Boards
+07/06/2022, 20:12:52 - INFO - Req was made
+07/06/2022, 20:12:52 - INFO - Req was made
+07/06/2022, 20:12:52 - DEBUG - Getting Boards
+07/06/2022, 20:13:19 - INFO - Req was made
+07/06/2022, 20:13:19 - INFO - Req was made
+07/06/2022, 20:13:19 - DEBUG - Getting Boards
+07/06/2022, 20:13:24 - INFO - Req was made
+07/06/2022, 20:13:24 - INFO - Req was made
+07/06/2022, 20:13:24 - DEBUG - Getting Boards
+07/06/2022, 20:13:41 - INFO - Req was made
+07/06/2022, 20:13:41 - INFO - Req was made
+07/06/2022, 20:13:41 - DEBUG - Getting Boards
+07/06/2022, 20:13:43 - INFO - Req was made
+07/06/2022, 20:13:43 - INFO - Req was made
+07/06/2022, 20:13:43 - DEBUG - Getting Boards
+07/06/2022, 20:13:45 - INFO - Req was made
+07/06/2022, 20:13:45 - INFO - Req was made
+07/06/2022, 20:13:45 - DEBUG - Getting Boards
+07/06/2022, 20:13:47 - INFO - Req was made
+07/06/2022, 20:13:47 - INFO - Req was made
+07/06/2022, 20:13:48 - DEBUG - Getting Boards
+07/06/2022, 20:13:49 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 20:13:52 - INFO - New connected socket [id: qED7Oy729vMw-4uyAAA_]
+07/06/2022, 20:13:58 - DEBUG - auth.service - login with username: guest@guest
+07/06/2022, 20:13:59 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+07/06/2022, 20:13:59 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 20:14:00 - INFO - New connected socket [id: eyNbP0Zl1a77TVzLAABB]
+07/06/2022, 20:14:00 - INFO - Req was made
+07/06/2022, 20:14:01 - DEBUG - Getting Boards
+07/06/2022, 20:14:01 - INFO - Req was made
+07/06/2022, 20:14:01 - INFO - Req was made
+07/06/2022, 20:14:01 - DEBUG - Getting Boards
+07/06/2022, 20:14:01 - INFO - Req was made
+07/06/2022, 20:14:01 - DEBUG - Getting Boards
+07/06/2022, 20:19:14 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 20:19:17 - INFO - Req was made
+07/06/2022, 20:19:17 - DEBUG - Getting Boards
+07/06/2022, 20:19:17 - INFO - New connected socket [id: 6zgbtkMbJOH1B0IIAABD]
+07/06/2022, 20:19:18 - INFO - Req was made
+07/06/2022, 20:19:18 - INFO - Req was made
+07/06/2022, 20:19:18 - DEBUG - Getting Boards
+07/06/2022, 20:19:19 - INFO - Req was made
+07/06/2022, 20:19:19 - DEBUG - Getting Boards
+07/06/2022, 20:20:48 - INFO - Req was made
+07/06/2022, 20:20:48 - DEBUG - Getting Boards
+07/06/2022, 20:20:49 - INFO - Req was made
+07/06/2022, 20:20:49 - INFO - Req was made
+07/06/2022, 20:20:49 - DEBUG - Getting Boards
+07/06/2022, 21:02:42 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 21:02:45 - INFO - New connected socket [id: pzQCW2FQzEhGZxsSAABF]
+07/06/2022, 21:03:02 - DEBUG - auth.service - login with username: guest@guest
+07/06/2022, 21:03:02 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+07/06/2022, 21:03:02 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 21:03:05 - INFO - New connected socket [id: yeABu7BVJBm3hTyxAABH]
+07/06/2022, 21:03:06 - INFO - Req was made
+07/06/2022, 21:03:06 - DEBUG - Getting Boards
+07/06/2022, 21:03:06 - INFO - Req was made
+07/06/2022, 21:03:06 - INFO - Req was made
+07/06/2022, 21:03:06 - DEBUG - Getting Boards
+07/06/2022, 21:03:06 - INFO - Req was made
+07/06/2022, 21:03:06 - DEBUG - Getting Boards
+07/06/2022, 21:03:09 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 21:03:09 - INFO - New connected socket [id: lcKI374a2NVaeXWtAABJ]
+07/06/2022, 21:04:36 - DEBUG - auth.service - login with username: guest@guest
+07/06/2022, 21:04:37 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+07/06/2022, 21:04:37 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 21:04:39 - INFO - New connected socket [id: QFv4ow37XkR45g2eAABL]
+07/06/2022, 21:04:39 - INFO - Req was made
+07/06/2022, 21:04:39 - DEBUG - Getting Boards
+07/06/2022, 21:04:39 - INFO - Req was made
+07/06/2022, 21:04:40 - INFO - Req was made
+07/06/2022, 21:04:40 - DEBUG - Getting Boards
+07/06/2022, 21:04:40 - INFO - Req was made
+07/06/2022, 21:04:40 - DEBUG - Getting Boards
+07/06/2022, 21:12:42 - INFO - Req was made
+07/06/2022, 21:12:43 - INFO - Req was made
+07/06/2022, 21:12:43 - INFO - Req was made
+07/06/2022, 21:12:43 - DEBUG - Getting Boards
+07/06/2022, 21:13:32 - INFO - Req was made
+07/06/2022, 21:13:32 - INFO - Req was made
+07/06/2022, 21:13:32 - DEBUG - Getting Boards
+07/06/2022, 21:13:34 - INFO - Req was made
+07/06/2022, 21:13:34 - INFO - Req was made
+07/06/2022, 21:13:34 - DEBUG - Getting Boards
+07/06/2022, 21:13:35 - INFO - Req was made
+07/06/2022, 21:13:35 - INFO - Req was made
+07/06/2022, 21:13:35 - DEBUG - Getting Boards
+07/06/2022, 21:13:37 - INFO - Req was made
+07/06/2022, 21:13:37 - INFO - Req was made
+07/06/2022, 21:13:37 - DEBUG - Getting Boards
+07/06/2022, 21:13:38 - INFO - Req was made
+07/06/2022, 21:13:38 - INFO - Req was made
+07/06/2022, 21:13:38 - DEBUG - Getting Boards
+07/06/2022, 21:13:40 - INFO - Req was made
+07/06/2022, 21:13:40 - INFO - Req was made
+07/06/2022, 21:13:40 - DEBUG - Getting Boards
+07/06/2022, 21:13:41 - INFO - Req was made
+07/06/2022, 21:13:41 - INFO - Req was made
+07/06/2022, 21:13:41 - DEBUG - Getting Boards
+07/06/2022, 21:13:43 - INFO - Req was made
+07/06/2022, 21:13:43 - INFO - Req was made
+07/06/2022, 21:13:43 - DEBUG - Getting Boards
+07/06/2022, 21:13:47 - INFO - Req was made
+07/06/2022, 21:13:47 - DEBUG - Getting Boards
+07/06/2022, 21:13:47 - INFO - Req was made
+07/06/2022, 21:13:48 - INFO - Req was made
+07/06/2022, 21:13:48 - DEBUG - Getting Boards
+07/06/2022, 21:13:50 - INFO - Req was made
+07/06/2022, 21:13:50 - INFO - Req was made
+07/06/2022, 21:13:50 - DEBUG - Getting Boards
+07/06/2022, 21:13:56 - INFO - Req was made
+07/06/2022, 21:13:56 - INFO - Req was made
+07/06/2022, 21:13:56 - DEBUG - Getting Boards
+07/06/2022, 21:13:58 - INFO - Req was made
+07/06/2022, 21:13:58 - INFO - Req was made
+07/06/2022, 21:13:58 - DEBUG - Getting Boards
+07/06/2022, 21:14:01 - INFO - Req was made
+07/06/2022, 21:14:01 - INFO - Req was made
+07/06/2022, 21:14:01 - DEBUG - Getting Boards
+07/06/2022, 21:14:08 - INFO - Req was made
+07/06/2022, 21:14:08 - INFO - Req was made
+07/06/2022, 21:14:08 - DEBUG - Getting Boards
+07/06/2022, 21:14:13 - INFO - Req was made
+07/06/2022, 21:14:13 - INFO - Req was made
+07/06/2022, 21:14:13 - DEBUG - Getting Boards
+07/06/2022, 21:14:15 - INFO - Req was made
+07/06/2022, 21:14:15 - INFO - Req was made
+07/06/2022, 21:14:15 - DEBUG - Getting Boards
+07/06/2022, 21:14:27 - INFO - Req was made
+07/06/2022, 21:14:27 - INFO - Req was made
+07/06/2022, 21:14:27 - DEBUG - Getting Boards
+07/06/2022, 21:15:01 - INFO - Req was made
+07/06/2022, 21:15:01 - INFO - Req was made
+07/06/2022, 21:15:01 - DEBUG - Getting Boards
+07/06/2022, 21:15:06 - INFO - Req was made
+07/06/2022, 21:15:06 - INFO - Req was made
+07/06/2022, 21:15:06 - DEBUG - Getting Boards
+07/06/2022, 21:15:08 - INFO - Req was made
+07/06/2022, 21:15:08 - INFO - Req was made
+07/06/2022, 21:15:08 - DEBUG - Getting Boards
+07/06/2022, 21:15:09 - INFO - Req was made
+07/06/2022, 21:15:09 - INFO - Req was made
+07/06/2022, 21:15:09 - DEBUG - Getting Boards
+07/06/2022, 21:15:10 - INFO - Req was made
+07/06/2022, 21:15:11 - INFO - Req was made
+07/06/2022, 21:15:11 - DEBUG - Getting Boards
+07/06/2022, 21:15:13 - INFO - Req was made
+07/06/2022, 21:15:13 - INFO - Req was made
+07/06/2022, 21:15:13 - DEBUG - Getting Boards
+07/06/2022, 21:15:26 - INFO - Req was made
+07/06/2022, 21:15:26 - INFO - Req was made
+07/06/2022, 21:15:26 - DEBUG - Getting Boards
+07/06/2022, 21:16:02 - INFO - Req was made
+07/06/2022, 21:16:02 - INFO - Req was made
+07/06/2022, 21:16:02 - DEBUG - Getting Boards
+07/06/2022, 21:16:09 - INFO - Req was made
+07/06/2022, 21:16:09 - INFO - Req was made
+07/06/2022, 21:16:09 - DEBUG - Getting Boards
+07/06/2022, 21:16:35 - INFO - Req was made
+07/06/2022, 21:16:36 - INFO - Req was made
+07/06/2022, 21:16:36 - DEBUG - Getting Boards
+07/06/2022, 21:20:24 - INFO - Req was made
+07/06/2022, 21:20:24 - INFO - Req was made
+07/06/2022, 21:20:24 - DEBUG - Getting Boards
+07/06/2022, 21:20:25 - INFO - Req was made
+07/06/2022, 21:20:25 - INFO - Req was made
+07/06/2022, 21:20:25 - DEBUG - Getting Boards
+07/06/2022, 21:20:25 - INFO - Req was made
+07/06/2022, 21:20:25 - DEBUG - Getting Boards
+07/06/2022, 21:24:00 - INFO - Req was made
+07/06/2022, 21:24:00 - INFO - Req was made
+07/06/2022, 21:24:00 - DEBUG - Getting Boards
+07/06/2022, 21:24:02 - INFO - Req was made
+07/06/2022, 21:24:02 - INFO - Req was made
+07/06/2022, 21:24:02 - DEBUG - Getting Boards
+07/06/2022, 21:31:58 - INFO - Req was made
+07/06/2022, 21:31:59 - INFO - Req was made
+07/06/2022, 21:31:59 - DEBUG - Getting Boards
+07/06/2022, 21:48:52 - INFO - Req was made
+07/06/2022, 21:48:52 - INFO - Req was made
+07/06/2022, 21:48:52 - DEBUG - Getting Boards
+07/06/2022, 21:49:12 - INFO - Req was made
+07/06/2022, 21:49:12 - INFO - Req was made
+07/06/2022, 21:49:12 - DEBUG - Getting Boards
+07/06/2022, 21:49:15 - INFO - Req was made
+07/06/2022, 21:49:15 - INFO - Req was made
+07/06/2022, 21:49:15 - DEBUG - Getting Boards
+07/06/2022, 21:51:18 - INFO - Req was made
+07/06/2022, 21:51:18 - INFO - Req was made
+07/06/2022, 21:51:18 - DEBUG - Getting Boards
+07/06/2022, 21:54:24 - INFO - Req was made
+07/06/2022, 21:54:24 - DEBUG - Getting Boards
+07/06/2022, 21:54:24 - INFO - Req was made
+07/06/2022, 21:54:24 - INFO - Req was made
+07/06/2022, 21:54:24 - DEBUG - Getting Boards
+07/06/2022, 21:54:24 - INFO - Req was made
+07/06/2022, 21:54:25 - INFO - Req was made
+07/06/2022, 21:54:25 - DEBUG - Getting Boards
+07/06/2022, 21:54:25 - INFO - Req was made
+07/06/2022, 21:54:25 - INFO - Req was made
+07/06/2022, 21:54:25 - DEBUG - Getting Boards
+07/06/2022, 21:54:25 - INFO - Req was made
+07/06/2022, 21:54:25 - INFO - Req was made
+07/06/2022, 21:54:25 - DEBUG - Getting Boards
+07/06/2022, 21:54:25 - INFO - Req was made
+07/06/2022, 21:54:25 - INFO - Req was made
+07/06/2022, 21:54:25 - DEBUG - Getting Boards
+07/06/2022, 21:54:26 - INFO - Req was made
+07/06/2022, 21:54:26 - INFO - Req was made
+07/06/2022, 21:54:26 - INFO - Req was made
+07/06/2022, 21:54:26 - DEBUG - Getting Boards
+07/06/2022, 21:54:27 - INFO - Req was made
+07/06/2022, 21:54:27 - INFO - Req was made
+07/06/2022, 21:54:27 - DEBUG - Getting Boards
+07/06/2022, 21:54:37 - INFO - Req was made
+07/06/2022, 21:54:37 - INFO - Req was made
+07/06/2022, 21:54:37 - DEBUG - Getting Boards
+07/06/2022, 21:54:39 - INFO - Req was made
+07/06/2022, 21:54:39 - INFO - Req was made
+07/06/2022, 21:54:39 - DEBUG - Getting Boards
+07/06/2022, 21:54:40 - INFO - Req was made
+07/06/2022, 21:54:40 - INFO - Req was made
+07/06/2022, 21:54:40 - DEBUG - Getting Boards
+07/06/2022, 21:55:12 - INFO - Req was made
+07/06/2022, 21:55:12 - INFO - Req was made
+07/06/2022, 21:55:12 - DEBUG - Getting Boards
+07/06/2022, 21:55:25 - INFO - Req was made
+07/06/2022, 21:55:25 - INFO - Req was made
+07/06/2022, 21:55:25 - DEBUG - Getting Boards
+07/06/2022, 21:55:25 - INFO - Req was made
+07/06/2022, 21:55:26 - INFO - Req was made
+07/06/2022, 21:55:26 - DEBUG - Getting Boards
+07/06/2022, 21:55:26 - INFO - Req was made
+07/06/2022, 21:55:26 - DEBUG - Getting Boards
+07/06/2022, 21:55:29 - INFO - Req was made
+07/06/2022, 21:55:29 - INFO - Req was made
+07/06/2022, 21:55:29 - DEBUG - Getting Boards
+07/06/2022, 21:55:35 - INFO - Req was made
+07/06/2022, 21:55:35 - INFO - Req was made
+07/06/2022, 21:55:35 - DEBUG - Getting Boards
+07/06/2022, 22:03:17 - INFO - New connected socket [id: kNNb_OMnnBF6iLsEAABN]
+07/06/2022, 22:03:17 - INFO - Req was made
+07/06/2022, 22:03:17 - DEBUG - Getting Boards
+07/06/2022, 22:03:17 - INFO - Req was made
+07/06/2022, 22:03:17 - INFO - Req was made
+07/06/2022, 22:03:17 - DEBUG - Getting Boards
+07/06/2022, 22:03:29 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 22:03:30 - INFO - Req was made
+07/06/2022, 22:03:30 - DEBUG - Getting Boards
+07/06/2022, 22:03:30 - INFO - New connected socket [id: T6InV5IsEbWXGDJvAABP]
+07/06/2022, 22:03:31 - INFO - Req was made
+07/06/2022, 22:03:31 - INFO - Req was made
+07/06/2022, 22:03:31 - DEBUG - Getting Boards
+07/06/2022, 22:03:36 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 22:03:36 - INFO - New connected socket [id: 8d0z42FUp9N3rh_DAABR]
+07/06/2022, 22:04:04 - DEBUG - auth.service - login with username: guest@guest
+07/06/2022, 22:04:04 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+07/06/2022, 22:04:04 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 22:04:05 - INFO - New connected socket [id: hrb2TEj7teq9zkaWAABT]
+07/06/2022, 22:04:05 - INFO - Req was made
+07/06/2022, 22:04:05 - DEBUG - Getting Boards
+07/06/2022, 22:04:05 - INFO - Req was made
+07/06/2022, 22:04:05 - INFO - Req was made
+07/06/2022, 22:04:05 - DEBUG - Getting Boards
+07/06/2022, 22:04:06 - INFO - Req was made
+07/06/2022, 22:04:06 - DEBUG - Getting Boards
+07/06/2022, 22:06:05 - INFO - Req was made
+07/06/2022, 22:06:05 - INFO - Req was made
+07/06/2022, 22:06:05 - DEBUG - Getting Boards
+07/06/2022, 22:06:12 - INFO - Req was made
+07/06/2022, 22:06:13 - INFO - Req was made
+07/06/2022, 22:06:13 - DEBUG - Getting Boards
+07/06/2022, 22:06:39 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:04:31 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:04:33 - INFO - New connected socket [id: U04Ab7AFVQKVxvE0AABV]
+07/06/2022, 23:04:38 - DEBUG - auth.service - login with username: guest@guest
+07/06/2022, 23:04:38 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+07/06/2022, 23:04:38 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:04:39 - INFO - New connected socket [id: IFlRcRhunUP3eCPBAABX]
+07/06/2022, 23:04:40 - INFO - Req was made
+07/06/2022, 23:04:40 - DEBUG - Getting Boards
+07/06/2022, 23:04:40 - INFO - Req was made
+07/06/2022, 23:04:40 - INFO - Req was made
+07/06/2022, 23:04:40 - DEBUG - Getting Boards
+07/06/2022, 23:04:40 - INFO - Req was made
+07/06/2022, 23:04:40 - DEBUG - Getting Boards
+07/06/2022, 23:17:57 - INFO - Req was made
+07/06/2022, 23:17:58 - INFO - Req was made
+07/06/2022, 23:17:58 - INFO - Req was made
+07/06/2022, 23:17:58 - DEBUG - Getting Boards
+07/06/2022, 23:19:01 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:19:04 - INFO - New connected socket [id: E07ANA7yNnCxjUTdAABZ]
+07/06/2022, 23:19:05 - INFO - Req was made
+07/06/2022, 23:19:05 - DEBUG - Getting Boards
+07/06/2022, 23:19:05 - INFO - Req was made
+07/06/2022, 23:19:05 - INFO - Req was made
+07/06/2022, 23:19:05 - DEBUG - Getting Boards
+07/06/2022, 23:19:06 - INFO - Req was made
+07/06/2022, 23:19:06 - DEBUG - Getting Boards
+07/06/2022, 23:26:54 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:26:57 - INFO - New connected socket [id: _n7_iLFYFgKRAVaiAABb]
+07/06/2022, 23:26:58 - INFO - Req was made
+07/06/2022, 23:26:58 - DEBUG - Getting Boards
+07/06/2022, 23:26:58 - INFO - Req was made
+07/06/2022, 23:26:58 - INFO - Req was made
+07/06/2022, 23:26:58 - DEBUG - Getting Boards
+07/06/2022, 23:26:59 - INFO - Req was made
+07/06/2022, 23:26:59 - DEBUG - Getting Boards
+07/06/2022, 23:27:04 - INFO - Req was made
+07/06/2022, 23:27:04 - INFO - Req was made
+07/06/2022, 23:27:04 - INFO - Req was made
+07/06/2022, 23:27:04 - DEBUG - Getting Boards
+07/06/2022, 23:34:14 - INFO - Req was made
+07/06/2022, 23:34:14 - INFO - Req was made
+07/06/2022, 23:34:14 - INFO - Req was made
+07/06/2022, 23:34:14 - DEBUG - Getting Boards
+07/06/2022, 23:34:18 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:34:21 - INFO - New connected socket [id: ZMRNYHYXDR7agdeiAABd]
+07/06/2022, 23:34:21 - INFO - Req was made
+07/06/2022, 23:34:21 - DEBUG - Getting Boards
+07/06/2022, 23:34:21 - INFO - Req was made
+07/06/2022, 23:34:22 - INFO - Req was made
+07/06/2022, 23:34:22 - DEBUG - Getting Boards
+07/06/2022, 23:34:22 - INFO - Req was made
+07/06/2022, 23:34:22 - DEBUG - Getting Boards
+07/06/2022, 23:40:33 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:40:36 - INFO - New connected socket [id: 6hjb-YfoY6ouCcx1AABf]
+07/06/2022, 23:44:28 - DEBUG - auth.service - login with username: guest@guest
+07/06/2022, 23:44:28 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+07/06/2022, 23:44:28 - INFO - Socket disconnected [id: undefined]
+07/06/2022, 23:44:33 - INFO - New connected socket [id: ZEX2Qe4ohxLK2zg4AABh]
+07/06/2022, 23:44:33 - INFO - Req was made
+07/06/2022, 23:44:33 - DEBUG - Getting Boards
+07/06/2022, 23:44:34 - INFO - Req was made
+07/06/2022, 23:44:34 - INFO - Req was made
+07/06/2022, 23:44:34 - DEBUG - Getting Boards
+07/06/2022, 23:44:35 - INFO - Req was made
+07/06/2022, 23:44:35 - DEBUG - Getting Boards
+07/06/2022, 23:49:33 - INFO - Req was made
+07/06/2022, 23:49:33 - INFO - Req was made
+07/06/2022, 23:49:33 - DEBUG - Getting Boards
+07/06/2022, 23:49:34 - INFO - Req was made
+07/06/2022, 23:49:34 - INFO - Req was made
+07/06/2022, 23:49:34 - DEBUG - Getting Boards
+07/06/2022, 23:49:37 - INFO - Req was made
+07/06/2022, 23:49:37 - INFO - Req was made
+07/06/2022, 23:49:37 - DEBUG - Getting Boards
+07/06/2022, 23:49:44 - INFO - Req was made
+07/06/2022, 23:49:44 - INFO - Req was made
+07/06/2022, 23:49:44 - DEBUG - Getting Boards
+07/06/2022, 23:50:48 - INFO - Req was made
+07/06/2022, 23:50:48 - INFO - Req was made
+07/06/2022, 23:50:48 - DEBUG - Getting Boards
+07/06/2022, 23:50:48 - INFO - Req was made
+07/06/2022, 23:50:49 - INFO - Req was made
+07/06/2022, 23:50:49 - DEBUG - Getting Boards
+07/06/2022, 23:50:49 - INFO - Req was made
+07/06/2022, 23:50:49 - INFO - Req was made
+07/06/2022, 23:50:49 - DEBUG - Getting Boards
+07/06/2022, 23:50:49 - INFO - Req was made
+07/06/2022, 23:50:49 - INFO - Req was made
+07/06/2022, 23:50:49 - DEBUG - Getting Boards
+07/06/2022, 23:51:50 - INFO - Req was made
+07/06/2022, 23:51:50 - INFO - Req was made
+07/06/2022, 23:51:50 - DEBUG - Getting Boards
+07/06/2022, 23:51:52 - INFO - Req was made
+07/06/2022, 23:51:52 - INFO - Req was made
+07/06/2022, 23:51:52 - DEBUG - Getting Boards
+07/06/2022, 23:51:53 - INFO - Req was made
+07/06/2022, 23:51:53 - INFO - Req was made
+07/06/2022, 23:51:53 - DEBUG - Getting Boards
+07/06/2022, 23:51:54 - INFO - Req was made
+07/06/2022, 23:51:54 - INFO - Req was made
+07/06/2022, 23:51:54 - DEBUG - Getting Boards
+07/06/2022, 23:51:56 - INFO - Req was made
+07/06/2022, 23:51:56 - INFO - Req was made
+07/06/2022, 23:51:56 - DEBUG - Getting Boards
+07/06/2022, 23:53:25 - INFO - Req was made
+07/06/2022, 23:53:25 - DEBUG - Getting Boards
+07/06/2022, 23:53:25 - INFO - Req was made
+07/06/2022, 23:53:25 - INFO - Req was made
+07/06/2022, 23:53:25 - DEBUG - Getting Boards
+07/06/2022, 23:53:25 - INFO - Req was made
+07/06/2022, 23:53:26 - INFO - Req was made
+07/06/2022, 23:53:26 - DEBUG - Getting Boards
+07/06/2022, 23:53:26 - INFO - Req was made
+07/06/2022, 23:53:26 - INFO - Req was made
+07/06/2022, 23:53:26 - DEBUG - Getting Boards
+07/06/2022, 23:53:26 - INFO - Req was made
+07/06/2022, 23:53:26 - DEBUG - Getting Boards
+07/06/2022, 23:55:05 - INFO - Req was made
+07/06/2022, 23:55:05 - INFO - Req was made
+07/06/2022, 23:55:05 - DEBUG - Getting Boards
+07/06/2022, 23:55:05 - INFO - Req was made
+07/06/2022, 23:55:06 - INFO - Req was made
+07/06/2022, 23:55:06 - DEBUG - Getting Boards
+07/06/2022, 23:55:06 - INFO - Req was made
+07/06/2022, 23:55:06 - INFO - Req was made
+07/06/2022, 23:55:06 - DEBUG - Getting Boards
+07/06/2022, 23:55:06 - INFO - Req was made
+07/06/2022, 23:55:06 - DEBUG - Getting Boards
+07/06/2022, 23:55:06 - INFO - Req was made
+07/06/2022, 23:55:06 - DEBUG - Getting Boards
+07/06/2022, 23:55:27 - INFO - Req was made
+07/06/2022, 23:55:27 - INFO - Req was made
+07/06/2022, 23:55:27 - DEBUG - Getting Boards
+07/06/2022, 23:55:27 - INFO - Req was made
+07/06/2022, 23:55:28 - INFO - Req was made
+07/06/2022, 23:55:28 - DEBUG - Getting Boards
+07/06/2022, 23:55:28 - INFO - Req was made
+07/06/2022, 23:55:28 - INFO - Req was made
+07/06/2022, 23:55:28 - DEBUG - Getting Boards
+07/06/2022, 23:55:28 - INFO - Req was made
+07/06/2022, 23:55:28 - DEBUG - Getting Boards
+07/06/2022, 23:55:28 - INFO - Req was made
+07/06/2022, 23:55:28 - DEBUG - Getting Boards
+07/06/2022, 23:55:42 - INFO - Req was made
+07/06/2022, 23:55:42 - INFO - Req was made
+07/06/2022, 23:55:42 - DEBUG - Getting Boards
+07/06/2022, 23:55:42 - INFO - Req was made
+07/06/2022, 23:55:42 - INFO - Req was made
+07/06/2022, 23:55:42 - DEBUG - Getting Boards
+07/06/2022, 23:55:43 - INFO - Req was made
+07/06/2022, 23:55:43 - INFO - Req was made
+07/06/2022, 23:55:43 - DEBUG - Getting Boards
+07/06/2022, 23:55:43 - INFO - Req was made
+07/06/2022, 23:55:43 - DEBUG - Getting Boards
+07/06/2022, 23:55:43 - INFO - Req was made
+07/06/2022, 23:55:43 - DEBUG - Getting Boards
+07/06/2022, 23:56:58 - INFO - Req was made
+07/06/2022, 23:56:58 - DEBUG - Getting Boards
+07/06/2022, 23:56:59 - INFO - Req was made
+07/06/2022, 23:56:59 - INFO - Req was made
+07/06/2022, 23:56:59 - DEBUG - Getting Boards
+07/06/2022, 23:56:59 - INFO - Req was made
+07/06/2022, 23:56:59 - INFO - Req was made
+07/06/2022, 23:56:59 - DEBUG - Getting Boards
+07/06/2022, 23:56:59 - INFO - Req was made
+07/06/2022, 23:56:59 - INFO - Req was made
+07/06/2022, 23:56:59 - DEBUG - Getting Boards
+07/06/2022, 23:57:00 - INFO - Req was made
+07/06/2022, 23:57:00 - DEBUG - Getting Boards
+07/06/2022, 23:58:19 - INFO - Req was made
+07/06/2022, 23:58:20 - INFO - Req was made
+07/06/2022, 23:58:20 - DEBUG - Getting Boards
+07/06/2022, 23:58:23 - INFO - Req was made
+07/06/2022, 23:58:23 - INFO - Req was made
+07/06/2022, 23:58:23 - DEBUG - Getting Boards
+07/06/2022, 23:58:28 - INFO - Req was made
+07/06/2022, 23:58:28 - INFO - Req was made
+07/06/2022, 23:58:28 - DEBUG - Getting Boards
+07/06/2022, 23:59:13 - INFO - Req was made
+07/06/2022, 23:59:13 - INFO - Req was made
+07/06/2022, 23:59:13 - DEBUG - Getting Boards
+07/06/2022, 23:59:13 - INFO - Req was made
+07/06/2022, 23:59:13 - INFO - Req was made
+07/06/2022, 23:59:13 - DEBUG - Getting Boards
+07/06/2022, 23:59:13 - INFO - Req was made
+07/06/2022, 23:59:13 - INFO - Req was made
+07/06/2022, 23:59:13 - DEBUG - Getting Boards
+07/06/2022, 23:59:13 - INFO - Req was made
+07/06/2022, 23:59:13 - DEBUG - Getting Boards
+07/06/2022, 23:59:14 - INFO - Req was made
+07/06/2022, 23:59:14 - DEBUG - Getting Boards
+07/06/2022, 23:59:27 - INFO - Req was made
+07/06/2022, 23:59:27 - INFO - Req was made
+07/06/2022, 23:59:27 - DEBUG - Getting Boards
+07/06/2022, 23:59:30 - INFO - Req was made
+07/06/2022, 23:59:30 - INFO - Req was made
+07/06/2022, 23:59:30 - DEBUG - Getting Boards
+07/06/2022, 23:59:31 - INFO - Req was made
+07/06/2022, 23:59:32 - INFO - Req was made
+07/06/2022, 23:59:32 - DEBUG - Getting Boards
+07/06/2022, 23:59:45 - INFO - Req was made
+07/06/2022, 23:59:46 - INFO - Req was made
+07/06/2022, 23:59:46 - DEBUG - Getting Boards
+07/06/2022, 23:59:50 - INFO - Req was made
+07/06/2022, 23:59:50 - INFO - Req was made
+07/06/2022, 23:59:50 - DEBUG - Getting Boards
+08/06/2022, 0:00:10 - INFO - Req was made
+08/06/2022, 0:00:10 - INFO - Req was made
+08/06/2022, 0:00:10 - DEBUG - Getting Boards
+08/06/2022, 0:00:13 - INFO - Req was made
+08/06/2022, 0:00:14 - INFO - Req was made
+08/06/2022, 0:00:14 - DEBUG - Getting Boards
+08/06/2022, 0:01:10 - INFO - Req was made
+08/06/2022, 0:01:10 - INFO - Req was made
+08/06/2022, 0:01:10 - DEBUG - Getting Boards
+08/06/2022, 0:01:10 - INFO - Req was made
+08/06/2022, 0:01:10 - DEBUG - Getting Boards
+08/06/2022, 0:01:11 - INFO - Req was made
+08/06/2022, 0:01:11 - INFO - Req was made
+08/06/2022, 0:01:11 - DEBUG - Getting Boards
+08/06/2022, 0:01:11 - INFO - Req was made
+08/06/2022, 0:01:11 - DEBUG - Getting Boards
+08/06/2022, 0:01:11 - INFO - Req was made
+08/06/2022, 0:01:12 - INFO - Req was made
+08/06/2022, 0:01:12 - DEBUG - Getting Boards
+08/06/2022, 0:01:13 - INFO - Req was made
+08/06/2022, 0:01:13 - INFO - Req was made
+08/06/2022, 0:01:13 - DEBUG - Getting Boards
+08/06/2022, 0:01:15 - INFO - Req was made
+08/06/2022, 0:01:15 - INFO - Req was made
+08/06/2022, 0:01:15 - DEBUG - Getting Boards
+08/06/2022, 0:01:18 - INFO - Req was made
+08/06/2022, 0:01:18 - INFO - Req was made
+08/06/2022, 0:01:18 - DEBUG - Getting Boards
+08/06/2022, 0:01:20 - INFO - Req was made
+08/06/2022, 0:01:20 - INFO - Req was made
+08/06/2022, 0:01:20 - DEBUG - Getting Boards
+08/06/2022, 0:01:22 - INFO - Req was made
+08/06/2022, 0:01:22 - INFO - Req was made
+08/06/2022, 0:01:22 - DEBUG - Getting Boards
+08/06/2022, 0:01:27 - INFO - Req was made
+08/06/2022, 0:01:27 - INFO - Req was made
+08/06/2022, 0:01:27 - DEBUG - Getting Boards
+08/06/2022, 0:02:00 - INFO - Req was made
+08/06/2022, 0:02:00 - INFO - Req was made
+08/06/2022, 0:02:00 - DEBUG - Getting Boards
+08/06/2022, 0:02:03 - INFO - Req was made
+08/06/2022, 0:02:03 - INFO - Req was made
+08/06/2022, 0:02:03 - DEBUG - Getting Boards
+08/06/2022, 0:02:06 - INFO - Req was made
+08/06/2022, 0:02:06 - INFO - Req was made
+08/06/2022, 0:02:06 - DEBUG - Getting Boards
+08/06/2022, 0:02:08 - INFO - Req was made
+08/06/2022, 0:02:08 - INFO - Req was made
+08/06/2022, 0:02:08 - DEBUG - Getting Boards
+08/06/2022, 0:02:11 - INFO - Req was made
+08/06/2022, 0:02:11 - INFO - Req was made
+08/06/2022, 0:02:11 - DEBUG - Getting Boards
+08/06/2022, 0:02:13 - INFO - Req was made
+08/06/2022, 0:02:13 - INFO - Req was made
+08/06/2022, 0:02:13 - DEBUG - Getting Boards
+08/06/2022, 0:02:15 - INFO - Req was made
+08/06/2022, 0:02:16 - INFO - Req was made
+08/06/2022, 0:02:16 - DEBUG - Getting Boards
+08/06/2022, 0:02:18 - INFO - Req was made
+08/06/2022, 0:02:18 - INFO - Req was made
+08/06/2022, 0:02:18 - DEBUG - Getting Boards
+08/06/2022, 0:02:21 - INFO - Req was made
+08/06/2022, 0:02:21 - INFO - Req was made
+08/06/2022, 0:02:21 - DEBUG - Getting Boards
+08/06/2022, 0:02:24 - INFO - Req was made
+08/06/2022, 0:02:24 - INFO - Req was made
+08/06/2022, 0:02:24 - DEBUG - Getting Boards
+08/06/2022, 0:02:26 - INFO - Req was made
+08/06/2022, 0:02:26 - INFO - Req was made
+08/06/2022, 0:02:26 - DEBUG - Getting Boards
+08/06/2022, 0:02:56 - INFO - Req was made
+08/06/2022, 0:02:56 - INFO - Req was made
+08/06/2022, 0:02:56 - DEBUG - Getting Boards
+08/06/2022, 0:02:56 - INFO - Req was made
+08/06/2022, 0:02:56 - DEBUG - Getting Boards
+08/06/2022, 0:02:56 - INFO - Req was made
+08/06/2022, 0:02:56 - INFO - Req was made
+08/06/2022, 0:02:56 - DEBUG - Getting Boards
+08/06/2022, 0:02:56 - INFO - Req was made
+08/06/2022, 0:02:56 - DEBUG - Getting Boards
+08/06/2022, 0:03:31 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 0:03:39 - INFO - New connected socket [id: Ga3fKJVoSUm0L2qNAABj]
+08/06/2022, 0:03:40 - INFO - Req was made
+08/06/2022, 0:03:40 - DEBUG - Getting Boards
+08/06/2022, 0:03:40 - INFO - Req was made
+08/06/2022, 0:03:41 - INFO - Req was made
+08/06/2022, 0:03:41 - DEBUG - Getting Boards
+08/06/2022, 0:03:42 - INFO - Req was made
+08/06/2022, 0:03:42 - DEBUG - Getting Boards
+08/06/2022, 0:06:13 - INFO - Req was made
+08/06/2022, 0:06:13 - INFO - Req was made
+08/06/2022, 0:06:13 - DEBUG - Getting Boards
+08/06/2022, 0:06:14 - INFO - Req was made
+08/06/2022, 0:06:14 - INFO - Req was made
+08/06/2022, 0:06:14 - DEBUG - Getting Boards
+08/06/2022, 0:09:55 - INFO - Req was made
+08/06/2022, 0:09:55 - DEBUG - Getting Boards
+08/06/2022, 0:09:56 - INFO - Req was made
+08/06/2022, 0:09:56 - INFO - Req was made
+08/06/2022, 0:09:56 - DEBUG - Getting Boards
+08/06/2022, 0:09:57 - INFO - Req was made
+08/06/2022, 0:09:57 - DEBUG - Getting Boards
+08/06/2022, 0:13:29 - INFO - Req was made
+08/06/2022, 0:13:29 - DEBUG - Getting Boards
+08/06/2022, 0:13:29 - INFO - Req was made
+08/06/2022, 0:13:29 - INFO - Req was made
+08/06/2022, 0:13:29 - DEBUG - Getting Boards
+08/06/2022, 0:13:30 - INFO - Req was made
+08/06/2022, 0:13:30 - DEBUG - Getting Boards
+08/06/2022, 0:17:02 - INFO - Req was made
+08/06/2022, 0:17:02 - DEBUG - Getting Boards
+08/06/2022, 0:17:02 - INFO - Req was made
+08/06/2022, 0:17:02 - INFO - Req was made
+08/06/2022, 0:17:02 - DEBUG - Getting Boards
+08/06/2022, 0:17:06 - INFO - Req was made
+08/06/2022, 0:17:06 - DEBUG - Getting Boards
+08/06/2022, 0:17:06 - INFO - Req was made
+08/06/2022, 0:17:07 - INFO - Req was made
+08/06/2022, 0:17:07 - DEBUG - Getting Boards
+08/06/2022, 0:17:09 - INFO - Req was made
+08/06/2022, 0:17:09 - DEBUG - Getting Boards
+08/06/2022, 0:17:09 - INFO - Req was made
+08/06/2022, 0:17:09 - INFO - Req was made
+08/06/2022, 0:17:09 - DEBUG - Getting Boards
+08/06/2022, 0:17:11 - INFO - Req was made
+08/06/2022, 0:17:11 - DEBUG - Getting Boards
+08/06/2022, 0:17:11 - INFO - Req was made
+08/06/2022, 0:17:11 - INFO - Req was made
+08/06/2022, 0:17:11 - DEBUG - Getting Boards
+08/06/2022, 0:17:14 - INFO - Req was made
+08/06/2022, 0:17:14 - DEBUG - Getting Boards
+08/06/2022, 0:17:14 - INFO - Req was made
+08/06/2022, 0:17:14 - INFO - Req was made
+08/06/2022, 0:17:14 - DEBUG - Getting Boards
+08/06/2022, 0:17:17 - INFO - Req was made
+08/06/2022, 0:17:17 - DEBUG - Getting Boards
+08/06/2022, 0:17:17 - INFO - Req was made
+08/06/2022, 0:17:17 - INFO - Req was made
+08/06/2022, 0:17:17 - DEBUG - Getting Boards
+08/06/2022, 0:17:19 - INFO - Req was made
+08/06/2022, 0:17:19 - DEBUG - Getting Boards
+08/06/2022, 0:17:19 - INFO - Req was made
+08/06/2022, 0:17:19 - INFO - Req was made
+08/06/2022, 0:17:19 - DEBUG - Getting Boards
+08/06/2022, 0:17:21 - INFO - Req was made
+08/06/2022, 0:17:21 - DEBUG - Getting Boards
+08/06/2022, 0:17:21 - INFO - Req was made
+08/06/2022, 0:17:21 - INFO - Req was made
+08/06/2022, 0:17:21 - DEBUG - Getting Boards
+08/06/2022, 0:17:23 - INFO - Req was made
+08/06/2022, 0:17:23 - DEBUG - Getting Boards
+08/06/2022, 0:17:23 - INFO - Req was made
+08/06/2022, 0:17:23 - INFO - Req was made
+08/06/2022, 0:17:23 - DEBUG - Getting Boards
+08/06/2022, 0:17:30 - INFO - Req was made
+08/06/2022, 0:17:30 - INFO - Req was made
+08/06/2022, 0:17:30 - DEBUG - Getting Boards
+08/06/2022, 0:17:32 - INFO - Req was made
+08/06/2022, 0:17:32 - INFO - Req was made
+08/06/2022, 0:17:32 - DEBUG - Getting Boards
+08/06/2022, 0:17:34 - INFO - Req was made
+08/06/2022, 0:17:34 - INFO - Req was made
+08/06/2022, 0:17:34 - DEBUG - Getting Boards
+08/06/2022, 0:18:16 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 0:18:20 - INFO - New connected socket [id: kG3TE10JxdOnOPTOAABl]
+08/06/2022, 0:18:20 - INFO - Req was made
+08/06/2022, 0:18:20 - DEBUG - Getting Boards
+08/06/2022, 0:18:20 - INFO - Req was made
+08/06/2022, 0:18:20 - INFO - Req was made
+08/06/2022, 0:18:20 - DEBUG - Getting Boards
+08/06/2022, 0:18:21 - INFO - Req was made
+08/06/2022, 0:18:21 - DEBUG - Getting Boards
+08/06/2022, 0:19:16 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 0:19:17 - INFO - New connected socket [id: FFp_NZ0P9QDL8xG6AABn]
+08/06/2022, 0:19:17 - INFO - Req was made
+08/06/2022, 0:19:17 - DEBUG - Getting Boards
+08/06/2022, 0:19:18 - INFO - Req was made
+08/06/2022, 0:19:18 - INFO - Req was made
+08/06/2022, 0:19:18 - DEBUG - Getting Boards
+08/06/2022, 0:19:18 - INFO - Req was made
+08/06/2022, 0:19:18 - DEBUG - Getting Boards
+08/06/2022, 0:19:45 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 0:24:46 - INFO - New connected socket [id: enGnGp-AAZRle_F4AABp]
+08/06/2022, 1:36:42 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 1:36:46 - INFO - New connected socket [id: RH6HgYPhpXtPQlfXAABr]
+08/06/2022, 1:42:44 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 1:42:47 - INFO - New connected socket [id: _NnFEZYY3wAFKL_3AABt]
+08/06/2022, 3:08:27 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 3:08:31 - INFO - New connected socket [id: Zt7nkuno6wRF-_k-AABv]
+08/06/2022, 3:09:22 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 3:09:25 - INFO - New connected socket [id: 0vdzqxrbTT-M5-uAAABx]
+08/06/2022, 3:11:27 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 3:14:25 - INFO - New connected socket [id: ImsieeGDiMLHBxMoAABz]
+08/06/2022, 3:15:17 - DEBUG - auth.service - login with username: guest@guest
+08/06/2022, 3:15:18 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+08/06/2022, 3:15:18 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 3:15:22 - INFO - New connected socket [id: tgSyNGb7dQJ-I8jrAAB1]
+08/06/2022, 3:15:23 - INFO - Req was made
+08/06/2022, 3:15:23 - DEBUG - Getting Boards
+08/06/2022, 3:15:23 - INFO - Req was made
+08/06/2022, 3:15:24 - INFO - Req was made
+08/06/2022, 3:15:24 - DEBUG - Getting Boards
+08/06/2022, 3:15:25 - INFO - Req was made
+08/06/2022, 3:15:25 - DEBUG - Getting Boards
+08/06/2022, 3:16:34 - INFO - Req was made
+08/06/2022, 3:16:35 - INFO - Req was made
+08/06/2022, 3:16:35 - DEBUG - Getting Boards
+08/06/2022, 3:16:35 - INFO - Req was made
+08/06/2022, 3:16:35 - INFO - Req was made
+08/06/2022, 3:16:35 - DEBUG - Getting Boards
+08/06/2022, 3:16:36 - INFO - Req was made
+08/06/2022, 3:16:36 - DEBUG - Getting Boards
+08/06/2022, 3:16:39 - INFO - Req was made
+08/06/2022, 3:16:39 - INFO - Req was made
+08/06/2022, 3:16:39 - DEBUG - Getting Boards
+08/06/2022, 3:16:41 - INFO - Req was made
+08/06/2022, 3:16:42 - INFO - Req was made
+08/06/2022, 3:16:42 - DEBUG - Getting Boards
+08/06/2022, 3:16:44 - INFO - Req was made
+08/06/2022, 3:16:44 - DEBUG - Getting Boards
+08/06/2022, 3:16:44 - INFO - Req was made
+08/06/2022, 3:16:44 - INFO - Req was made
+08/06/2022, 3:16:44 - DEBUG - Getting Boards
+08/06/2022, 3:16:47 - INFO - Req was made
+08/06/2022, 3:16:47 - DEBUG - Getting Boards
+08/06/2022, 3:16:47 - INFO - Req was made
+08/06/2022, 3:16:47 - INFO - Req was made
+08/06/2022, 3:16:47 - DEBUG - Getting Boards
+08/06/2022, 3:16:49 - INFO - Req was made
+08/06/2022, 3:16:50 - INFO - Req was made
+08/06/2022, 3:16:50 - DEBUG - Getting Boards
+08/06/2022, 3:24:51 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 3:24:55 - INFO - New connected socket [id: TtQVCY23LhK0I5KCAAB3]
+08/06/2022, 3:24:55 - INFO - Req was made
+08/06/2022, 3:24:55 - DEBUG - Getting Boards
+08/06/2022, 3:24:55 - INFO - Req was made
+08/06/2022, 3:24:55 - INFO - Req was made
+08/06/2022, 3:24:55 - DEBUG - Getting Boards
+08/06/2022, 3:24:55 - INFO - Req was made
+08/06/2022, 3:24:55 - DEBUG - Getting Boards
+08/06/2022, 3:25:01 - INFO - Req was made
+08/06/2022, 3:25:01 - INFO - Req was made
+08/06/2022, 3:25:01 - DEBUG - Getting Boards
+08/06/2022, 3:25:03 - INFO - Req was made
+08/06/2022, 3:25:03 - INFO - Req was made
+08/06/2022, 3:25:03 - DEBUG - Getting Boards
+08/06/2022, 3:25:05 - INFO - Req was made
+08/06/2022, 3:25:05 - INFO - Req was made
+08/06/2022, 3:25:05 - DEBUG - Getting Boards
+08/06/2022, 3:25:17 - INFO - Req was made
+08/06/2022, 3:25:17 - INFO - Req was made
+08/06/2022, 3:25:17 - DEBUG - Getting Boards
+08/06/2022, 3:30:49 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:14:19 - INFO - Server is running on port: 3030
+08/06/2022, 9:14:36 - INFO - New connected socket [id: zDGGHVy8x0mlhsAYAAAB]
+08/06/2022, 9:15:52 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:15:53 - INFO - New connected socket [id: rGLcSR408DsGPv-PAAAD]
+08/06/2022, 9:15:57 - DEBUG - auth.service - login with username: guest@guest
+08/06/2022, 9:15:58 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+08/06/2022, 9:15:58 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:15:58 - INFO - New connected socket [id: XdZojgpcYxe6-gfwAAAF]
+08/06/2022, 9:15:58 - INFO - Req was made
+08/06/2022, 9:15:58 - DEBUG - Getting Boards
+08/06/2022, 9:15:59 - INFO - Req was made
+08/06/2022, 9:15:59 - INFO - Req was made
+08/06/2022, 9:15:59 - DEBUG - Getting Boards
+08/06/2022, 9:15:59 - INFO - Req was made
+08/06/2022, 9:15:59 - DEBUG - Getting Boards
+08/06/2022, 9:17:08 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:17:09 - INFO - New connected socket [id: EoGzOxSGvQl6sIFjAAAH]
+08/06/2022, 9:19:21 - DEBUG - auth.service - login with username: guest@guest
+08/06/2022, 9:19:21 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+08/06/2022, 9:19:21 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:19:23 - INFO - New connected socket [id: EUkV4Ju2IXHd1rm7AAAJ]
+08/06/2022, 9:19:24 - INFO - Req was made
+08/06/2022, 9:19:24 - DEBUG - Getting Boards
+08/06/2022, 9:19:24 - INFO - Req was made
+08/06/2022, 9:19:24 - INFO - Req was made
+08/06/2022, 9:19:24 - DEBUG - Getting Boards
+08/06/2022, 9:19:25 - INFO - Req was made
+08/06/2022, 9:19:25 - DEBUG - Getting Boards
+08/06/2022, 9:19:45 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:19:48 - INFO - New connected socket [id: 3hC1PWSmkuBBgdRTAAAL]
+08/06/2022, 9:19:48 - INFO - Req was made
+08/06/2022, 9:19:48 - DEBUG - Getting Boards
+08/06/2022, 9:19:48 - INFO - Req was made
+08/06/2022, 9:19:48 - INFO - Req was made
+08/06/2022, 9:19:48 - DEBUG - Getting Boards
+08/06/2022, 9:19:49 - INFO - Req was made
+08/06/2022, 9:19:49 - DEBUG - Getting Boards
+08/06/2022, 9:19:55 - INFO - Req was made
+08/06/2022, 9:19:56 - INFO - Req was made
+08/06/2022, 9:19:56 - DEBUG - Getting Boards
+08/06/2022, 9:19:56 - INFO - Req was made
+08/06/2022, 9:19:56 - INFO - Req was made
+08/06/2022, 9:19:56 - DEBUG - Getting Boards
+08/06/2022, 9:19:56 - INFO - Req was made
+08/06/2022, 9:19:56 - DEBUG - Getting Boards
+08/06/2022, 9:20:05 - INFO - Req was made
+08/06/2022, 9:20:06 - INFO - Req was made
+08/06/2022, 9:20:06 - DEBUG - Getting Boards
+08/06/2022, 9:20:09 - INFO - Req was made
+08/06/2022, 9:20:09 - INFO - Req was made
+08/06/2022, 9:20:09 - DEBUG - Getting Boards
+08/06/2022, 9:20:49 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:20:52 - INFO - New connected socket [id: 6oKZYcxUtGW2lT4sAAAN]
+08/06/2022, 9:20:52 - INFO - Req was made
+08/06/2022, 9:20:52 - DEBUG - Getting Boards
+08/06/2022, 9:20:52 - INFO - Req was made
+08/06/2022, 9:20:52 - INFO - Req was made
+08/06/2022, 9:20:52 - DEBUG - Getting Boards
+08/06/2022, 9:20:53 - INFO - Req was made
+08/06/2022, 9:20:53 - DEBUG - Getting Boards
+08/06/2022, 9:23:27 - INFO - Req was made
+08/06/2022, 9:23:27 - DEBUG - Getting Boards
+08/06/2022, 9:23:27 - INFO - Req was made
+08/06/2022, 9:23:28 - INFO - Req was made
+08/06/2022, 9:23:28 - DEBUG - Getting Boards
+08/06/2022, 9:23:28 - INFO - Req was made
+08/06/2022, 9:23:28 - DEBUG - Getting Boards
+08/06/2022, 9:24:47 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:24:51 - INFO - New connected socket [id: ljS0jndd_QwkPjzCAAAP]
+08/06/2022, 9:24:52 - INFO - Req was made
+08/06/2022, 9:24:52 - DEBUG - Getting Boards
+08/06/2022, 9:24:52 - INFO - Req was made
+08/06/2022, 9:24:52 - INFO - Req was made
+08/06/2022, 9:24:52 - DEBUG - Getting Boards
+08/06/2022, 9:24:53 - INFO - Req was made
+08/06/2022, 9:24:53 - DEBUG - Getting Boards
+08/06/2022, 9:24:58 - INFO - Req was made
+08/06/2022, 9:24:59 - INFO - Req was made
+08/06/2022, 9:24:59 - DEBUG - Getting Boards
+08/06/2022, 9:25:05 - INFO - Req was made
+08/06/2022, 9:25:05 - INFO - Req was made
+08/06/2022, 9:25:05 - DEBUG - Getting Boards
+08/06/2022, 9:27:52 - INFO - Req was made
+08/06/2022, 9:27:52 - INFO - Req was made
+08/06/2022, 9:27:52 - DEBUG - Getting Boards
+08/06/2022, 9:27:54 - INFO - Req was made
+08/06/2022, 9:27:54 - INFO - Req was made
+08/06/2022, 9:27:54 - DEBUG - Getting Boards
+08/06/2022, 9:28:00 - INFO - Req was made
+08/06/2022, 9:28:00 - INFO - Req was made
+08/06/2022, 9:28:00 - DEBUG - Getting Boards
+08/06/2022, 9:28:06 - INFO - Req was made
+08/06/2022, 9:28:06 - INFO - Req was made
+08/06/2022, 9:28:06 - DEBUG - Getting Boards
+08/06/2022, 9:28:17 - INFO - Req was made
+08/06/2022, 9:28:17 - INFO - Req was made
+08/06/2022, 9:28:17 - DEBUG - Getting Boards
+08/06/2022, 9:28:21 - INFO - Req was made
+08/06/2022, 9:28:21 - INFO - Req was made
+08/06/2022, 9:28:21 - DEBUG - Getting Boards
+08/06/2022, 9:28:23 - INFO - Req was made
+08/06/2022, 9:28:23 - INFO - Req was made
+08/06/2022, 9:28:23 - DEBUG - Getting Boards
+08/06/2022, 9:28:30 - INFO - Req was made
+08/06/2022, 9:28:30 - INFO - Req was made
+08/06/2022, 9:28:30 - DEBUG - Getting Boards
+08/06/2022, 9:28:31 - INFO - Req was made
+08/06/2022, 9:28:31 - INFO - Req was made
+08/06/2022, 9:28:31 - DEBUG - Getting Boards
+08/06/2022, 9:28:49 - INFO - Req was made
+08/06/2022, 9:28:50 - INFO - Req was made
+08/06/2022, 9:28:50 - DEBUG - Getting Boards
+08/06/2022, 9:28:51 - INFO - Req was made
+08/06/2022, 9:28:51 - INFO - Req was made
+08/06/2022, 9:28:51 - DEBUG - Getting Boards
+08/06/2022, 9:28:52 - INFO - Req was made
+08/06/2022, 9:28:52 - INFO - Req was made
+08/06/2022, 9:28:52 - DEBUG - Getting Boards
+08/06/2022, 9:28:53 - INFO - Req was made
+08/06/2022, 9:28:53 - INFO - Req was made
+08/06/2022, 9:28:53 - DEBUG - Getting Boards
+08/06/2022, 9:28:55 - INFO - Req was made
+08/06/2022, 9:28:55 - INFO - Req was made
+08/06/2022, 9:28:55 - DEBUG - Getting Boards
+08/06/2022, 9:30:39 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:30:41 - INFO - New connected socket [id: i7g9HjkFdo7JGEteAAAR]
+08/06/2022, 9:30:42 - INFO - Req was made
+08/06/2022, 9:30:42 - DEBUG - Getting Boards
+08/06/2022, 9:30:42 - INFO - Req was made
+08/06/2022, 9:30:42 - INFO - Req was made
+08/06/2022, 9:30:42 - DEBUG - Getting Boards
+08/06/2022, 9:30:42 - INFO - Req was made
+08/06/2022, 9:30:42 - DEBUG - Getting Boards
+08/06/2022, 9:31:38 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:31:41 - INFO - New connected socket [id: bP7T1CTLtgQXXeb5AAAT]
+08/06/2022, 9:31:41 - INFO - Req was made
+08/06/2022, 9:31:41 - DEBUG - Getting Boards
+08/06/2022, 9:31:41 - INFO - Req was made
+08/06/2022, 9:31:41 - INFO - Req was made
+08/06/2022, 9:31:41 - DEBUG - Getting Boards
+08/06/2022, 9:31:42 - INFO - Req was made
+08/06/2022, 9:31:42 - DEBUG - Getting Boards
+08/06/2022, 9:43:35 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:43:40 - INFO - New connected socket [id: CvlE0lCaiqSB6ZwiAAAV]
+08/06/2022, 9:43:40 - INFO - Req was made
+08/06/2022, 9:43:40 - DEBUG - Getting Boards
+08/06/2022, 9:43:41 - INFO - Req was made
+08/06/2022, 9:43:41 - INFO - Req was made
+08/06/2022, 9:43:41 - DEBUG - Getting Boards
+08/06/2022, 9:43:42 - INFO - Req was made
+08/06/2022, 9:43:42 - DEBUG - Getting Boards
+08/06/2022, 9:43:44 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 9:43:47 - INFO - New connected socket [id: aBVG0PGnKmRohpCLAAAX]
+08/06/2022, 9:43:47 - INFO - Req was made
+08/06/2022, 9:43:47 - DEBUG - Getting Boards
+08/06/2022, 9:43:47 - INFO - Req was made
+08/06/2022, 9:43:48 - INFO - Req was made
+08/06/2022, 9:43:48 - DEBUG - Getting Boards
+08/06/2022, 9:43:48 - INFO - Req was made
+08/06/2022, 9:43:48 - DEBUG - Getting Boards
+08/06/2022, 9:43:53 - INFO - Req was made
+08/06/2022, 9:43:53 - INFO - Req was made
+08/06/2022, 9:43:53 - DEBUG - Getting Boards
+08/06/2022, 9:43:53 - INFO - Req was made
+08/06/2022, 9:43:54 - INFO - Req was made
+08/06/2022, 9:43:54 - DEBUG - Getting Boards
+08/06/2022, 9:43:54 - INFO - Req was made
+08/06/2022, 9:43:54 - DEBUG - Getting Boards
+08/06/2022, 9:43:58 - INFO - Req was made
+08/06/2022, 9:43:58 - INFO - Req was made
+08/06/2022, 9:43:58 - DEBUG - Getting Boards
+08/06/2022, 9:43:59 - INFO - Req was made
+08/06/2022, 9:43:59 - INFO - Req was made
+08/06/2022, 9:43:59 - DEBUG - Getting Boards
+08/06/2022, 9:44:01 - INFO - Req was made
+08/06/2022, 9:44:01 - INFO - Req was made
+08/06/2022, 9:44:01 - DEBUG - Getting Boards
+08/06/2022, 9:44:03 - INFO - Req was made
+08/06/2022, 9:44:03 - INFO - Req was made
+08/06/2022, 9:44:03 - DEBUG - Getting Boards
+08/06/2022, 9:44:04 - INFO - Req was made
+08/06/2022, 9:44:04 - INFO - Req was made
+08/06/2022, 9:44:04 - DEBUG - Getting Boards
+08/06/2022, 9:44:06 - INFO - Req was made
+08/06/2022, 9:44:06 - INFO - Req was made
+08/06/2022, 9:44:06 - DEBUG - Getting Boards
+08/06/2022, 9:44:09 - INFO - Req was made
+08/06/2022, 9:44:09 - INFO - Req was made
+08/06/2022, 9:44:09 - DEBUG - Getting Boards
+08/06/2022, 9:44:10 - INFO - Req was made
+08/06/2022, 9:44:10 - INFO - Req was made
+08/06/2022, 9:44:10 - DEBUG - Getting Boards
+08/06/2022, 9:44:12 - INFO - Req was made
+08/06/2022, 9:44:13 - INFO - Req was made
+08/06/2022, 9:44:13 - DEBUG - Getting Boards
+08/06/2022, 9:44:13 - INFO - Req was made
+08/06/2022, 9:44:13 - INFO - Req was made
+08/06/2022, 9:44:13 - DEBUG - Getting Boards
+08/06/2022, 9:44:16 - INFO - Req was made
+08/06/2022, 9:44:16 - INFO - Req was made
+08/06/2022, 9:44:16 - DEBUG - Getting Boards
+08/06/2022, 9:44:17 - INFO - Req was made
+08/06/2022, 9:44:17 - DEBUG - Getting Boards
+08/06/2022, 9:44:17 - INFO - Req was made
+08/06/2022, 9:44:18 - INFO - Req was made
+08/06/2022, 9:44:18 - DEBUG - Getting Boards
+08/06/2022, 9:44:18 - INFO - Req was made
+08/06/2022, 9:44:18 - INFO - Req was made
+08/06/2022, 9:44:18 - DEBUG - Getting Boards
+08/06/2022, 9:44:23 - INFO - Req was made
+08/06/2022, 9:44:23 - INFO - Req was made
+08/06/2022, 9:44:23 - DEBUG - Getting Boards
+08/06/2022, 9:44:25 - INFO - Req was made
+08/06/2022, 9:44:25 - INFO - Req was made
+08/06/2022, 9:44:25 - DEBUG - Getting Boards
+08/06/2022, 9:44:28 - INFO - Req was made
+08/06/2022, 9:44:28 - INFO - Req was made
+08/06/2022, 9:44:28 - DEBUG - Getting Boards
+08/06/2022, 9:44:31 - INFO - Req was made
+08/06/2022, 9:44:31 - INFO - Req was made
+08/06/2022, 9:44:31 - DEBUG - Getting Boards
+08/06/2022, 9:44:37 - INFO - Req was made
+08/06/2022, 9:44:37 - INFO - Req was made
+08/06/2022, 9:44:37 - DEBUG - Getting Boards
+08/06/2022, 9:44:40 - INFO - Req was made
+08/06/2022, 9:44:40 - INFO - Req was made
+08/06/2022, 9:44:40 - DEBUG - Getting Boards
+08/06/2022, 9:44:41 - INFO - Req was made
+08/06/2022, 9:44:41 - INFO - Req was made
+08/06/2022, 9:44:41 - DEBUG - Getting Boards
+08/06/2022, 9:44:43 - INFO - Req was made
+08/06/2022, 9:44:43 - INFO - Req was made
+08/06/2022, 9:44:43 - DEBUG - Getting Boards
+08/06/2022, 9:44:44 - INFO - Req was made
+08/06/2022, 9:44:44 - INFO - Req was made
+08/06/2022, 9:44:44 - DEBUG - Getting Boards
+08/06/2022, 9:44:46 - INFO - Req was made
+08/06/2022, 9:44:47 - INFO - Req was made
+08/06/2022, 9:44:47 - DEBUG - Getting Boards
+08/06/2022, 9:44:48 - INFO - Req was made
+08/06/2022, 9:44:48 - INFO - Req was made
+08/06/2022, 9:44:48 - DEBUG - Getting Boards
+08/06/2022, 9:44:51 - INFO - Req was made
+08/06/2022, 9:44:51 - INFO - Req was made
+08/06/2022, 9:44:51 - DEBUG - Getting Boards
+08/06/2022, 9:44:54 - INFO - Req was made
+08/06/2022, 9:44:54 - INFO - Req was made
+08/06/2022, 9:44:54 - DEBUG - Getting Boards
+08/06/2022, 9:44:56 - INFO - Req was made
+08/06/2022, 9:44:56 - INFO - Req was made
+08/06/2022, 9:44:56 - DEBUG - Getting Boards
+08/06/2022, 9:44:57 - INFO - Req was made
+08/06/2022, 9:44:58 - INFO - Req was made
+08/06/2022, 9:44:58 - DEBUG - Getting Boards
+08/06/2022, 9:45:00 - INFO - Req was made
+08/06/2022, 9:45:00 - INFO - Req was made
+08/06/2022, 9:45:00 - DEBUG - Getting Boards
+08/06/2022, 9:45:04 - INFO - Req was made
+08/06/2022, 9:45:04 - INFO - Req was made
+08/06/2022, 9:45:04 - DEBUG - Getting Boards
+08/06/2022, 9:45:42 - INFO - Req was made
+08/06/2022, 9:45:42 - INFO - Req was made
+08/06/2022, 9:45:42 - DEBUG - Getting Boards
+08/06/2022, 9:55:21 - INFO - Req was made
+08/06/2022, 9:55:21 - INFO - Req was made
+08/06/2022, 9:55:21 - DEBUG - Getting Boards
+08/06/2022, 9:55:23 - INFO - Req was made
+08/06/2022, 9:55:23 - INFO - Req was made
+08/06/2022, 9:55:23 - DEBUG - Getting Boards
+08/06/2022, 9:55:35 - INFO - Req was made
+08/06/2022, 9:55:35 - INFO - Req was made
+08/06/2022, 9:55:35 - DEBUG - Getting Boards
+08/06/2022, 10:39:14 - INFO - Req was made
+08/06/2022, 10:39:14 - DEBUG - Getting Boards
+08/06/2022, 10:39:14 - INFO - Req was made
+08/06/2022, 10:39:16 - INFO - Req was made
+08/06/2022, 10:39:16 - INFO - Req was made
+08/06/2022, 10:39:16 - DEBUG - Getting Boards
+08/06/2022, 10:39:18 - INFO - Req was made
+08/06/2022, 10:39:18 - INFO - Req was made
+08/06/2022, 10:39:18 - DEBUG - Getting Boards
+08/06/2022, 10:39:20 - INFO - Req was made
+08/06/2022, 10:39:20 - INFO - Req was made
+08/06/2022, 10:39:20 - DEBUG - Getting Boards
+08/06/2022, 10:39:21 - INFO - Req was made
+08/06/2022, 10:39:21 - INFO - Req was made
+08/06/2022, 10:39:21 - DEBUG - Getting Boards
+08/06/2022, 10:41:59 - INFO - Req was made
+08/06/2022, 10:41:59 - INFO - Req was made
+08/06/2022, 10:41:59 - DEBUG - Getting Boards
+08/06/2022, 10:42:09 - INFO - Req was made
+08/06/2022, 10:42:10 - INFO - Req was made
+08/06/2022, 10:42:10 - DEBUG - Getting Boards
+08/06/2022, 10:52:13 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 10:52:19 - INFO - Req was made
+08/06/2022, 10:52:19 - DEBUG - Getting Boards
+08/06/2022, 10:52:19 - INFO - New connected socket [id: gy7cmthRF84HQeNZAAAZ]
+08/06/2022, 10:52:19 - INFO - Req was made
+08/06/2022, 10:52:19 - INFO - Req was made
+08/06/2022, 10:52:19 - DEBUG - Getting Boards
+08/06/2022, 10:52:20 - INFO - Req was made
+08/06/2022, 10:52:20 - DEBUG - Getting Boards
+08/06/2022, 11:04:45 - INFO - Req was made
+08/06/2022, 11:04:45 - INFO - Req was made
+08/06/2022, 11:04:45 - DEBUG - Getting Boards
+08/06/2022, 11:04:47 - INFO - Req was made
+08/06/2022, 11:04:48 - INFO - Req was made
+08/06/2022, 11:04:48 - DEBUG - Getting Boards
+08/06/2022, 11:04:49 - INFO - Req was made
+08/06/2022, 11:04:49 - INFO - Req was made
+08/06/2022, 11:04:49 - DEBUG - Getting Boards
+08/06/2022, 11:04:51 - INFO - Req was made
+08/06/2022, 11:04:51 - INFO - Req was made
+08/06/2022, 11:04:51 - DEBUG - Getting Boards
+08/06/2022, 11:04:53 - INFO - Req was made
+08/06/2022, 11:04:54 - INFO - Req was made
+08/06/2022, 11:04:54 - DEBUG - Getting Boards
+08/06/2022, 11:04:55 - INFO - Req was made
+08/06/2022, 11:04:55 - INFO - Req was made
+08/06/2022, 11:04:55 - DEBUG - Getting Boards
+08/06/2022, 11:04:56 - INFO - Req was made
+08/06/2022, 11:04:56 - INFO - Req was made
+08/06/2022, 11:04:56 - DEBUG - Getting Boards
+08/06/2022, 11:05:00 - INFO - Req was made
+08/06/2022, 11:05:00 - INFO - Req was made
+08/06/2022, 11:05:00 - DEBUG - Getting Boards
+08/06/2022, 11:09:02 - INFO - New connected socket [id: 9ys0hNVv9TfU7Vd2AAAb]
+08/06/2022, 11:10:59 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 11:11:19 - INFO - New connected socket [id: ZDFLVz4fKxCZHz-KAAAd]
+08/06/2022, 11:12:17 - DEBUG - auth.service - login with username: guest@guest
+08/06/2022, 11:12:17 - INFO - User login:  | {"_id":"6298e64b7a4a078288afd1bf","username":"guest@guest","fullname":"Guest","isAdmin":false}
+08/06/2022, 11:12:17 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 11:12:23 - INFO - Req was made
+08/06/2022, 11:12:23 - DEBUG - Getting Boards
+08/06/2022, 11:12:23 - INFO - New connected socket [id: NG_mEbgi1Nhc7ErpAAAf]
+08/06/2022, 11:12:23 - INFO - Req was made
+08/06/2022, 11:12:23 - INFO - Req was made
+08/06/2022, 11:12:24 - DEBUG - Getting Boards
+08/06/2022, 11:12:26 - INFO - Req was made
+08/06/2022, 11:12:26 - DEBUG - Getting Boards
+08/06/2022, 11:12:35 - INFO - Req was made
+08/06/2022, 11:12:35 - INFO - Req was made
+08/06/2022, 11:12:35 - DEBUG - Getting Boards
+08/06/2022, 11:12:37 - INFO - Req was made
+08/06/2022, 11:12:37 - INFO - Req was made
+08/06/2022, 11:12:37 - DEBUG - Getting Boards
+08/06/2022, 11:12:38 - INFO - Req was made
+08/06/2022, 11:12:38 - INFO - Req was made
+08/06/2022, 11:12:38 - DEBUG - Getting Boards
+08/06/2022, 11:12:41 - INFO - Req was made
+08/06/2022, 11:12:41 - INFO - Req was made
+08/06/2022, 11:12:41 - DEBUG - Getting Boards
+08/06/2022, 11:12:42 - INFO - Req was made
+08/06/2022, 11:12:42 - INFO - Req was made
+08/06/2022, 11:12:42 - DEBUG - Getting Boards
+08/06/2022, 11:12:44 - INFO - Req was made
+08/06/2022, 11:12:44 - INFO - Req was made
+08/06/2022, 11:12:44 - DEBUG - Getting Boards
+08/06/2022, 11:12:48 - INFO - Req was made
+08/06/2022, 11:12:48 - INFO - Req was made
+08/06/2022, 11:12:48 - DEBUG - Getting Boards
+08/06/2022, 11:13:04 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 11:13:05 - INFO - Socket disconnected [id: undefined]
+08/06/2022, 11:23:50 - INFO - Server is running on port: 3030
+08/06/2022, 11:24:30 - INFO - Server is running on port: 3030
