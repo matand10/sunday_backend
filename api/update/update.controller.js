@@ -35,11 +35,11 @@ async function addUpdate(req, res) {
     try {
         var update = req.body
 
-        update.byUser = { _id: loggedinUser._id, fullname: loggedinUser.fullname }
+        update.byUser = { ...update.byUser }
         update = await updateService.add(update)
 
 
-
+        // console.log('update', update);
 
         // prepare the updated review for sending out
         // review.aboutUser = await userService.getById(review.aboutUserId)

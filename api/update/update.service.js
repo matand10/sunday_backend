@@ -72,10 +72,9 @@ async function remove(updateId) {
 
 
 async function add(update) {
-    // console.log(update)
     try {
         const updateToAdd = {
-            byUser: { _id: ObjectId(update.byUser._id), fullname: update.byUser.fullname },
+            byUser: { _id: ObjectId(update.byUser._id), fullname: update.byUser.fullname, username: update.byUser.username, userImg: update.byUser.userImg },
             aboutTaskId: ObjectId(update.taskId),
             txt: update.txt,
             updateDate: update.updateDate,
