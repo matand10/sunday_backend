@@ -18,13 +18,13 @@ async function login(username, password) {
     return user
 }
 
-async function signup(username, password, fullname) {
+async function signup(username, password, fullname, userImg) {
     const saltRounds = 10
     logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
     if (!username || !password || !fullname) return Promise.reject('fullname, username and password are required!')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    let userToAdd = await userService.add({ username, password: hash, fullname, isAdmin: false })
+    let userToAdd = await userService.add({ username, password: hash, fullname, isAdmin: false, userImg })
     return userToAdd
 }
 

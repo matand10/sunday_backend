@@ -1,7 +1,6 @@
 const logger = require('../../services/logger.service')
 const userService = require('../user/user.service')
 const authService = require('../auth/auth.service')
-// const socketService = require('../../services/socket.service')
 const updateService = require('./update.service')
 
 async function getUpdates(req, res) {
@@ -39,28 +38,12 @@ async function addUpdate(req, res) {
         update = await updateService.add(update)
 
 
-        // console.log('update', update);
-
-        // prepare the updated review for sending out
-        // review.aboutUser = await userService.getById(review.aboutUserId)
-
-        // Give the user credit for adding a review
-        // var user = await userService.getById(review.byUserId)
-        // user.score += 10
-        // loggedinUser.score += 10
-
-        // loggedinUser = await userService.update(loggedinUser)
+        
         update.byUserId = loggedinUser._id
 
         // User info is saved also in the login-token, update it
         const loginToken = authService.getLoginToken(loggedinUser)
         res.cookie('loginToken', loginToken)
-
-
-        // const fullUser = await userService.getById(loggedinUser._id)
-        // socketService.broadcast({type: 'review-added', data: review, userId: review.byUserId})
-        // socketService.emitToUser({type: 'review-about-you', data: review, userId: review.aboutUserId})
-        // socketService.emitTo({type: 'user-updated', data: fullUser, label: fullUser._id})
 
         res.send(update)
 
