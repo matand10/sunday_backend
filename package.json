@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "SET SECRET1=Tamir && nodemon --ignore \"./data\" server.js"
